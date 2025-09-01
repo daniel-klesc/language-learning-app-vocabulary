@@ -1,0 +1,408 @@
+{
+  "language_pair": "cs-vi",
+  "level": "1A",
+  "category": "essentials",
+  "description": "Basic greetings, courtesy phrases, and emergency expressions",
+  "words": [
+    {
+      "id": 1001,
+      "word": "ahoj",
+      "translation": "xin chào",
+      "romanization": "xin chào",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": 1002,
+      "word": "dobrý den",
+      "translation": "chào buổi sáng",
+      "romanization": "chào buổi sáng",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": 1003,
+      "word": "nashledanou",
+      "translation": "tạm biệt",
+      "romanization": "tạm biệt",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": 1004,
+      "word": "ano",
+      "translation": "vâng/có",
+      "romanization": "vâng/có",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1005,
+      "word": "ne",
+      "translation": "không",
+      "romanization": "không",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1006,
+      "word": "prosím",
+      "translation": "xin vui lòng",
+      "romanization": "xin vui lòng",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": 1007,
+      "word": "děkuji",
+      "translation": "cảm ơn",
+      "romanization": "cảm ơn",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": 1008,
+      "word": "promiňte",
+      "translation": "xin lỗi",
+      "romanization": "xin lỗi",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": 1009,
+      "word": "pomoc",
+      "translation": "giúp đỡ",
+      "romanization": "giúp đỡ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1010,
+      "word": "co",
+      "translation": "cái gì",
+      "romanization": "cái gì",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1011,
+      "word": "kde",
+      "translation": "ở đâu",
+      "romanization": "ở đâu",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1012,
+      "word": "kdo",
+      "translation": "ai",
+      "romanization": "ai",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1013,
+      "word": "kdy",
+      "translation": "khi nào",
+      "romanization": "khi nào",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1014,
+      "word": "proč",
+      "translation": "tại sao",
+      "romanization": "tại sao",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1015,
+      "word": "jak",
+      "translation": "như thế nào",
+      "romanization": "như thế nào",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1016,
+      "word": "kolik",
+      "translation": "bao nhiêu",
+      "romanization": "bao nhiêu",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1017,
+      "word": "nerozumím",
+      "translation": "tôi không hiểu",
+      "romanization": "tôi không hiểu",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1018,
+      "word": "mluvíte anglicky",
+      "translation": "bạn nói tiếng Anh không",
+      "romanization": "bạn nói tiếng Anh không",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1019,
+      "word": "pomalu",
+      "translation": "chậm thôi",
+      "romanization": "chậm thôi",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1020,
+      "word": "opakujte",
+      "translation": "xin nhắc lại",
+      "romanization": "xin nhắc lại",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1021,
+      "word": "dobré ráno",
+      "translation": "chào buổi sáng",
+      "romanization": "chào buổi sáng",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": 1022,
+      "word": "dobrý večer",
+      "translation": "chào buổi tối",
+      "romanization": "chào buổi tối",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": 1023,
+      "word": "dobrou noc",
+      "translation": "chúc ngủ ngon",
+      "romanization": "chúc ngủ ngon",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": 1024,
+      "word": "jak se máte",
+      "translation": "bạn khỏe không",
+      "romanization": "bạn khỏe không",
+      "category": "greetings",
+      "difficulty": 1
+    },
+    {
+      "id": 1025,
+      "word": "dobře",
+      "translation": "tốt",
+      "romanization": "tốt",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1026,
+      "word": "špatně",
+      "translation": "xấu/tệ",
+      "romanization": "xấu/tệ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1027,
+      "word": "možná",
+      "translation": "có thể",
+      "romanization": "có thể",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1028,
+      "word": "tady",
+      "translation": "ở đây",
+      "romanization": "ở đây",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1029,
+      "word": "tam",
+      "translation": "ở đó",
+      "romanization": "ở đó",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1030,
+      "word": "teď",
+      "translation": "bây giờ",
+      "romanization": "bây giờ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1031,
+      "word": "později",
+      "translation": "sau này",
+      "romanization": "sau này",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1032,
+      "word": "brzy",
+      "translation": "sớm",
+      "romanization": "sớm",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1033,
+      "word": "voda",
+      "translation": "nước",
+      "romanization": "nước",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1034,
+      "word": "jídlo",
+      "translation": "thức ăn",
+      "romanization": "thức ăn",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1035,
+      "word": "toaleta",
+      "translation": "nhà vệ sinh",
+      "romanization": "nhà vệ sinh",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1036,
+      "word": "nemocnice",
+      "translation": "bệnh viện",
+      "romanization": "bệnh viện",
+      "category": "health",
+      "difficulty": 1
+    },
+    {
+      "id": 1037,
+      "word": "policie",
+      "translation": "cảnh sát",
+      "romanization": "cảnh sát",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1038,
+      "word": "nebezpečí",
+      "translation": "nguy hiểm",
+      "romanization": "nguy hiểm",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1039,
+      "word": "stop",
+      "translation": "dừng lại",
+      "romanization": "dừng lại",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1040,
+      "word": "otevřeno",
+      "translation": "mở cửa",
+      "romanization": "mở cửa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1041,
+      "word": "zavřeno",
+      "translation": "đóng cửa",
+      "romanization": "đóng cửa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1042,
+      "word": "vstup",
+      "translation": "lối vào",
+      "romanization": "lối vào",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1043,
+      "word": "východ",
+      "translation": "lối ra",
+      "romanization": "lối ra",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1044,
+      "word": "muž",
+      "translation": "đàn ông",
+      "romanization": "đàn ông",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1045,
+      "word": "žena",
+      "translation": "phụ nữ",
+      "romanization": "phụ nữ",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1046,
+      "word": "dítě",
+      "translation": "trẻ em",
+      "romanization": "trẻ em",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1047,
+      "word": "já",
+      "translation": "tôi",
+      "romanization": "tôi",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1048,
+      "word": "ty/vy",
+      "translation": "bạn",
+      "romanization": "bạn",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1049,
+      "word": "on/ona",
+      "translation": "anh ấy/cô ấy",
+      "romanization": "anh ấy/cô ấy",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1050,
+      "word": "my",
+      "translation": "chúng tôi",
+      "romanization": "chúng tôi",
+      "category": "basics",
+      "difficulty": 1
+    }
+  ]
+}
