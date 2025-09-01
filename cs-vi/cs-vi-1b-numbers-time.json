@@ -1,0 +1,808 @@
+{
+  "language_pair": "cs-vi",
+  "level": "1B",
+  "category": "numbers-time",
+  "description": "Numbers, days, months, time expressions",
+  "words": [
+    {
+      "id": 1051,
+      "word": "nula",
+      "translation": "số không",
+      "romanization": "số không",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1052,
+      "word": "jeden",
+      "translation": "một",
+      "romanization": "một",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1053,
+      "word": "dva",
+      "translation": "hai",
+      "romanization": "hai",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1054,
+      "word": "tři",
+      "translation": "ba",
+      "romanization": "ba",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1055,
+      "word": "čtyři",
+      "translation": "bốn",
+      "romanization": "bốn",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1056,
+      "word": "pět",
+      "translation": "năm",
+      "romanization": "năm",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1057,
+      "word": "šest",
+      "translation": "sáu",
+      "romanization": "sáu",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1058,
+      "word": "sedm",
+      "translation": "bảy",
+      "romanization": "bảy",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1059,
+      "word": "osm",
+      "translation": "tám",
+      "romanization": "tám",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1060,
+      "word": "devět",
+      "translation": "chín",
+      "romanization": "chín",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1061,
+      "word": "deset",
+      "translation": "mười",
+      "romanization": "mười",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1062,
+      "word": "jedenáct",
+      "translation": "mười một",
+      "romanization": "mười một",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1063,
+      "word": "dvanáct",
+      "translation": "mười hai",
+      "romanization": "mười hai",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1064,
+      "word": "třináct",
+      "translation": "mười ba",
+      "romanization": "mười ba",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1065,
+      "word": "čtrnáct",
+      "translation": "mười bốn",
+      "romanization": "mười bốn",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1066,
+      "word": "patnáct",
+      "translation": "mười lăm",
+      "romanization": "mười lăm",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1067,
+      "word": "dvacet",
+      "translation": "hai mươi",
+      "romanization": "hai mươi",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1068,
+      "word": "třicet",
+      "translation": "ba mươi",
+      "romanization": "ba mươi",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1069,
+      "word": "čtyřicet",
+      "translation": "bốn mươi",
+      "romanization": "bốn mươi",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1070,
+      "word": "padesát",
+      "translation": "năm mươi",
+      "romanization": "năm mươi",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1071,
+      "word": "šedesát",
+      "translation": "sáu mươi",
+      "romanization": "sáu mươi",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1072,
+      "word": "sedmdesát",
+      "translation": "bảy mươi",
+      "romanization": "bảy mươi",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1073,
+      "word": "osmdesát",
+      "translation": "tám mươi",
+      "romanization": "tám mươi",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1074,
+      "word": "devadesát",
+      "translation": "chín mươi",
+      "romanization": "chín mươi",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1075,
+      "word": "sto",
+      "translation": "một trăm",
+      "romanization": "một trăm",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1076,
+      "word": "tisíc",
+      "translation": "một nghìn",
+      "romanization": "một nghìn",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1077,
+      "word": "pondělí",
+      "translation": "thứ hai",
+      "romanization": "thứ hai",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1078,
+      "word": "úterý",
+      "translation": "thứ ba",
+      "romanization": "thứ ba",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1079,
+      "word": "středa",
+      "translation": "thứ tư",
+      "romanization": "thứ tư",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1080,
+      "word": "čtvrtek",
+      "translation": "thứ năm",
+      "romanization": "thứ năm",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1081,
+      "word": "pátek",
+      "translation": "thứ sáu",
+      "romanization": "thứ sáu",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1082,
+      "word": "sobota",
+      "translation": "thứ bảy",
+      "romanization": "thứ bảy",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1083,
+      "word": "neděle",
+      "translation": "chủ nhật",
+      "romanization": "chủ nhật",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1084,
+      "word": "leden",
+      "translation": "tháng một",
+      "romanization": "tháng một",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1085,
+      "word": "únor",
+      "translation": "tháng hai",
+      "romanization": "tháng hai",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1086,
+      "word": "březen",
+      "translation": "tháng ba",
+      "romanization": "tháng ba",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1087,
+      "word": "duben",
+      "translation": "tháng tư",
+      "romanization": "tháng tư",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1088,
+      "word": "květen",
+      "translation": "tháng năm",
+      "romanization": "tháng năm",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1089,
+      "word": "červen",
+      "translation": "tháng sáu",
+      "romanization": "tháng sáu",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1090,
+      "word": "červenec",
+      "translation": "tháng bảy",
+      "romanization": "tháng bảy",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1091,
+      "word": "srpen",
+      "translation": "tháng tám",
+      "romanization": "tháng tám",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1092,
+      "word": "září",
+      "translation": "tháng chín",
+      "romanization": "tháng chín",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1093,
+      "word": "říjen",
+      "translation": "tháng mười",
+      "romanization": "tháng mười",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1094,
+      "word": "listopad",
+      "translation": "tháng mười một",
+      "romanization": "tháng mười một",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1095,
+      "word": "prosinec",
+      "translation": "tháng mười hai",
+      "romanization": "tháng mười hai",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1096,
+      "word": "jaro",
+      "translation": "mùa xuân",
+      "romanization": "mùa xuân",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1097,
+      "word": "léto",
+      "translation": "mùa hè",
+      "romanization": "mùa hè",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1098,
+      "word": "podzim",
+      "translation": "mùa thu",
+      "romanization": "mùa thu",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1099,
+      "word": "zima",
+      "translation": "mùa đông",
+      "romanization": "mùa đông",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1100,
+      "word": "rok",
+      "translation": "năm",
+      "romanization": "năm",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1101,
+      "word": "měsíc",
+      "translation": "tháng",
+      "romanization": "tháng",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1102,
+      "word": "týden",
+      "translation": "tuần",
+      "romanization": "tuần",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1103,
+      "word": "den",
+      "translation": "ngày",
+      "romanization": "ngày",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1104,
+      "word": "hodina",
+      "translation": "giờ",
+      "romanization": "giờ",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1105,
+      "word": "minuta",
+      "translation": "phút",
+      "romanization": "phút",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1106,
+      "word": "sekunda",
+      "translation": "giây",
+      "romanization": "giây",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1107,
+      "word": "dnes",
+      "translation": "hôm nay",
+      "romanization": "hôm nay",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1108,
+      "word": "včera",
+      "translation": "hôm qua",
+      "romanization": "hôm qua",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1109,
+      "word": "zítra",
+      "translation": "ngày mai",
+      "romanization": "ngày mai",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1110,
+      "word": "ráno",
+      "translation": "buổi sáng",
+      "romanization": "buổi sáng",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1111,
+      "word": "odpoledne",
+      "translation": "buổi chiều",
+      "romanization": "buổi chiều",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1112,
+      "word": "večer",
+      "translation": "buổi tối",
+      "romanization": "buổi tối",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1113,
+      "word": "noc",
+      "translation": "đêm",
+      "romanization": "đêm",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1114,
+      "word": "poledne",
+      "translation": "trưa",
+      "romanization": "trưa",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1115,
+      "word": "půlnoc",
+      "translation": "nửa đêm",
+      "romanization": "nửa đêm",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1116,
+      "word": "teď",
+      "translation": "bây giờ",
+      "romanization": "bây giờ",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1117,
+      "word": "potom",
+      "translation": "sau đó",
+      "romanization": "sau đó",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1118,
+      "word": "předtím",
+      "translation": "trước đó",
+      "romanization": "trước đó",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1119,
+      "word": "brzy",
+      "translation": "sớm",
+      "romanization": "sớm",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1120,
+      "word": "pozdě",
+      "translation": "muộn",
+      "romanization": "muộn",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1121,
+      "word": "vždy",
+      "translation": "luôn luôn",
+      "romanization": "luôn luôn",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1122,
+      "word": "nikdy",
+      "translation": "không bao giờ",
+      "romanization": "không bao giờ",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1123,
+      "word": "někdy",
+      "translation": "đôi khi",
+      "romanization": "đôi khi",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1124,
+      "word": "často",
+      "translation": "thường xuyên",
+      "romanization": "thường xuyên",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1125,
+      "word": "zřídka",
+      "translation": "hiếm khi",
+      "romanization": "hiếm khi",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1126,
+      "word": "první",
+      "translation": "thứ nhất",
+      "romanization": "thứ nhất",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1127,
+      "word": "druhý",
+      "translation": "thứ hai",
+      "romanization": "thứ hai",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1128,
+      "word": "třetí",
+      "translation": "thứ ba",
+      "romanization": "thứ ba",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1129,
+      "word": "čtvrtý",
+      "translation": "thứ tư",
+      "romanization": "thứ tư",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1130,
+      "word": "pátý",
+      "translation": "thứ năm",
+      "romanization": "thứ năm",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1131,
+      "word": "poslední",
+      "translation": "cuối cùng",
+      "romanization": "cuối cùng",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1132,
+      "word": "kolik hodin",
+      "translation": "mấy giờ",
+      "romanization": "mấy giờ",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1133,
+      "word": "půl",
+      "translation": "nửa",
+      "romanization": "nửa",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1134,
+      "word": "čtvrt",
+      "translation": "một phần tư",
+      "romanization": "một phần tư",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1135,
+      "word": "třetina",
+      "translation": "một phần ba",
+      "romanization": "một phần ba",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1136,
+      "word": "dvojnásobek",
+      "translation": "gấp đôi",
+      "romanization": "gấp đôi",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1137,
+      "word": "více",
+      "translation": "nhiều hơn",
+      "romanization": "nhiều hơn",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1138,
+      "word": "méně",
+      "translation": "ít hơn",
+      "romanization": "ít hơn",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1139,
+      "word": "všechno",
+      "translation": "tất cả",
+      "romanization": "tất cả",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1140,
+      "word": "nic",
+      "translation": "không gì",
+      "romanization": "không gì",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1141,
+      "word": "několik",
+      "translation": "một vài",
+      "romanization": "một vài",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1142,
+      "word": "mnoho",
+      "translation": "nhiều",
+      "romanization": "nhiều",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1143,
+      "word": "málo",
+      "translation": "ít",
+      "romanization": "ít",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1144,
+      "word": "dost",
+      "translation": "đủ",
+      "romanization": "đủ",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1145,
+      "word": "příliš",
+      "translation": "quá",
+      "romanization": "quá",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1146,
+      "word": "přesně",
+      "translation": "chính xác",
+      "romanization": "chính xác",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1147,
+      "word": "přibližně",
+      "translation": "khoảng",
+      "romanization": "khoảng",
+      "category": "numbers",
+      "difficulty": 1
+    },
+    {
+      "id": 1148,
+      "word": "začátek",
+      "translation": "bắt đầu",
+      "romanization": "bắt đầu",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1149,
+      "word": "konec",
+      "translation": "kết thúc",
+      "romanization": "kết thúc",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1150,
+      "word": "během",
+      "translation": "trong lúc",
+      "romanization": "trong lúc",
+      "category": "time",
+      "difficulty": 1
+    }
+  ]
+}
