@@ -1,0 +1,808 @@
+{
+  "language_pair": "cs-vi",
+  "level": "1E",
+  "category": "places-directions",
+  "description": "Common locations, directions, transportation, position words",
+  "words": [
+    {
+      "id": 1401,
+      "word": "nádraží",
+      "translation": "nhà ga",
+      "romanization": "nhà ga",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1402,
+      "word": "letiště",
+      "translation": "sân bay",
+      "romanization": "sân bay",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1403,
+      "word": "zastávka",
+      "translation": "trạm dừng",
+      "romanization": "trạm dừng",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1404,
+      "word": "hotel",
+      "translation": "khách sạn",
+      "romanization": "khách sạn",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1405,
+      "word": "banka",
+      "translation": "ngân hàng",
+      "romanization": "ngân hàng",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1406,
+      "word": "pošta",
+      "translation": "bưu điện",
+      "romanization": "bưu điện",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1407,
+      "word": "lékárna",
+      "translation": "nhà thuốc",
+      "romanization": "nhà thuốc",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1408,
+      "word": "supermarket",
+      "translation": "siêu thị",
+      "romanization": "siêu thị",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1409,
+      "word": "tržiště",
+      "translation": "chợ",
+      "romanization": "chợ",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1410,
+      "word": "park",
+      "translation": "công viên",
+      "romanization": "công viên",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1411,
+      "word": "náměstí",
+      "translation": "quảng trường",
+      "romanization": "quảng trường",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1412,
+      "word": "most",
+      "translation": "cầu",
+      "romanization": "cầu",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1413,
+      "word": "křižovatka",
+      "translation": "ngã tư",
+      "romanization": "ngã tư",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1414,
+      "word": "roh",
+      "translation": "góc",
+      "romanization": "góc",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1415,
+      "word": "centrum",
+      "translation": "trung tâm",
+      "romanization": "trung tâm",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1416,
+      "word": "okraj",
+      "translation": "ngoại ô",
+      "romanization": "ngoại ô",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1417,
+      "word": "vchod",
+      "translation": "lối vào",
+      "romanization": "lối vào",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1418,
+      "word": "východ",
+      "translation": "lối ra",
+      "romanization": "lối ra",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1419,
+      "word": "sever",
+      "translation": "phía bắc",
+      "romanization": "phía bắc",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1420,
+      "word": "jih",
+      "translation": "phía nam",
+      "romanization": "phía nam",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1421,
+      "word": "východ",
+      "translation": "phía đông",
+      "romanization": "phía đông",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1422,
+      "word": "západ",
+      "translation": "phía tây",
+      "romanization": "phía tây",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1423,
+      "word": "rovně",
+      "translation": "thẳng",
+      "romanization": "thẳng",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1424,
+      "word": "vlevo",
+      "translation": "bên trái",
+      "romanization": "bên trái",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1425,
+      "word": "vpravo",
+      "translation": "bên phải",
+      "romanization": "bên phải",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1426,
+      "word": "nahoru",
+      "translation": "lên trên",
+      "romanization": "lên trên",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1427,
+      "word": "dolů",
+      "translation": "xuống dưới",
+      "romanization": "xuống dưới",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1428,
+      "word": "dopředu",
+      "translation": "về phía trước",
+      "romanization": "về phía trước",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1429,
+      "word": "dozadu",
+      "translation": "về phía sau",
+      "romanization": "về phía sau",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1430,
+      "word": "blízko",
+      "translation": "gần",
+      "romanization": "gần",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1431,
+      "word": "daleko",
+      "translation": "xa",
+      "romanization": "xa",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1432,
+      "word": "vedle",
+      "translation": "bên cạnh",
+      "romanization": "bên cạnh",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1433,
+      "word": "naproti",
+      "translation": "đối diện",
+      "romanization": "đối diện",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1434,
+      "word": "mezi",
+      "translation": "giữa",
+      "romanization": "giữa",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1435,
+      "word": "před",
+      "translation": "trước",
+      "romanization": "trước",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1436,
+      "word": "za",
+      "translation": "sau/đằng sau",
+      "romanization": "sau/đằng sau",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1437,
+      "word": "nad",
+      "translation": "trên",
+      "romanization": "trên",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1438,
+      "word": "pod",
+      "translation": "dưới",
+      "romanization": "dưới",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1439,
+      "word": "v/ve",
+      "translation": "trong",
+      "romanization": "trong",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1440,
+      "word": "na",
+      "translation": "trên/ở",
+      "romanization": "trên/ở",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1441,
+      "word": "u",
+      "translation": "gần/ở",
+      "romanization": "gần/ở",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1442,
+      "word": "kolem",
+      "translation": "xung quanh",
+      "romanization": "xung quanh",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1443,
+      "word": "přes",
+      "translation": "qua",
+      "romanization": "qua",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1444,
+      "word": "po",
+      "translation": "dọc theo",
+      "romanization": "dọc theo",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1445,
+      "word": "metro",
+      "translation": "tàu điện ngầm",
+      "romanization": "tàu điện ngầm",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1446,
+      "word": "tramvaj",
+      "translation": "xe điện",
+      "romanization": "xe điện",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1447,
+      "word": "taxi",
+      "translation": "taxi",
+      "romanization": "taxi",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1448,
+      "word": "jízdenka",
+      "translation": "vé",
+      "romanization": "vé",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1449,
+      "word": "lístek",
+      "translation": "vé",
+      "romanization": "vé",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1450,
+      "word": "zpáteční",
+      "translation": "khứ hồi",
+      "romanization": "khứ hồi",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1451,
+      "word": "jednosměrný",
+      "translation": "một chiều",
+      "romanization": "một chiều",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1452,
+      "word": "nástupiště",
+      "translation": "sân ga",
+      "romanization": "sân ga",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1453,
+      "word": "kolej",
+      "translation": "đường ray",
+      "romanization": "đường ray",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1454,
+      "word": "odjezd",
+      "translation": "khởi hành",
+      "romanization": "khởi hành",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1455,
+      "word": "příjezd",
+      "translation": "đến nơi",
+      "romanization": "đến nơi",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1456,
+      "word": "zpoždění",
+      "translation": "trễ",
+      "romanization": "trễ",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1457,
+      "word": "přestup",
+      "translation": "chuyển tuyến",
+      "romanization": "chuyển tuyến",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1458,
+      "word": "cesta",
+      "translation": "chuyến đi",
+      "romanization": "chuyến đi",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1459,
+      "word": "vzdálenost",
+      "translation": "khoảng cách",
+      "romanization": "khoảng cách",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1460,
+      "word": "kilometr",
+      "translation": "ki-lô-mét",
+      "romanization": "ki-lô-mét",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1461,
+      "word": "metr",
+      "translation": "mét",
+      "romanization": "mét",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1462,
+      "word": "adresa",
+      "translation": "địa chỉ",
+      "romanization": "địa chỉ",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1463,
+      "word": "číslo",
+      "translation": "số",
+      "romanization": "số",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1464,
+      "word": "patro",
+      "translation": "tầng",
+      "romanization": "tầng",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1465,
+      "word": "přízemí",
+      "translation": "tầng trệt",
+      "romanization": "tầng trệt",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1466,
+      "word": "výtah",
+      "translation": "thang máy",
+      "romanization": "thang máy",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1467,
+      "word": "schody",
+      "translation": "cầu thang",
+      "romanization": "cầu thang",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1468,
+      "word": "chodba",
+      "translation": "hành lang",
+      "romanization": "hành lang",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1469,
+      "word": "recepce",
+      "translation": "lễ tân",
+      "romanization": "lễ tân",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1470,
+      "word": "informace",
+      "translation": "thông tin",
+      "romanization": "thông tin",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1471,
+      "word": "turistické centrum",
+      "translation": "trung tâm du lịch",
+      "romanization": "trung tâm du lịch",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1472,
+      "word": "památka",
+      "translation": "di tích",
+      "romanization": "di tích",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1473,
+      "word": "muzeum",
+      "translation": "bảo tàng",
+      "romanization": "bảo tàng",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1474,
+      "word": "galerie",
+      "translation": "phòng tranh",
+      "romanization": "phòng tranh",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1475,
+      "word": "divadlo",
+      "translation": "nhà hát",
+      "romanization": "nhà hát",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1476,
+      "word": "kino",
+      "translation": "rạp chiếu phim",
+      "romanization": "rạp chiếu phim",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1477,
+      "word": "knihovna",
+      "translation": "thư viện",
+      "romanization": "thư viện",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1478,
+      "word": "kostel",
+      "translation": "nhà thờ",
+      "romanization": "nhà thờ",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1479,
+      "word": "hrad",
+      "translation": "lâu đài",
+      "romanization": "lâu đài",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1480,
+      "word": "zámek",
+      "translation": "cung điện",
+      "romanization": "cung điện",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1481,
+      "word": "radnice",
+      "translation": "tòa thị chính",
+      "romanization": "tòa thị chính",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1482,
+      "word": "úřad",
+      "translation": "văn phòng",
+      "romanization": "văn phòng",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1483,
+      "word": "parkoviště",
+      "translation": "bãi đậu xe",
+      "romanization": "bãi đậu xe",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1484,
+      "word": "benzínka",
+      "translation": "trạm xăng",
+      "romanization": "trạm xăng",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1485,
+      "word": "dálnice",
+      "translation": "đường cao tốc",
+      "romanization": "đường cao tốc",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1486,
+      "word": "silnice",
+      "translation": "đường bộ",
+      "romanization": "đường bộ",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1487,
+      "word": "chodník",
+      "translation": "vỉa hè",
+      "romanization": "vỉa hè",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1488,
+      "word": "přechod",
+      "translation": "vạch qua đường",
+      "romanization": "vạch qua đường",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1489,
+      "word": "semafor",
+      "translation": "đèn giao thông",
+      "romanization": "đèn giao thông",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1490,
+      "word": "značka",
+      "translation": "biển báo",
+      "romanization": "biển báo",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1491,
+      "word": "směr",
+      "translation": "hướng",
+      "romanization": "hướng",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1492,
+      "word": "odbočit",
+      "translation": "rẽ",
+      "romanization": "rẽ",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1493,
+      "word": "zahnout",
+      "translation": "quẹo",
+      "romanization": "quẹo",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1494,
+      "word": "pokračovat",
+      "translation": "tiếp tục",
+      "romanization": "tiếp tục",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1495,
+      "word": "zastavit",
+      "translation": "dừng lại",
+      "romanization": "dừng lại",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1496,
+      "word": "parkovat",
+      "translation": "đậu xe",
+      "romanization": "đậu xe",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1497,
+      "word": "ztratit se",
+      "translation": "lạc đường",
+      "romanization": "lạc đường",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1498,
+      "word": "hledat",
+      "translation": "tìm kiếm",
+      "romanization": "tìm kiếm",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1499,
+      "word": "ukázat",
+      "translation": "chỉ",
+      "romanization": "chỉ",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1500,
+      "word": "navigace",
+      "translation": "định vị",
+      "romanization": "định vị",
+      "category": "travel",
+      "difficulty": 1
+    }
+  ]
+}

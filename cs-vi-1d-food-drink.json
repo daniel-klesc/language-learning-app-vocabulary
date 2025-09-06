@@ -1,0 +1,808 @@
+{
+  "language_pair": "cs-vi",
+  "level": "1D",
+  "category": "food-drink",
+  "description": "Common foods, drinks, restaurant basics, ordering phrases",
+  "words": [
+    {
+      "id": 1301,
+      "word": "chléb",
+      "translation": "bánh mì",
+      "romanization": "bánh mì",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1302,
+      "word": "máslo",
+      "translation": "bơ",
+      "romanization": "bơ",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1303,
+      "word": "sýr",
+      "translation": "phô mai",
+      "romanization": "phô mai",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1304,
+      "word": "mléko",
+      "translation": "sữa",
+      "romanization": "sữa",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1305,
+      "word": "vejce",
+      "translation": "trứng",
+      "romanization": "trứng",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1306,
+      "word": "maso",
+      "translation": "thịt",
+      "romanization": "thịt",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1307,
+      "word": "kuře",
+      "translation": "gà",
+      "romanization": "gà",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1308,
+      "word": "vepřové",
+      "translation": "thịt lợn",
+      "romanization": "thịt lợn",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1309,
+      "word": "hovězí",
+      "translation": "thịt bò",
+      "romanization": "thịt bò",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1310,
+      "word": "ryba",
+      "translation": "cá",
+      "romanization": "cá",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1311,
+      "word": "zelenina",
+      "translation": "rau củ",
+      "romanization": "rau củ",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1312,
+      "word": "ovoce",
+      "translation": "trái cây",
+      "romanization": "trái cây",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1313,
+      "word": "jablko",
+      "translation": "táo",
+      "romanization": "táo",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1314,
+      "word": "banán",
+      "translation": "chuối",
+      "romanization": "chuối",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1315,
+      "word": "pomeranč",
+      "translation": "cam",
+      "romanization": "cam",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1316,
+      "word": "rajče",
+      "translation": "cà chua",
+      "romanization": "cà chua",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1317,
+      "word": "brambory",
+      "translation": "khoai tây",
+      "romanization": "khoai tây",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1318,
+      "word": "cibule",
+      "translation": "hành tây",
+      "romanization": "hành tây",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1319,
+      "word": "česnek",
+      "translation": "tỏi",
+      "romanization": "tỏi",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1320,
+      "word": "mrkev",
+      "translation": "cà rốt",
+      "romanization": "cà rốt",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1321,
+      "word": "salát",
+      "translation": "xà lách",
+      "romanization": "xà lách",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1322,
+      "word": "rýže",
+      "translation": "cơm/gạo",
+      "romanization": "cơm/gạo",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1323,
+      "word": "těstoviny",
+      "translation": "mì ý",
+      "romanization": "mì ý",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1324,
+      "word": "polévka",
+      "translation": "súp",
+      "romanization": "súp",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1325,
+      "word": "omáčka",
+      "translation": "nước sốt",
+      "romanization": "nước sốt",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1326,
+      "word": "sůl",
+      "translation": "muối",
+      "romanization": "muối",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1327,
+      "word": "pepř",
+      "translation": "tiêu",
+      "romanization": "tiêu",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1328,
+      "word": "cukr",
+      "translation": "đường",
+      "romanization": "đường",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1329,
+      "word": "olej",
+      "translation": "dầu",
+      "romanization": "dầu",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1330,
+      "word": "ocet",
+      "translation": "giấm",
+      "romanization": "giấm",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1331,
+      "word": "káva",
+      "translation": "cà phê",
+      "romanization": "cà phê",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1332,
+      "word": "čaj",
+      "translation": "trà",
+      "romanization": "trà",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1333,
+      "word": "pivo",
+      "translation": "bia",
+      "romanization": "bia",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1334,
+      "word": "víno",
+      "translation": "rượu vang",
+      "romanization": "rượu vang",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1335,
+      "word": "džus",
+      "translation": "nước ép",
+      "romanization": "nước ép",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1336,
+      "word": "limonáda",
+      "translation": "nước chanh",
+      "romanization": "nước chanh",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1337,
+      "word": "minerálka",
+      "translation": "nước khoáng",
+      "romanization": "nước khoáng",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1338,
+      "word": "snídaně",
+      "translation": "bữa sáng",
+      "romanization": "bữa sáng",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1339,
+      "word": "oběd",
+      "translation": "bữa trưa",
+      "romanization": "bữa trưa",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1340,
+      "word": "večeře",
+      "translation": "bữa tối",
+      "romanization": "bữa tối",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1341,
+      "word": "svačina",
+      "translation": "bữa phụ",
+      "romanization": "bữa phụ",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1342,
+      "word": "restaurace",
+      "translation": "nhà hàng",
+      "romanization": "nhà hàng",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1343,
+      "word": "kavárna",
+      "translation": "quán cà phê",
+      "romanization": "quán cà phê",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1344,
+      "word": "hospoda",
+      "translation": "quán bia",
+      "romanization": "quán bia",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1345,
+      "word": "jídelní lístek",
+      "translation": "thực đơn",
+      "romanization": "thực đơn",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1346,
+      "word": "objednat",
+      "translation": "gọi món",
+      "romanization": "gọi món",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1347,
+      "word": "účet",
+      "translation": "hóa đơn",
+      "romanization": "hóa đơn",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1348,
+      "word": "spropitné",
+      "translation": "tiền boa",
+      "romanization": "tiền boa",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1349,
+      "word": "číšník",
+      "translation": "phục vụ nam",
+      "romanization": "phục vụ nam",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1350,
+      "word": "servírka",
+      "translation": "phục vụ nữ",
+      "romanization": "phục vụ nữ",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1351,
+      "word": "vařit",
+      "translation": "nấu ăn",
+      "romanization": "nấu ăn",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1352,
+      "word": "péct",
+      "translation": "nướng",
+      "romanization": "nướng",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1353,
+      "word": "smažit",
+      "translation": "chiên",
+      "romanization": "chiên",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1354,
+      "word": "vařený",
+      "translation": "luộc",
+      "romanization": "luộc",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1355,
+      "word": "grilovaný",
+      "translation": "nướng than",
+      "romanization": "nướng than",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1356,
+      "word": "syrový",
+      "translation": "sống",
+      "romanization": "sống",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1357,
+      "word": "čerstvý",
+      "translation": "tươi",
+      "romanization": "tươi",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1358,
+      "word": "chutný",
+      "translation": "ngon",
+      "romanization": "ngon",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1359,
+      "word": "sladký",
+      "translation": "ngọt",
+      "romanization": "ngọt",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1360,
+      "word": "slaný",
+      "translation": "mặn",
+      "romanization": "mặn",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1361,
+      "word": "kyselý",
+      "translation": "chua",
+      "romanization": "chua",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1362,
+      "word": "hořký",
+      "translation": "đắng",
+      "romanization": "đắng",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1363,
+      "word": "pálivý",
+      "translation": "cay",
+      "romanization": "cay",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1364,
+      "word": "teplý",
+      "translation": "nóng",
+      "romanization": "nóng",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1365,
+      "word": "studený",
+      "translation": "lạnh",
+      "romanization": "lạnh",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1366,
+      "word": "talíř",
+      "translation": "đĩa",
+      "romanization": "đĩa",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1367,
+      "word": "miska",
+      "translation": "bát",
+      "romanization": "bát",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1368,
+      "word": "hrnek",
+      "translation": "cốc",
+      "romanization": "cốc",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1369,
+      "word": "sklenice",
+      "translation": "ly",
+      "romanization": "ly",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1370,
+      "word": "lžíce",
+      "translation": "thìa",
+      "romanization": "thìa",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1371,
+      "word": "vidlička",
+      "translation": "nĩa",
+      "romanization": "nĩa",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1372,
+      "word": "nůž",
+      "translation": "dao",
+      "romanization": "dao",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1373,
+      "word": "ubrousek",
+      "translation": "khăn ăn",
+      "romanization": "khăn ăn",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1374,
+      "word": "hlad",
+      "translation": "đói",
+      "romanization": "đói",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1375,
+      "word": "žízeň",
+      "translation": "khát",
+      "romanization": "khát",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1376,
+      "word": "sytý",
+      "translation": "no",
+      "romanization": "no",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1377,
+      "word": "dezert",
+      "translation": "món tráng miệng",
+      "romanization": "món tráng miệng",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1378,
+      "word": "dort",
+      "translation": "bánh ngọt",
+      "romanization": "bánh ngọt",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1379,
+      "word": "zmrzlina",
+      "translation": "kem",
+      "romanization": "kem",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1380,
+      "word": "čokoláda",
+      "translation": "sô cô la",
+      "romanization": "sô cô la",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1381,
+      "word": "bonbón",
+      "translation": "kẹo",
+      "romanization": "kẹo",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1382,
+      "word": "med",
+      "translation": "mật ong",
+      "romanization": "mật ong",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1383,
+      "word": "džem",
+      "translation": "mứt",
+      "romanization": "mứt",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1384,
+      "word": "mouka",
+      "translation": "bột mì",
+      "romanization": "bột mì",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1385,
+      "word": "kečup",
+      "translation": "tương cà",
+      "romanization": "tương cà",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1386,
+      "word": "hořčice",
+      "translation": "mù tạt",
+      "romanization": "mù tạt",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1387,
+      "word": "majonéza",
+      "translation": "sốt mayonnaise",
+      "romanization": "sốt mayonnaise",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1388,
+      "word": "ořech",
+      "translation": "hạt",
+      "romanization": "hạt",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1389,
+      "word": "houska",
+      "translation": "bánh mì nhỏ",
+      "romanization": "bánh mì nhỏ",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1390,
+      "word": "rohlík",
+      "translation": "bánh sừng",
+      "romanization": "bánh sừng",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1391,
+      "word": "jogurt",
+      "translation": "sữa chua",
+      "romanization": "sữa chua",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1392,
+      "word": "vegetarián",
+      "translation": "người ăn chay",
+      "romanization": "người ăn chay",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1393,
+      "word": "alergie",
+      "translation": "dị ứng",
+      "romanization": "dị ứng",
+      "category": "health",
+      "difficulty": 1
+    },
+    {
+      "id": 1394,
+      "word": "bez masa",
+      "translation": "không thịt",
+      "romanization": "không thịt",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1395,
+      "word": "bez cukru",
+      "translation": "không đường",
+      "romanization": "không đường",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1396,
+      "word": "porce",
+      "translation": "phần ăn",
+      "romanization": "phần ăn",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1397,
+      "word": "rezervace",
+      "translation": "đặt bàn",
+      "romanization": "đặt bàn",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1398,
+      "word": "doporučit",
+      "translation": "giới thiệu",
+      "romanization": "giới thiệu",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1399,
+      "word": "specialita",
+      "translation": "món đặc biệt",
+      "romanization": "món đặc biệt",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1400,
+      "word": "dobrou chuť",
+      "translation": "chúc ngon miệng",
+      "romanization": "chúc ngon miệng",
+      "category": "food",
+      "difficulty": 1
+    }
+  ]
+}

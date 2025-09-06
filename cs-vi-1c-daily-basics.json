@@ -1,0 +1,1206 @@
+{
+  "language_pair": "cs-vi",
+  "level": "1C",
+  "category": "daily-basics",
+  "description": "Common verbs, pronouns, adjectives, colors, and basic nouns",
+  "words": [
+    {
+      "id": 1151,
+      "word": "být",
+      "translation": "là/thì",
+      "romanization": "là/thì",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1152,
+      "word": "mít",
+      "translation": "có",
+      "romanization": "có",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1153,
+      "word": "dělat",
+      "translation": "làm",
+      "romanization": "làm",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1154,
+      "word": "jít",
+      "translation": "đi",
+      "romanization": "đi",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1155,
+      "word": "přijít",
+      "translation": "đến",
+      "romanization": "đến",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1156,
+      "word": "vidět",
+      "translation": "nhìn thấy",
+      "romanization": "nhìn thấy",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1157,
+      "word": "vědět",
+      "translation": "biết",
+      "romanization": "biết",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1158,
+      "word": "chtít",
+      "translation": "muốn",
+      "romanization": "muốn",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1159,
+      "word": "moci",
+      "translation": "có thể",
+      "romanization": "có thể",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1160,
+      "word": "muset",
+      "translation": "phải",
+      "romanization": "phải",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1161,
+      "word": "říct",
+      "translation": "nói",
+      "romanization": "nói",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1162,
+      "word": "dát",
+      "translation": "cho/đưa",
+      "romanization": "cho/đưa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1163,
+      "word": "vzít",
+      "translation": "lấy",
+      "romanization": "lấy",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1164,
+      "word": "najít",
+      "translation": "tìm thấy",
+      "romanization": "tìm thấy",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1165,
+      "word": "myslet",
+      "translation": "nghĩ",
+      "romanization": "nghĩ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1166,
+      "word": "cítit",
+      "translation": "cảm thấy",
+      "romanization": "cảm thấy",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1167,
+      "word": "žít",
+      "translation": "sống",
+      "romanization": "sống",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1168,
+      "word": "pracovat",
+      "translation": "làm việc",
+      "romanization": "làm việc",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1169,
+      "word": "jíst",
+      "translation": "ăn",
+      "romanization": "ăn",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1170,
+      "word": "pít",
+      "translation": "uống",
+      "romanization": "uống",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "id": 1171,
+      "word": "spát",
+      "translation": "ngủ",
+      "romanization": "ngủ",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1172,
+      "word": "číst",
+      "translation": "đọc",
+      "romanization": "đọc",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1173,
+      "word": "psát",
+      "translation": "viết",
+      "romanization": "viết",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1174,
+      "word": "mluvit",
+      "translation": "nói chuyện",
+      "romanization": "nói chuyện",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1175,
+      "word": "poslouchat",
+      "translation": "nghe",
+      "romanization": "nghe",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1176,
+      "word": "rozumět",
+      "translation": "hiểu",
+      "romanization": "hiểu",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1177,
+      "word": "učit se",
+      "translation": "học",
+      "romanization": "học",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1178,
+      "word": "hrát",
+      "translation": "chơi",
+      "romanization": "chơi",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1179,
+      "word": "koupit",
+      "translation": "mua",
+      "romanization": "mua",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1180,
+      "word": "prodat",
+      "translation": "bán",
+      "romanization": "bán",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1181,
+      "word": "platit",
+      "translation": "trả tiền",
+      "romanization": "trả tiền",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1182,
+      "word": "otevřít",
+      "translation": "mở",
+      "romanization": "mở",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1183,
+      "word": "zavřít",
+      "translation": "đóng",
+      "romanization": "đóng",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1184,
+      "word": "začít",
+      "translation": "bắt đầu",
+      "romanization": "bắt đầu",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1185,
+      "word": "skončit",
+      "translation": "kết thúc",
+      "romanization": "kết thúc",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1186,
+      "word": "čekat",
+      "translation": "chờ",
+      "romanization": "chờ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1187,
+      "word": "potřebovat",
+      "translation": "cần",
+      "romanization": "cần",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1188,
+      "word": "pomáhat",
+      "translation": "giúp",
+      "romanization": "giúp",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1189,
+      "word": "milovat",
+      "translation": "yêu",
+      "romanization": "yêu",
+      "category": "emotions",
+      "difficulty": 1
+    },
+    {
+      "id": 1190,
+      "word": "líbit se",
+      "translation": "thích",
+      "romanization": "thích",
+      "category": "emotions",
+      "difficulty": 1
+    },
+    {
+      "id": 1191,
+      "word": "velký",
+      "translation": "lớn",
+      "romanization": "lớn",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1192,
+      "word": "malý",
+      "translation": "nhỏ",
+      "romanization": "nhỏ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1193,
+      "word": "dobrý",
+      "translation": "tốt",
+      "romanization": "tốt",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1194,
+      "word": "špatný",
+      "translation": "xấu",
+      "romanization": "xấu",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1195,
+      "word": "nový",
+      "translation": "mới",
+      "romanization": "mới",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1196,
+      "word": "starý",
+      "translation": "cũ/già",
+      "romanization": "cũ/già",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1197,
+      "word": "mladý",
+      "translation": "trẻ",
+      "romanization": "trẻ",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1198,
+      "word": "rychlý",
+      "translation": "nhanh",
+      "romanization": "nhanh",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1199,
+      "word": "pomalý",
+      "translation": "chậm",
+      "romanization": "chậm",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1200,
+      "word": "dlouhý",
+      "translation": "dài",
+      "romanization": "dài",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1201,
+      "word": "krátký",
+      "translation": "ngắn",
+      "romanization": "ngắn",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1202,
+      "word": "vysoký",
+      "translation": "cao",
+      "romanization": "cao",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1203,
+      "word": "nízký",
+      "translation": "thấp",
+      "romanization": "thấp",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1204,
+      "word": "široký",
+      "translation": "rộng",
+      "romanization": "rộng",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1205,
+      "word": "úzký",
+      "translation": "hẹp",
+      "romanization": "hẹp",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1206,
+      "word": "silný",
+      "translation": "mạnh",
+      "romanization": "mạnh",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1207,
+      "word": "slabý",
+      "translation": "yếu",
+      "romanization": "yếu",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1208,
+      "word": "lehký",
+      "translation": "nhẹ",
+      "romanization": "nhẹ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1209,
+      "word": "těžký",
+      "translation": "nặng",
+      "romanization": "nặng",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1210,
+      "word": "horký",
+      "translation": "nóng",
+      "romanization": "nóng",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1211,
+      "word": "studený",
+      "translation": "lạnh",
+      "romanization": "lạnh",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1212,
+      "word": "teplý",
+      "translation": "ấm",
+      "romanization": "ấm",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1213,
+      "word": "chladný",
+      "translation": "mát",
+      "romanization": "mát",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1214,
+      "word": "suchý",
+      "translation": "khô",
+      "romanization": "khô",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1215,
+      "word": "mokrý",
+      "translation": "ướt",
+      "romanization": "ướt",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1216,
+      "word": "čistý",
+      "translation": "sạch",
+      "romanization": "sạch",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1217,
+      "word": "špinavý",
+      "translation": "bẩn",
+      "romanization": "bẩn",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1218,
+      "word": "jednoduchý",
+      "translation": "đơn giản",
+      "romanization": "đơn giản",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1219,
+      "word": "složitý",
+      "translation": "phức tạp",
+      "romanization": "phức tạp",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1220,
+      "word": "snadný",
+      "translation": "dễ",
+      "romanization": "dễ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1221,
+      "word": "těžký/obtížný",
+      "translation": "khó",
+      "romanization": "khó",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1222,
+      "word": "krásný",
+      "translation": "đẹp",
+      "romanization": "đẹp",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1223,
+      "word": "ošklivý",
+      "translation": "xấu xí",
+      "romanization": "xấu xí",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1224,
+      "word": "zajímavý",
+      "translation": "thú vị",
+      "romanization": "thú vị",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1225,
+      "word": "nudný",
+      "translation": "chán",
+      "romanization": "chán",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1226,
+      "word": "červený",
+      "translation": "màu đỏ",
+      "romanization": "màu đỏ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1227,
+      "word": "modrý",
+      "translation": "màu xanh dương",
+      "romanization": "màu xanh dương",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1228,
+      "word": "zelený",
+      "translation": "màu xanh lá",
+      "romanization": "màu xanh lá",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1229,
+      "word": "žlutý",
+      "translation": "màu vàng",
+      "romanization": "màu vàng",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1230,
+      "word": "oranžový",
+      "translation": "màu cam",
+      "romanization": "màu cam",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1231,
+      "word": "fialový",
+      "translation": "màu tím",
+      "romanization": "màu tím",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1232,
+      "word": "růžový",
+      "translation": "màu hồng",
+      "romanization": "màu hồng",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1233,
+      "word": "hnědý",
+      "translation": "màu nâu",
+      "romanization": "màu nâu",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1234,
+      "word": "černý",
+      "translation": "màu đen",
+      "romanization": "màu đen",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1235,
+      "word": "bílý",
+      "translation": "màu trắng",
+      "romanization": "màu trắng",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1236,
+      "word": "šedý",
+      "translation": "màu xám",
+      "romanization": "màu xám",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1237,
+      "word": "člověk",
+      "translation": "người",
+      "romanization": "người",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1238,
+      "word": "věc",
+      "translation": "vật/thứ",
+      "romanization": "vật/thứ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1239,
+      "word": "místo",
+      "translation": "nơi/chỗ",
+      "romanization": "nơi/chỗ",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1240,
+      "word": "čas",
+      "translation": "thời gian",
+      "romanization": "thời gian",
+      "category": "time",
+      "difficulty": 1
+    },
+    {
+      "id": 1241,
+      "word": "práce",
+      "translation": "công việc",
+      "romanization": "công việc",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1242,
+      "word": "ruka",
+      "translation": "tay",
+      "romanization": "tay",
+      "category": "health",
+      "difficulty": 1
+    },
+    {
+      "id": 1243,
+      "word": "noha",
+      "translation": "chân",
+      "romanization": "chân",
+      "category": "health",
+      "difficulty": 1
+    },
+    {
+      "id": 1244,
+      "word": "hlava",
+      "translation": "đầu",
+      "romanization": "đầu",
+      "category": "health",
+      "difficulty": 1
+    },
+    {
+      "id": 1245,
+      "word": "oko",
+      "translation": "mắt",
+      "romanization": "mắt",
+      "category": "health",
+      "difficulty": 1
+    },
+    {
+      "id": 1246,
+      "word": "ucho",
+      "translation": "tai",
+      "romanization": "tai",
+      "category": "health",
+      "difficulty": 1
+    },
+    {
+      "id": 1247,
+      "word": "nos",
+      "translation": "mũi",
+      "romanization": "mũi",
+      "category": "health",
+      "difficulty": 1
+    },
+    {
+      "id": 1248,
+      "word": "ústa",
+      "translation": "miệng",
+      "romanization": "miệng",
+      "category": "health",
+      "difficulty": 1
+    },
+    {
+      "id": 1249,
+      "word": "srdce",
+      "translation": "tim",
+      "romanization": "tim",
+      "category": "health",
+      "difficulty": 1
+    },
+    {
+      "id": 1250,
+      "word": "dům",
+      "translation": "nhà",
+      "romanization": "nhà",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1251,
+      "word": "škola",
+      "translation": "trường học",
+      "romanization": "trường học",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1252,
+      "word": "obchod",
+      "translation": "cửa hàng",
+      "romanization": "cửa hàng",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1253,
+      "word": "ulice",
+      "translation": "đường phố",
+      "romanization": "đường phố",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1254,
+      "word": "město",
+      "translation": "thành phố",
+      "romanization": "thành phố",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1255,
+      "word": "země",
+      "translation": "đất nước",
+      "romanization": "đất nước",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1256,
+      "word": "svět",
+      "translation": "thế giới",
+      "romanization": "thế giới",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1257,
+      "word": "slunce",
+      "translation": "mặt trời",
+      "romanization": "mặt trời",
+      "category": "weather",
+      "difficulty": 1
+    },
+    {
+      "id": 1258,
+      "word": "měsíc",
+      "translation": "mặt trăng",
+      "romanization": "mặt trăng",
+      "category": "weather",
+      "difficulty": 1
+    },
+    {
+      "id": 1259,
+      "word": "hvězda",
+      "translation": "ngôi sao",
+      "romanization": "ngôi sao",
+      "category": "weather",
+      "difficulty": 1
+    },
+    {
+      "id": 1260,
+      "word": "nebe",
+      "translation": "bầu trời",
+      "romanization": "bầu trời",
+      "category": "weather",
+      "difficulty": 1
+    },
+    {
+      "id": 1261,
+      "word": "vzduch",
+      "translation": "không khí",
+      "romanization": "không khí",
+      "category": "weather",
+      "difficulty": 1
+    },
+    {
+      "id": 1262,
+      "word": "oheň",
+      "translation": "lửa",
+      "romanization": "lửa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1263,
+      "word": "světlo",
+      "translation": "ánh sáng",
+      "romanization": "ánh sáng",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1264,
+      "word": "tma",
+      "translation": "bóng tối",
+      "romanization": "bóng tối",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1265,
+      "word": "stůl",
+      "translation": "bàn",
+      "romanization": "bàn",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1266,
+      "word": "židle",
+      "translation": "ghế",
+      "romanization": "ghế",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1267,
+      "word": "dveře",
+      "translation": "cửa",
+      "romanization": "cửa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1268,
+      "word": "okno",
+      "translation": "cửa sổ",
+      "romanization": "cửa sổ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1269,
+      "word": "klíč",
+      "translation": "chìa khóa",
+      "romanization": "chìa khóa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1270,
+      "word": "kniha",
+      "translation": "sách",
+      "romanization": "sách",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1271,
+      "word": "papír",
+      "translation": "giấy",
+      "romanization": "giấy",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1272,
+      "word": "pero",
+      "translation": "bút",
+      "romanization": "bút",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1273,
+      "word": "telefon",
+      "translation": "điện thoại",
+      "romanization": "điện thoại",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1274,
+      "word": "počítač",
+      "translation": "máy tính",
+      "romanization": "máy tính",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1275,
+      "word": "auto",
+      "translation": "xe ô tô",
+      "romanization": "xe ô tô",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1276,
+      "word": "autobus",
+      "translation": "xe buýt",
+      "romanization": "xe buýt",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1277,
+      "word": "vlak",
+      "translation": "tàu hỏa",
+      "romanization": "tàu hỏa",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1278,
+      "word": "letadlo",
+      "translation": "máy bay",
+      "romanization": "máy bay",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1279,
+      "word": "loď",
+      "translation": "tàu thuyền",
+      "romanization": "tàu thuyền",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1280,
+      "word": "kolo",
+      "translation": "xe đạp",
+      "romanization": "xe đạp",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1281,
+      "word": "cesta",
+      "translation": "con đường",
+      "romanization": "con đường",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1282,
+      "word": "mapa",
+      "translation": "bản đồ",
+      "romanization": "bản đồ",
+      "category": "travel",
+      "difficulty": 1
+    },
+    {
+      "id": 1283,
+      "word": "taška",
+      "translation": "túi xách",
+      "romanization": "túi xách",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1284,
+      "word": "peníze",
+      "translation": "tiền",
+      "romanization": "tiền",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1285,
+      "word": "cena",
+      "translation": "giá",
+      "romanization": "giá",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1286,
+      "word": "problém",
+      "translation": "vấn đề",
+      "romanization": "vấn đề",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1287,
+      "word": "otázka",
+      "translation": "câu hỏi",
+      "romanization": "câu hỏi",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1288,
+      "word": "odpověď",
+      "translation": "câu trả lời",
+      "romanization": "câu trả lời",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1289,
+      "word": "jméno",
+      "translation": "tên",
+      "romanization": "tên",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1290,
+      "word": "přítel",
+      "translation": "bạn",
+      "romanization": "bạn",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1291,
+      "word": "rodina",
+      "translation": "gia đình",
+      "romanization": "gia đình",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1292,
+      "word": "láska",
+      "translation": "tình yêu",
+      "romanization": "tình yêu",
+      "category": "emotions",
+      "difficulty": 1
+    },
+    {
+      "id": 1293,
+      "word": "život",
+      "translation": "cuộc sống",
+      "romanization": "cuộc sống",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1294,
+      "word": "smrt",
+      "translation": "cái chết",
+      "romanization": "cái chết",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1295,
+      "word": "zdraví",
+      "translation": "sức khỏe",
+      "romanization": "sức khỏe",
+      "category": "health",
+      "difficulty": 1
+    },
+    {
+      "id": 1296,
+      "word": "nemoc",
+      "translation": "bệnh",
+      "romanization": "bệnh",
+      "category": "health",
+      "difficulty": 1
+    },
+    {
+      "id": 1297,
+      "word": "lék",
+      "translation": "thuốc",
+      "romanization": "thuốc",
+      "category": "health",
+      "difficulty": 1
+    },
+    {
+      "id": 1298,
+      "word": "bolest",
+      "translation": "đau",
+      "romanization": "đau",
+      "category": "health",
+      "difficulty": 1
+    },
+    {
+      "id": 1299,
+      "word": "radost",
+      "translation": "niềm vui",
+      "romanization": "niềm vui",
+      "category": "emotions",
+      "difficulty": 1
+    },
+    {
+      "id": 1300,
+      "word": "smutek",
+      "translation": "nỗi buồn",
+      "romanization": "nỗi buồn",
+      "category": "emotions",
+      "difficulty": 1
+    }
