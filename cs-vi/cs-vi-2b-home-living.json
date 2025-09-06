@@ -1,0 +1,1606 @@
+{
+  "language_pair": "cs-vi",
+  "level": "2B",
+  "category": "home-living",
+  "description": "Rooms, furniture, household items, daily routines, cleaning",
+  "words": [
+    {
+      "id": 1651,
+      "word": "byt",
+      "translation": "căn hộ",
+      "romanization": "căn hộ",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1652,
+      "word": "dům",
+      "translation": "nhà",
+      "romanization": "nhà",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1653,
+      "word": "pokoj",
+      "translation": "phòng",
+      "romanization": "phòng",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1654,
+      "word": "ložnice",
+      "translation": "phòng ngủ",
+      "romanization": "phòng ngủ",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1655,
+      "word": "obývací pokoj",
+      "translation": "phòng khách",
+      "romanization": "phòng khách",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1656,
+      "word": "kuchyně",
+      "translation": "nhà bếp",
+      "romanization": "nhà bếp",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1657,
+      "word": "koupelna",
+      "translation": "phòng tắm",
+      "romanization": "phòng tắm",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1658,
+      "word": "záchod",
+      "translation": "nhà vệ sinh",
+      "romanization": "nhà vệ sinh",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1659,
+      "word": "jídelna",
+      "translation": "phòng ăn",
+      "romanization": "phòng ăn",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1660,
+      "word": "pracovna",
+      "translation": "phòng làm việc",
+      "romanization": "phòng làm việc",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1661,
+      "word": "dětský pokoj",
+      "translation": "phòng trẻ em",
+      "romanization": "phòng trẻ em",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1662,
+      "word": "předsíň",
+      "translation": "tiền sảnh",
+      "romanization": "tiền sảnh",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1663,
+      "word": "chodba",
+      "translation": "hành lang",
+      "romanization": "hành lang",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1664,
+      "word": "sklep",
+      "translation": "tầng hầm",
+      "romanization": "tầng hầm",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1665,
+      "word": "půda",
+      "translation": "gác mái",
+      "romanization": "gác mái",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1666,
+      "word": "garáž",
+      "translation": "ga-ra",
+      "romanization": "ga-ra",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1667,
+      "word": "balkon",
+      "translation": "ban công",
+      "romanization": "ban công",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1668,
+      "word": "terasa",
+      "translation": "sân thượng",
+      "romanization": "sân thượng",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1669,
+      "word": "zahrada",
+      "translation": "vườn",
+      "romanization": "vườn",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1670,
+      "word": "dvůr",
+      "translation": "sân",
+      "romanization": "sân",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1671,
+      "word": "střecha",
+      "translation": "mái nhà",
+      "romanization": "mái nhà",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1672,
+      "word": "stěna",
+      "translation": "tường",
+      "romanization": "tường",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1673,
+      "word": "podlaha",
+      "translation": "sàn nhà",
+      "romanization": "sàn nhà",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1674,
+      "word": "strop",
+      "translation": "trần nhà",
+      "romanization": "trần nhà",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1675,
+      "word": "postel",
+      "translation": "giường",
+      "romanization": "giường",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1676,
+      "word": "skříň",
+      "translation": "tủ quần áo",
+      "romanization": "tủ quần áo",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1677,
+      "word": "komoda",
+      "translation": "tủ ngăn kéo",
+      "romanization": "tủ ngăn kéo",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1678,
+      "word": "noční stolek",
+      "translation": "tủ đầu giường",
+      "romanization": "tủ đầu giường",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1679,
+      "word": "gauč",
+      "translation": "ghế sofa",
+      "romanization": "ghế sofa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1680,
+      "word": "křeslo",
+      "translation": "ghế bành",
+      "romanization": "ghế bành",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1681,
+      "word": "televize",
+      "translation": "ti vi",
+      "romanization": "ti vi",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1682,
+      "word": "rádio",
+      "translation": "đài radio",
+      "romanization": "đài radio",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1683,
+      "word": "lampa",
+      "translation": "đèn",
+      "romanization": "đèn",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1684,
+      "word": "lustr",
+      "translation": "đèn chùm",
+      "romanization": "đèn chùm",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1685,
+      "word": "záclona",
+      "translation": "rèm mỏng",
+      "romanization": "rèm mỏng",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1686,
+      "word": "závěs",
+      "translation": "rèm dày",
+      "romanization": "rèm dày",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1687,
+      "word": "koberec",
+      "translation": "thảm",
+      "romanization": "thảm",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1688,
+      "word": "obraz",
+      "translation": "tranh",
+      "romanization": "tranh",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1689,
+      "word": "zrcadlo",
+      "translation": "gương",
+      "romanization": "gương",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1690,
+      "word": "hodiny",
+      "translation": "đồng hồ",
+      "romanization": "đồng hồ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1691,
+      "word": "police",
+      "translation": "kệ",
+      "romanization": "kệ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1692,
+      "word": "knihovna",
+      "translation": "giá sách",
+      "romanization": "giá sách",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1693,
+      "word": "sporák",
+      "translation": "bếp",
+      "romanization": "bếp",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1694,
+      "word": "trouba",
+      "translation": "lò nướng",
+      "romanization": "lò nướng",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1695,
+      "word": "mikrovlnka",
+      "translation": "lò vi sóng",
+      "romanization": "lò vi sóng",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1696,
+      "word": "lednice",
+      "translation": "tủ lạnh",
+      "romanization": "tủ lạnh",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1697,
+      "word": "mrazák",
+      "translation": "tủ đông",
+      "romanization": "tủ đông",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1698,
+      "word": "myčka",
+      "translation": "máy rửa bát",
+      "romanization": "máy rửa bát",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1699,
+      "word": "pračka",
+      "translation": "máy giặt",
+      "romanization": "máy giặt",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1700,
+      "word": "sušička",
+      "translation": "máy sấy",
+      "romanization": "máy sấy",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1701,
+      "word": "vysavač",
+      "translation": "máy hút bụi",
+      "romanization": "máy hút bụi",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1702,
+      "word": "žehlička",
+      "translation": "bàn ủi",
+      "romanization": "bàn ủi",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1703,
+      "word": "fén",
+      "translation": "máy sấy tóc",
+      "romanization": "máy sấy tóc",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1704,
+      "word": "rychlovarná konvice",
+      "translation": "ấm đun nước",
+      "romanization": "ấm đun nước",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1705,
+      "word": "kávovar",
+      "translation": "máy pha cà phê",
+      "romanization": "máy pha cà phê",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1706,
+      "word": "mixér",
+      "translation": "máy xay",
+      "romanization": "máy xay",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1707,
+      "word": "toustovač",
+      "translation": "máy nướng bánh mì",
+      "romanization": "máy nướng bánh mì",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1708,
+      "word": "vana",
+      "translation": "bồn tắm",
+      "romanization": "bồn tắm",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1709,
+      "word": "sprcha",
+      "translation": "vòi sen",
+      "romanization": "vòi sen",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1710,
+      "word": "umyvadlo",
+      "translation": "bồn rửa mặt",
+      "romanization": "bồn rửa mặt",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1711,
+      "word": "dřez",
+      "translation": "bồn rửa chén",
+      "romanization": "bồn rửa chén",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1712,
+      "word": "kohoutek",
+      "translation": "vòi nước",
+      "romanization": "vòi nước",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1713,
+      "word": "ručník",
+      "translation": "khăn tắm",
+      "romanization": "khăn tắm",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1714,
+      "word": "osušk",
+      "translation": "khăn tắm lớn",
+      "romanization": "khăn tắm lớn",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1715,
+      "word": "mýdlo",
+      "translation": "xà phòng",
+      "romanization": "xà phòng",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1716,
+      "word": "šampon",
+      "translation": "dầu gội",
+      "romanization": "dầu gội",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1717,
+      "word": "zubní pasta",
+      "translation": "kem đánh răng",
+      "romanization": "kem đánh răng",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1718,
+      "word": "kartáček na zuby",
+      "translation": "bàn chải đánh răng",
+      "romanization": "bàn chải đánh răng",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1719,
+      "word": "hřeben",
+      "translation": "lược",
+      "romanization": "lược",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1720,
+      "word": "toaletní papír",
+      "translation": "giấy vệ sinh",
+      "romanization": "giấy vệ sinh",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1721,
+      "word": "polštář",
+      "translation": "gối",
+      "romanization": "gối",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1722,
+      "word": "peřina",
+      "translation": "chăn",
+      "romanization": "chăn",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1723,
+      "word": "deka",
+      "translation": "mền",
+      "romanization": "mền",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1724,
+      "word": "prostěradlo",
+      "translation": "ga trải giường",
+      "romanization": "ga trải giường",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1725,
+      "word": "povlečení",
+      "translation": "vỏ chăn ga gối",
+      "romanization": "vỏ chăn ga gối",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1726,
+      "word": "matrace",
+      "translation": "nệm",
+      "romanization": "nệm",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1727,
+      "word": "budík",
+      "translation": "đồng hồ báo thức",
+      "romanization": "đồng hồ báo thức",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1728,
+      "word": "věšák",
+      "translation": "móc treo",
+      "romanization": "móc treo",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1729,
+      "word": "ramínko",
+      "translation": "móc áo",
+      "romanization": "móc áo",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1730,
+      "word": "kbelík",
+      "translation": "xô",
+      "romanization": "xô",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1731,
+      "word": "mop",
+      "translation": "cây lau nhà",
+      "romanization": "cây lau nhà",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1732,
+      "word": "koště",
+      "translation": "chổi",
+      "romanization": "chổi",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1733,
+      "word": "lopatka",
+      "translation": "xẻng hót rác",
+      "romanization": "xẻng hót rác",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1734,
+      "word": "hadr",
+      "translation": "giẻ lau",
+      "romanization": "giẻ lau",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1735,
+      "word": "houba",
+      "translation": "miếng bọt biển",
+      "romanization": "miếng bọt biển",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1736,
+      "word": "čistící prostředek",
+      "translation": "chất tẩy rửa",
+      "romanization": "chất tẩy rửa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1737,
+      "word": "prací prášek",
+      "translation": "bột giặt",
+      "romanization": "bột giặt",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1738,
+      "word": "aviváž",
+      "translation": "nước xả vải",
+      "romanization": "nước xả vải",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1739,
+      "word": "jar",
+      "translation": "nước rửa chén",
+      "romanization": "nước rửa chén",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1740,
+      "word": "odpadkový koš",
+      "translation": "thùng rác",
+      "romanization": "thùng rác",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1741,
+      "word": "pytel na odpadky",
+      "translation": "túi rác",
+      "romanization": "túi rác",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1742,
+      "word": "topení",
+      "translation": "lò sưởi",
+      "romanization": "lò sưởi",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1743,
+      "word": "klimatizace",
+      "translation": "điều hòa",
+      "romanization": "điều hòa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1744,
+      "word": "ventilátor",
+      "translation": "quạt",
+      "romanization": "quạt",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1745,
+      "word": "zásuvka",
+      "translation": "ổ cắm điện",
+      "romanization": "ổ cắm điện",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1746,
+      "word": "vypínač",
+      "translation": "công tắc",
+      "romanization": "công tắc",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1747,
+      "word": "žárovka",
+      "translation": "bóng đèn",
+      "romanization": "bóng đèn",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1748,
+      "word": "prodlužovačka",
+      "translation": "dây nối điện",
+      "romanization": "dây nối điện",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1749,
+      "word": "baterie",
+      "translation": "pin",
+      "romanization": "pin",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1750,
+      "word": "svíčka",
+      "translation": "nến",
+      "romanization": "nến",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1751,
+      "word": "zapalovač",
+      "translation": "bật lửa",
+      "romanization": "bật lửa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1752,
+      "word": "sirky",
+      "translation": "diêm",
+      "romanization": "diêm",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1753,
+      "word": "popelník",
+      "translation": "gạt tàn",
+      "romanization": "gạt tàn",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1754,
+      "word": "váza",
+      "translation": "bình hoa",
+      "romanization": "bình hoa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1755,
+      "word": "květina",
+      "translation": "hoa",
+      "romanization": "hoa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1756,
+      "word": "květináč",
+      "translation": "chậu hoa",
+      "romanization": "chậu hoa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1757,
+      "word": "konvička",
+      "translation": "bình tưới",
+      "romanization": "bình tưới",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1758,
+      "word": "nůžky",
+      "translation": "kéo",
+      "romanization": "kéo",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1759,
+      "word": "lepidlo",
+      "translation": "keo dán",
+      "romanization": "keo dán",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1760,
+      "word": "izolepa",
+      "translation": "băng dính",
+      "romanization": "băng dính",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1761,
+      "word": "kladivo",
+      "translation": "búa",
+      "romanization": "búa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1762,
+      "word": "šroubovák",
+      "translation": "tua vít",
+      "romanization": "tua vít",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1763,
+      "word": "hřebík",
+      "translation": "đinh",
+      "romanization": "đinh",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1764,
+      "word": "šroub",
+      "translation": "ốc vít",
+      "romanization": "ốc vít",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1765,
+      "word": "kleště",
+      "translation": "kìm",
+      "romanization": "kìm",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1766,
+      "word": "pila",
+      "translation": "cưa",
+      "romanization": "cưa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1767,
+      "word": "vrtačka",
+      "translation": "máy khoan",
+      "romanization": "máy khoan",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1768,
+      "word": "metr",
+      "translation": "thước dây",
+      "romanization": "thước dây",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1769,
+      "word": "pravítko",
+      "translation": "thước kẻ",
+      "romanization": "thước kẻ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1770,
+      "word": "tužka",
+      "translation": "bút chì",
+      "romanization": "bút chì",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1771,
+      "word": "guma",
+      "translation": "cục tẩy",
+      "romanization": "cục tẩy",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1772,
+      "word": "ořezávátko",
+      "translation": "gọt bút chì",
+      "romanization": "gọt bút chì",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1773,
+      "word": "sešit",
+      "translation": "vở",
+      "romanization": "vở",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1774,
+      "word": "složka",
+      "translation": "bìa hồ sơ",
+      "romanization": "bìa hồ sơ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1775,
+      "word": "šanon",
+      "translation": "cặp tài liệu",
+      "romanization": "cặp tài liệu",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1776,
+      "word": "sponka",
+      "translation": "kẹp giấy",
+      "romanization": "kẹp giấy",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1777,
+      "word": "sešívačka",
+      "translation": "dập ghim",
+      "romanization": "dập ghim",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1778,
+      "word": "děrovačka",
+      "translation": "máy đục lỗ",
+      "romanization": "máy đục lỗ",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1779,
+      "word": "kalkulačka",
+      "translation": "máy tính",
+      "romanization": "máy tính",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1780,
+      "word": "tiskárna",
+      "translation": "máy in",
+      "romanization": "máy in",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1781,
+      "word": "skener",
+      "translation": "máy quét",
+      "romanization": "máy quét",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1782,
+      "word": "myš",
+      "translation": "chuột máy tính",
+      "romanization": "chuột máy tính",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1783,
+      "word": "klávesnice",
+      "translation": "bàn phím",
+      "romanization": "bàn phím",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1784,
+      "word": "monitor",
+      "translation": "màn hình",
+      "romanization": "màn hình",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1785,
+      "word": "reproduktor",
+      "translation": "loa",
+      "romanization": "loa",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1786,
+      "word": "sluchátka",
+      "translation": "tai nghe",
+      "romanization": "tai nghe",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1787,
+      "word": "nabíječka",
+      "translation": "sạc",
+      "romanization": "sạc",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1788,
+      "word": "kabel",
+      "translation": "dây cáp",
+      "romanization": "dây cáp",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1789,
+      "word": "flash disk",
+      "translation": "USB",
+      "romanization": "USB",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1790,
+      "word": "CD/DVD",
+      "translation": "đĩa CD/DVD",
+      "romanization": "đĩa CD/DVD",
+      "category": "basics",
+      "difficulty": 1
+    },
+    {
+      "id": 1791,
+      "word": "vstávat",
+      "translation": "thức dậy",
+      "romanization": "thức dậy",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1792,
+      "word": "probuzení",
+      "translation": "tỉnh giấc",
+      "romanization": "tỉnh giấc",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1793,
+      "word": "umýt se",
+      "translation": "rửa mặt",
+      "romanization": "rửa mặt",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1794,
+      "word": "čistit zuby",
+      "translation": "đánh răng",
+      "romanization": "đánh răng",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1795,
+      "word": "koupat se",
+      "translation": "tắm",
+      "romanization": "tắm",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1796,
+      "word": "sprchovat se",
+      "translation": "tắm vòi sen",
+      "romanization": "tắm vòi sen",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1797,
+      "word": "osušit se",
+      "translation": "lau khô",
+      "romanization": "lau khô",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1798,
+      "word": "česat se",
+      "translation": "chải tóc",
+      "romanization": "chải tóc",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1799,
+      "word": "holit se",
+      "translation": "cạo râu",
+      "romanization": "cạo râu",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1800,
+      "word": "líčit se",
+      "translation": "trang điểm",
+      "romanization": "trang điểm",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1801,
+      "word": "oblékat se",
+      "translation": "mặc quần áo",
+      "romanization": "mặc quần áo",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1802,
+      "word": "svlékat se",
+      "translation": "cởi quần áo",
+      "romanization": "cởi quần áo",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1803,
+      "word": "převlékat se",
+      "translation": "thay quần áo",
+      "romanization": "thay quần áo",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1804,
+      "word": "snídat",
+      "translation": "ăn sáng",
+      "romanization": "ăn sáng",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1805,
+      "word": "obědvat",
+      "translation": "ăn trưa",
+      "romanization": "ăn trưa",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1806,
+      "word": "večeřet",
+      "translation": "ăn tối",
+      "romanization": "ăn tối",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1807,
+      "word": "připravovat jídlo",
+      "translation": "chuẩn bị bữa ăn",
+      "romanization": "chuẩn bị bữa ăn",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1808,
+      "word": "nakupovat",
+      "translation": "mua sắm",
+      "romanization": "mua sắm",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1809,
+      "word": "uklízet",
+      "translation": "dọn dẹp",
+      "romanization": "dọn dẹp",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1810,
+      "word": "luxovat",
+      "translation": "hút bụi",
+      "romanization": "hút bụi",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1811,
+      "word": "vytírat",
+      "translation": "lau nhà",
+      "romanization": "lau nhà",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1812,
+      "word": "zametat",
+      "translation": "quét nhà",
+      "romanization": "quét nhà",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1813,
+      "word": "utírat prach",
+      "translation": "phủi bụi",
+      "romanization": "phủi bụi",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1814,
+      "word": "mýt nádobí",
+      "translation": "rửa chén",
+      "romanization": "rửa chén",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1815,
+      "word": "prát",
+      "translation": "giặt",
+      "romanization": "giặt",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1816,
+      "word": "věšet prádlo",
+      "translation": "phơi quần áo",
+      "romanization": "phơi quần áo",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1817,
+      "word": "žehlit",
+      "translation": "ủi",
+      "romanization": "ủi",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1818,
+      "word": "skládat prádlo",
+      "translation": "gấp quần áo",
+      "romanization": "gấp quần áo",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1819,
+      "word": "stlát postel",
+      "translation": "dọn giường",
+      "romanization": "dọn giường",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1820,
+      "word": "měnit povlečení",
+      "translation": "thay ga giường",
+      "romanization": "thay ga giường",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1821,
+      "word": "větrat",
+      "translation": "thông gió",
+      "romanization": "thông gió",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1822,
+      "word": "zalévat květiny",
+      "translation": "tưới hoa",
+      "romanization": "tưới hoa",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1823,
+      "word": "vynášet odpadky",
+      "translation": "đổ rác",
+      "romanization": "đổ rác",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1824,
+      "word": "třídit odpad",
+      "translation": "phân loại rác",
+      "romanization": "phân loại rác",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1825,
+      "word": "opravovat",
+      "translation": "sửa chữa",
+      "romanization": "sửa chữa",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1826,
+      "word": "malovat",
+      "translation": "sơn",
+      "romanization": "sơn",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1827,
+      "word": "montovat",
+      "translation": "lắp ráp",
+      "romanization": "lắp ráp",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1828,
+      "word": "stěhovat se",
+      "translation": "chuyển nhà",
+      "romanization": "chuyển nhà",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1829,
+      "word": "balit",
+      "translation": "đóng gói",
+      "romanization": "đóng gói",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1830,
+      "word": "vybalovat",
+      "translation": "mở gói",
+      "romanization": "mở gói",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1831,
+      "word": "zařizovat",
+      "translation": "sắp xếp",
+      "romanization": "sắp xếp",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1832,
+      "word": "dekorovat",
+      "translation": "trang trí",
+      "romanization": "trang trí",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1833,
+      "word": "přestavovat",
+      "translation": "sắp xếp lại",
+      "romanization": "sắp xếp lại",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1834,
+      "word": "renovovat",
+      "translation": "cải tạo",
+      "romanization": "cải tạo",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1835,
+      "word": "platit nájem",
+      "translation": "trả tiền thuê",
+      "romanization": "trả tiền thuê",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1836,
+      "word": "platit účty",
+      "translation": "trả hóa đơn",
+      "romanization": "trả hóa đơn",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1837,
+      "word": "šetřit energii",
+      "translation": "tiết kiệm năng lượng",
+      "romanization": "tiết kiệm năng lượng",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1838,
+      "word": "zamykat",
+      "translation": "khóa",
+      "romanization": "khóa",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1839,
+      "word": "odemykat",
+      "translation": "mở khóa",
+      "romanization": "mở khóa",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1840,
+      "word": "zvonit",
+      "translation": "bấm chuông",
+      "romanization": "bấm chuông",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1841,
+      "word": "klepat",
+      "translation": "gõ cửa",
+      "romanization": "gõ cửa",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1842,
+      "word": "otevírat dveře",
+      "translation": "mở cửa",
+      "romanization": "mở cửa",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1843,
+      "word": "přijímat návštěvy",
+      "translation": "tiếp khách",
+      "romanization": "tiếp khách",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1844,
+      "word": "hostit",
+      "translation": "chiêu đãi",
+      "romanization": "chiêu đãi",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1845,
+      "word": "odpočívat",
+      "translation": "nghỉ ngơi",
+      "romanization": "nghỉ ngơi",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1846,
+      "word": "relaxovat",
+      "translation": "thư giãn",
+      "romanization": "thư giãn",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1847,
+      "word": "dívat se na televizi",
+      "translation": "xem ti vi",
+      "romanization": "xem ti vi",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1848,
+      "word": "poslouchat hudbu",
+      "translation": "nghe nhạc",
+      "romanization": "nghe nhạc",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1849,
+      "word": "telefonovat",
+      "translation": "gọi điện thoại",
+      "romanization": "gọi điện thoại",
+      "category": "activities",
+      "difficulty": 1
+    },
+    {
+      "id": 1850,
+      "word": "jít spát",
+      "translation": "đi ngủ",
+      "romanization": "đi ngủ",
+      "category": "activities",
+      "difficulty": 1
+    }

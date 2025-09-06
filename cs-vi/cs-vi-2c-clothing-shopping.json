@@ -1,0 +1,1112 @@
+{
+  "language_pair": "cs-vi",
+  "level": "2C",
+  "category": "clothing-shopping",
+  "description": "Clothing items, shopping phrases, money, sizes, payment",
+  "words": [
+    {
+      "id": 1851,
+      "word": "oblečení",
+      "translation": "quần áo",
+      "romanization": "quần áo",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1852,
+      "word": "košile",
+      "translation": "áo sơ mi",
+      "romanization": "áo sơ mi",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1853,
+      "word": "tričko",
+      "translation": "áo phông",
+      "romanization": "áo phông",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1854,
+      "word": "svetr",
+      "translation": "áo len",
+      "romanization": "áo len",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1855,
+      "word": "mikina",
+      "translation": "áo nỉ",
+      "romanization": "áo nỉ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1856,
+      "word": "bunda",
+      "translation": "áo khoác",
+      "romanization": "áo khoác",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1857,
+      "word": "kabát",
+      "translation": "áo choàng",
+      "romanization": "áo choàng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1858,
+      "word": "sako",
+      "translation": "áo vest",
+      "romanization": "áo vest",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1859,
+      "word": "kalhoty",
+      "translation": "quần dài",
+      "romanization": "quần dài",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1860,
+      "word": "džíny",
+      "translation": "quần jean",
+      "romanization": "quần jean",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1861,
+      "word": "kraťasy",
+      "translation": "quần short",
+      "romanization": "quần short",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1862,
+      "word": "sukně",
+      "translation": "váy",
+      "romanization": "váy",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1863,
+      "word": "šaty",
+      "translation": "đầm",
+      "romanization": "đầm",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1864,
+      "word": "kostým",
+      "translation": "bộ vest nữ",
+      "romanization": "bộ vest nữ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1865,
+      "word": "oblek",
+      "translation": "bộ vest nam",
+      "romanization": "bộ vest nam",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1866,
+      "word": "spodní prádlo",
+      "translation": "đồ lót",
+      "romanization": "đồ lót",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1867,
+      "word": "kalhotky",
+      "translation": "quần lót",
+      "romanization": "quần lót",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1868,
+      "word": "podprsenka",
+      "translation": "áo ngực",
+      "romanization": "áo ngực",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1869,
+      "word": "ponožky",
+      "translation": "tất",
+      "romanization": "tất",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1870,
+      "word": "punčochy",
+      "translation": "vớ dài",
+      "romanization": "vớ dài",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1871,
+      "word": "pyžamo",
+      "translation": "đồ ngủ",
+      "romanization": "đồ ngủ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1872,
+      "word": "noční košile",
+      "translation": "váy ngủ",
+      "romanization": "váy ngủ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1873,
+      "word": "župan",
+      "translation": "áo choàng tắm",
+      "romanization": "áo choàng tắm",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1874,
+      "word": "plavky",
+      "translation": "đồ bơi",
+      "romanization": "đồ bơi",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1875,
+      "word": "tepláky",
+      "translation": "quần thể thao",
+      "romanization": "quần thể thao",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1876,
+      "word": "sportovní oblečení",
+      "translation": "đồ thể thao",
+      "romanization": "đồ thể thao",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1877,
+      "word": "boty",
+      "translation": "giày",
+      "romanization": "giày",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1878,
+      "word": "tenisky",
+      "translation": "giày thể thao",
+      "romanization": "giày thể thao",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1879,
+      "word": "sandály",
+      "translation": "dép sandal",
+      "romanization": "dép sandal",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1880,
+      "word": "pantofle",
+      "translation": "dép lê",
+      "romanization": "dép lê",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1881,
+      "word": "kozačky",
+      "translation": "bốt",
+      "romanization": "bốt",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1882,
+      "word": "podpatky",
+      "translation": "giày cao gót",
+      "romanization": "giày cao gót",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1883,
+      "word": "čepice",
+      "translation": "mũ",
+      "romanization": "mũ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1884,
+      "word": "klobouk",
+      "translation": "nón",
+      "romanization": "nón",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1885,
+      "word": "šála",
+      "translation": "khăn quàng",
+      "romanization": "khăn quàng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1886,
+      "word": "rukavice",
+      "translation": "găng tay",
+      "romanization": "găng tay",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1887,
+      "word": "opasek",
+      "translation": "thắt lưng",
+      "romanization": "thắt lưng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1888,
+      "word": "kravata",
+      "translation": "cà vạt",
+      "romanization": "cà vạt",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1889,
+      "word": "motýlek",
+      "translation": "nơ cổ",
+      "romanization": "nơ cổ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1890,
+      "word": "kapesník",
+      "translation": "khăn tay",
+      "romanization": "khăn tay",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1891,
+      "word": "deštník",
+      "translation": "ô/dù",
+      "romanization": "ô/dù",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1892,
+      "word": "kabelka",
+      "translation": "túi xách nữ",
+      "romanization": "túi xách nữ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1893,
+      "word": "batoh",
+      "translation": "ba lô",
+      "romanization": "ba lô",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1894,
+      "word": "peněženka",
+      "translation": "ví",
+      "romanization": "ví",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1895,
+      "word": "hodinky",
+      "translation": "đồng hồ đeo tay",
+      "romanization": "đồng hồ đeo tay",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1896,
+      "word": "náhrdelník",
+      "translation": "vòng cổ",
+      "romanization": "vòng cổ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1897,
+      "word": "náramek",
+      "translation": "vòng tay",
+      "romanization": "vòng tay",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1898,
+      "word": "prsten",
+      "translation": "nhẫn",
+      "romanization": "nhẫn",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1899,
+      "word": "náušnice",
+      "translation": "bông tai",
+      "romanization": "bông tai",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1900,
+      "word": "sluneční brýle",
+      "translation": "kính râm",
+      "romanization": "kính râm",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1901,
+      "word": "velikost",
+      "translation": "cỡ/size",
+      "romanization": "cỡ/size",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1902,
+      "word": "malá",
+      "translation": "nhỏ (S)",
+      "romanization": "nhỏ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1903,
+      "word": "střední",
+      "translation": "vừa (M)",
+      "romanization": "vừa",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1904,
+      "word": "velká",
+      "translation": "lớn (L)",
+      "romanization": "lớn",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1905,
+      "word": "extra velká",
+      "translation": "rất lớn (XL)",
+      "romanization": "rất lớn",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1906,
+      "word": "padnout",
+      "translation": "vừa vặn",
+      "romanization": "vừa vặn",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1907,
+      "word": "těsný",
+      "translation": "chật",
+      "romanization": "chật",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1908,
+      "word": "volný",
+      "translation": "rộng",
+      "romanization": "rộng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1909,
+      "word": "zkusit",
+      "translation": "thử",
+      "romanization": "thử",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1910,
+      "word": "zkušební kabinka",
+      "translation": "phòng thử đồ",
+      "romanization": "phòng thử đồ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1911,
+      "word": "vyměnit",
+      "translation": "đổi",
+      "romanization": "đổi",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1912,
+      "word": "vrátit",
+      "translation": "trả lại",
+      "romanization": "trả lại",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1913,
+      "word": "sleva",
+      "translation": "giảm giá",
+      "romanization": "giảm giá",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1914,
+      "word": "výprodej",
+      "translation": "xả hàng",
+      "romanization": "xả hàng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1915,
+      "word": "akce",
+      "translation": "khuyến mãi",
+      "romanization": "khuyến mãi",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1916,
+      "word": "cenovka",
+      "translation": "nhãn giá",
+      "romanization": "nhãn giá",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1917,
+      "word": "levný",
+      "translation": "rẻ",
+      "romanization": "rẻ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1918,
+      "word": "drahý",
+      "translation": "đắt",
+      "romanization": "đắt",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1919,
+      "word": "kvalitní",
+      "translation": "chất lượng",
+      "romanization": "chất lượng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1920,
+      "word": "módní",
+      "translation": "thời trang",
+      "romanization": "thời trang",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1921,
+      "word": "elegantní",
+      "translation": "lịch sự",
+      "romanization": "lịch sự",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1922,
+      "word": "sportovní",
+      "translation": "thể thao",
+      "romanization": "thể thao",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1923,
+      "word": "ležérní",
+      "translation": "thoải mái",
+      "romanization": "thoải mái",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1924,
+      "word": "formální",
+      "translation": "trang trọng",
+      "romanization": "trang trọng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1925,
+      "word": "bavlna",
+      "translation": "cotton",
+      "romanization": "cotton",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1926,
+      "word": "vlna",
+      "translation": "len",
+      "romanization": "len",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1927,
+      "word": "hedvábí",
+      "translation": "lụa",
+      "romanization": "lụa",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1928,
+      "word": "kůže",
+      "translation": "da",
+      "romanization": "da",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1929,
+      "word": "umělé materiály",
+      "translation": "chất liệu nhân tạo",
+      "romanization": "chất liệu nhân tạo",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1930,
+      "word": "prát v pračce",
+      "translation": "giặt máy",
+      "romanization": "giặt máy",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1931,
+      "word": "prát v ruce",
+      "translation": "giặt tay",
+      "romanization": "giặt tay",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1932,
+      "word": "chemické čištění",
+      "translation": "giặt khô",
+      "romanization": "giặt khô",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1933,
+      "word": "nákupní seznam",
+      "translation": "danh sách mua sắm",
+      "romanization": "danh sách mua sắm",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1934,
+      "word": "nákupní košík",
+      "translation": "giỏ hàng",
+      "romanization": "giỏ hàng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1935,
+      "word": "nákupní vozík",
+      "translation": "xe đẩy",
+      "romanization": "xe đẩy",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1936,
+      "word": "nákupní taška",
+      "translation": "túi mua sắm",
+      "romanization": "túi mua sắm",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1937,
+      "word": "obchodní dům",
+      "translation": "trung tâm thương mại",
+      "romanization": "trung tâm thương mại",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1938,
+      "word": "butik",
+      "translation": "cửa hàng thời trang",
+      "romanization": "cửa hàng thời trang",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1939,
+      "word": "second hand",
+      "translation": "đồ cũ",
+      "romanization": "đồ cũ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1940,
+      "word": "výloha",
+      "translation": "cửa kính trưng bày",
+      "romanization": "cửa kính trưng bày",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1941,
+      "word": "regál",
+      "translation": "kệ hàng",
+      "romanization": "kệ hàng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1942,
+      "word": "oddělení",
+      "translation": "khu vực",
+      "romanization": "khu vực",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1943,
+      "word": "pánské oddělení",
+      "translation": "khu nam",
+      "romanization": "khu nam",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1944,
+      "word": "dámské oddělení",
+      "translation": "khu nữ",
+      "romanization": "khu nữ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1945,
+      "word": "dětské oddělení",
+      "translation": "khu trẻ em",
+      "romanization": "khu trẻ em",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1946,
+      "word": "eskalátor",
+      "translation": "thang cuốn",
+      "romanization": "thang cuốn",
+      "category": "places",
+      "difficulty": 1
+    },
+    {
+      "id": 1947,
+      "word": "parkovací lístek",
+      "translation": "vé gửi xe",
+      "romanization": "vé gửi xe",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1948,
+      "word": "otevírací doba",
+      "translation": "giờ mở cửa",
+      "romanization": "giờ mở cửa",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1949,
+      "word": "zavírací doba",
+      "translation": "giờ đóng cửa",
+      "romanization": "giờ đóng cửa",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1950,
+      "word": "fronta",
+      "translation": "hàng chờ",
+      "romanization": "hàng chờ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1951,
+      "word": "stát frontu",
+      "translation": "xếp hàng",
+      "romanization": "xếp hàng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1952,
+      "word": "obsloužit",
+      "translation": "phục vụ",
+      "romanization": "phục vụ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1953,
+      "word": "zabalit",
+      "translation": "gói",
+      "romanization": "gói",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1954,
+      "word": "dárkové balení",
+      "translation": "gói quà",
+      "romanization": "gói quà",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1955,
+      "word": "stuha",
+      "translation": "ruy băng",
+      "romanization": "ruy băng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1956,
+      "word": "mašle",
+      "translation": "nơ",
+      "romanization": "nơ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1957,
+      "word": "dárkový poukaz",
+      "translation": "phiếu quà tặng",
+      "romanization": "phiếu quà tặng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1958,
+      "word": "věrnostní karta",
+      "translation": "thẻ khách hàng thân thiết",
+      "romanization": "thẻ khách hàng thân thiết",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1959,
+      "word": "body",
+      "translation": "điểm tích lũy",
+      "romanization": "điểm tích lũy",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1960,
+      "word": "hotovost",
+      "translation": "tiền mặt",
+      "romanization": "tiền mặt",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1961,
+      "word": "platební karta",
+      "translation": "thẻ thanh toán",
+      "romanization": "thẻ thanh toán",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1962,
+      "word": "kreditní karta",
+      "translation": "thẻ tín dụng",
+      "romanization": "thẻ tín dụng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1963,
+      "word": "debetní karta",
+      "translation": "thẻ ghi nợ",
+      "romanization": "thẻ ghi nợ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1964,
+      "word": "PIN",
+      "translation": "mã PIN",
+      "romanization": "mã PIN",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1965,
+      "word": "bezkontaktní platba",
+      "translation": "thanh toán không tiếp xúc",
+      "romanization": "thanh toán không tiếp xúc",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1966,
+      "word": "převod",
+      "translation": "chuyển khoản",
+      "romanization": "chuyển khoản",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1967,
+      "word": "splátky",
+      "translation": "trả góp",
+      "romanization": "trả góp",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1968,
+      "word": "záloha",
+      "translation": "đặt cọc",
+      "romanization": "đặt cọc",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1969,
+      "word": "doplatek",
+      "translation": "thanh toán thêm",
+      "romanization": "thanh toán thêm",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1970,
+      "word": "vrácení peněz",
+      "translation": "hoàn tiền",
+      "romanization": "hoàn tiền",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1971,
+      "word": "reklamace",
+      "translation": "khiếu nại",
+      "romanization": "khiếu nại",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1972,
+      "word": "záruka",
+      "translation": "bảo hành",
+      "romanization": "bảo hành",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1973,
+      "word": "záruční list",
+      "translation": "phiếu bảo hành",
+      "romanization": "phiếu bảo hành",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1974,
+      "word": "servis",
+      "translation": "dịch vụ",
+      "romanization": "dịch vụ",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1975,
+      "word": "oprava",
+      "translation": "sửa chữa",
+      "romanization": "sửa chữa",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1976,
+      "word": "náhradní díl",
+      "translation": "phụ tùng thay thế",
+      "romanization": "phụ tùng thay thế",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1977,
+      "word": "návod",
+      "translation": "hướng dẫn",
+      "romanization": "hướng dẫn",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1978,
+      "word": "etiketa",
+      "translation": "nhãn",
+      "romanization": "nhãn",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1979,
+      "word": "čárový kód",
+      "translation": "mã vạch",
+      "romanization": "mã vạch",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1980,
+      "word": "QR kód",
+      "translation": "mã QR",
+      "romanization": "mã QR",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1981,
+      "word": "online nákup",
+      "translation": "mua sắm trực tuyến",
+      "romanization": "mua sắm trực tuyến",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1982,
+      "word": "e-shop",
+      "translation": "cửa hàng điện tử",
+      "romanization": "cửa hàng điện tử",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1983,
+      "word": "doručení",
+      "translation": "giao hàng",
+      "romanization": "giao hàng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1984,
+      "word": "poštovné",
+      "translation": "phí vận chuyển",
+      "romanization": "phí vận chuyển",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1985,
+      "word": "kurýr",
+      "translation": "người giao hàng",
+      "romanization": "người giao hàng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1986,
+      "word": "balík",
+      "translation": "bưu kiện",
+      "romanization": "bưu kiện",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1987,
+      "word": "sledování zásilky",
+      "translation": "theo dõi đơn hàng",
+      "romanization": "theo dõi đơn hàng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id": 1988,
+      "word": "dobírka",
+      "translation": "thanh toán khi nhận hàng",
+      "romanization": "thanh toán khi nhận hàng",
+      "category": "shopping",
+      "difficulty": 1
+    },
+    {
+      "id":

@@ -1,0 +1,1208 @@
+{
+  "language_pair": "cs-vi",
+  "level": "2A",
+  "category": "family-people",
+  "description": "Extended family terms, descriptions of people, professions, relationships",
+  "words": [
+    {
+      "id": 1501,
+      "word": "matka",
+      "translation": "mẹ",
+      "romanization": "mẹ",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1502,
+      "word": "otec",
+      "translation": "cha/bố",
+      "romanization": "cha/bố",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1503,
+      "word": "syn",
+      "translation": "con trai",
+      "romanization": "con trai",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1504,
+      "word": "dcera",
+      "translation": "con gái",
+      "romanization": "con gái",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1505,
+      "word": "bratr",
+      "translation": "anh/em trai",
+      "romanization": "anh/em trai",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1506,
+      "word": "sestra",
+      "translation": "chị/em gái",
+      "romanization": "chị/em gái",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1507,
+      "word": "babička",
+      "translation": "bà",
+      "romanization": "bà",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1508,
+      "word": "dědeček",
+      "translation": "ông",
+      "romanization": "ông",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1509,
+      "word": "vnuk",
+      "translation": "cháu trai",
+      "romanization": "cháu trai",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1510,
+      "word": "vnučka",
+      "translation": "cháu gái",
+      "romanization": "cháu gái",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1511,
+      "word": "strýc",
+      "translation": "chú/bác",
+      "romanization": "chú/bác",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1512,
+      "word": "teta",
+      "translation": "cô/dì",
+      "romanization": "cô/dì",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1513,
+      "word": "bratranec",
+      "translation": "anh/em họ (trai)",
+      "romanization": "anh/em họ (trai)",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1514,
+      "word": "sestřenice",
+      "translation": "chị/em họ (gái)",
+      "romanization": "chị/em họ (gái)",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1515,
+      "word": "synovec",
+      "translation": "cháu trai (con của anh chị em)",
+      "romanization": "cháu trai",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1516,
+      "word": "neteř",
+      "translation": "cháu gái (con của anh chị em)",
+      "romanization": "cháu gái",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1517,
+      "word": "manžel",
+      "translation": "chồng",
+      "romanization": "chồng",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1518,
+      "word": "manželka",
+      "translation": "vợ",
+      "romanization": "vợ",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1519,
+      "word": "partner",
+      "translation": "bạn đời",
+      "romanization": "bạn đời",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1520,
+      "word": "příbuzný",
+      "translation": "họ hàng",
+      "romanization": "họ hàng",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1521,
+      "word": "tchán",
+      "translation": "bố chồng/bố vợ",
+      "romanization": "bố chồng/bố vợ",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1522,
+      "word": "tchyně",
+      "translation": "mẹ chồng/mẹ vợ",
+      "romanization": "mẹ chồng/mẹ vợ",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1523,
+      "word": "zeť",
+      "translation": "con rể",
+      "romanization": "con rể",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1524,
+      "word": "snacha",
+      "translation": "con dâu",
+      "romanization": "con dâu",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1525,
+      "word": "švagr",
+      "translation": "anh/em rể",
+      "romanization": "anh/em rể",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1526,
+      "word": "švagrová",
+      "translation": "chị/em dâu",
+      "romanization": "chị/em dâu",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1527,
+      "word": "nevlastní otec",
+      "translation": "cha dượng",
+      "romanization": "cha dượng",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": 1528,
+      "word": "nevlastní matka",
+      "translation": "mẹ kế",
+      "romanization": "mẹ kế",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": 1529,
+      "word": "adoptivní",
+      "translation": "nuôi",
+      "romanization": "nuôi",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": 1530,
+      "word": "dvojče",
+      "translation": "sinh đôi",
+      "romanization": "sinh đôi",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1531,
+      "word": "miminko",
+      "translation": "em bé",
+      "romanization": "em bé",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1532,
+      "word": "batole",
+      "translation": "trẻ mới biết đi",
+      "romanization": "trẻ mới biết đi",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": 1533,
+      "word": "teenager",
+      "translation": "thiếu niên",
+      "romanization": "thiếu niên",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1534,
+      "word": "dospělý",
+      "translation": "người lớn",
+      "romanization": "người lớn",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1535,
+      "word": "senior",
+      "translation": "người cao tuổi",
+      "romanization": "người cao tuổi",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1536,
+      "word": "soused",
+      "translation": "hàng xóm",
+      "romanization": "hàng xóm",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1537,
+      "word": "kolega",
+      "translation": "đồng nghiệp",
+      "romanization": "đồng nghiệp",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1538,
+      "word": "šéf",
+      "translation": "sếp",
+      "romanization": "sếp",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1539,
+      "word": "zaměstnanec",
+      "translation": "nhân viên",
+      "romanization": "nhân viên",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1540,
+      "word": "učitel",
+      "translation": "giáo viên",
+      "romanization": "giáo viên",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1541,
+      "word": "student",
+      "translation": "sinh viên",
+      "romanization": "sinh viên",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1542,
+      "word": "žák",
+      "translation": "học sinh",
+      "romanization": "học sinh",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1543,
+      "word": "doktor",
+      "translation": "bác sĩ",
+      "romanization": "bác sĩ",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1544,
+      "word": "zdravotní sestra",
+      "translation": "y tá",
+      "romanization": "y tá",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1545,
+      "word": "zubař",
+      "translation": "nha sĩ",
+      "romanization": "nha sĩ",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1546,
+      "word": "lékárník",
+      "translation": "dược sĩ",
+      "romanization": "dược sĩ",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1547,
+      "word": "právník",
+      "translation": "luật sư",
+      "romanization": "luật sư",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1548,
+      "word": "inženýr",
+      "translation": "kỹ sư",
+      "romanization": "kỹ sư",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1549,
+      "word": "architekt",
+      "translation": "kiến trúc sư",
+      "romanization": "kiến trúc sư",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1550,
+      "word": "účetní",
+      "translation": "kế toán",
+      "romanization": "kế toán",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1551,
+      "word": "programátor",
+      "translation": "lập trình viên",
+      "romanization": "lập trình viên",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1552,
+      "word": "novinář",
+      "translation": "nhà báo",
+      "romanization": "nhà báo",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1553,
+      "word": "fotograf",
+      "translation": "nhiếp ảnh gia",
+      "romanization": "nhiếp ảnh gia",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1554,
+      "word": "umělec",
+      "translation": "nghệ sĩ",
+      "romanization": "nghệ sĩ",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1555,
+      "word": "hudebník",
+      "translation": "nhạc sĩ",
+      "romanization": "nhạc sĩ",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1556,
+      "word": "herec",
+      "translation": "diễn viên",
+      "romanization": "diễn viên",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1557,
+      "word": "zpěvák",
+      "translation": "ca sĩ",
+      "romanization": "ca sĩ",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1558,
+      "word": "sportovec",
+      "translation": "vận động viên",
+      "romanization": "vận động viên",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1559,
+      "word": "kuchař",
+      "translation": "đầu bếp",
+      "romanization": "đầu bếp",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1560,
+      "word": "pekař",
+      "translation": "thợ làm bánh",
+      "romanization": "thợ làm bánh",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1561,
+      "word": "řezník",
+      "translation": "người bán thịt",
+      "romanization": "người bán thịt",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1562,
+      "word": "prodavač",
+      "translation": "người bán hàng",
+      "romanization": "người bán hàng",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1563,
+      "word": "pokladní",
+      "translation": "thu ngân",
+      "romanization": "thu ngân",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1564,
+      "word": "řidič",
+      "translation": "tài xế",
+      "romanization": "tài xế",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1565,
+      "word": "pilot",
+      "translation": "phi công",
+      "romanization": "phi công",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1566,
+      "word": "mechanik",
+      "translation": "thợ máy",
+      "romanization": "thợ máy",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1567,
+      "word": "elektrikář",
+      "translation": "thợ điện",
+      "romanization": "thợ điện",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1568,
+      "word": "instalatér",
+      "translation": "thợ sửa ống nước",
+      "romanization": "thợ sửa ống nước",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1569,
+      "word": "stavitel",
+      "translation": "thợ xây dựng",
+      "romanization": "thợ xây dựng",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1570,
+      "word": "malíř",
+      "translation": "thợ sơn",
+      "romanization": "thợ sơn",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1571,
+      "word": "zahradník",
+      "translation": "người làm vườn",
+      "romanization": "người làm vườn",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1572,
+      "word": "uklízeč",
+      "translation": "người dọn dẹp",
+      "romanization": "người dọn dẹp",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1573,
+      "word": "sekretářka",
+      "translation": "thư ký",
+      "romanization": "thư ký",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1574,
+      "word": "ředitel",
+      "translation": "giám đốc",
+      "romanization": "giám đốc",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1575,
+      "word": "manažer",
+      "translation": "quản lý",
+      "romanization": "quản lý",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1576,
+      "word": "podnikatel",
+      "translation": "doanh nhân",
+      "romanization": "doanh nhân",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1577,
+      "word": "důchodce",
+      "translation": "người về hưu",
+      "romanization": "người về hưu",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1578,
+      "word": "nezaměstnaný",
+      "translation": "thất nghiệp",
+      "romanization": "thất nghiệp",
+      "category": "work",
+      "difficulty": 1
+    },
+    {
+      "id": 1579,
+      "word": "svobodný",
+      "translation": "độc thân",
+      "romanization": "độc thân",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1580,
+      "word": "ženatý/vdaná",
+      "translation": "đã kết hôn",
+      "romanization": "đã kết hôn",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1581,
+      "word": "rozvedený",
+      "translation": "ly dị",
+      "romanization": "ly dị",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1582,
+      "word": "vdovec/vdova",
+      "translation": "góa",
+      "romanization": "góa",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1583,
+      "word": "těhotná",
+      "translation": "mang thai",
+      "romanization": "mang thai",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1584,
+      "word": "narozeniny",
+      "translation": "sinh nhật",
+      "romanization": "sinh nhật",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1585,
+      "word": "věk",
+      "translation": "tuổi",
+      "romanization": "tuổi",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1586,
+      "word": "pohlaví",
+      "translation": "giới tính",
+      "romanization": "giới tính",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1587,
+      "word": "národnost",
+      "translation": "quốc tịch",
+      "romanization": "quốc tịch",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1588,
+      "word": "Čech",
+      "translation": "người Séc",
+      "romanization": "người Séc",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1589,
+      "word": "Vietnamec",
+      "translation": "người Việt",
+      "romanization": "người Việt",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1590,
+      "word": "cizinec",
+      "translation": "người nước ngoài",
+      "romanization": "người nước ngoài",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1591,
+      "word": "turista",
+      "translation": "du khách",
+      "romanization": "du khách",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1592,
+      "word": "host",
+      "translation": "khách",
+      "romanization": "khách",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1593,
+      "word": "známý",
+      "translation": "người quen",
+      "romanization": "người quen",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1594,
+      "word": "nepřítel",
+      "translation": "kẻ thù",
+      "romanization": "kẻ thù",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1595,
+      "word": "kamarád",
+      "translation": "bạn thân",
+      "romanization": "bạn thân",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1596,
+      "word": "milenec/milenka",
+      "translation": "người yêu",
+      "romanization": "người yêu",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1597,
+      "word": "snoubenec/snoubenka",
+      "translation": "vị hôn phu/thê",
+      "romanization": "vị hôn phu/thê",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": 1598,
+      "word": "vztah",
+      "translation": "mối quan hệ",
+      "romanization": "mối quan hệ",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1599,
+      "word": "přátelství",
+      "translation": "tình bạn",
+      "romanization": "tình bạn",
+      "category": "emotions",
+      "difficulty": 1
+    },
+    {
+      "id": 1600,
+      "word": "rodokmen",
+      "translation": "gia phả",
+      "romanization": "gia phả",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": 1601,
+      "word": "generace",
+      "translation": "thế hệ",
+      "romanization": "thế hệ",
+      "category": "family",
+      "difficulty": 1
+    },
+    {
+      "id": 1602,
+      "word": "předek",
+      "translation": "tổ tiên",
+      "romanization": "tổ tiên",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": 1603,
+      "word": "potomek",
+      "translation": "hậu duệ",
+      "romanization": "hậu duệ",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": 1604,
+      "word": "dědictví",
+      "translation": "di sản",
+      "romanization": "di sản",
+      "category": "family",
+      "difficulty": 2
+    },
+    {
+      "id": 1605,
+      "word": "příjmení",
+      "translation": "họ",
+      "romanization": "họ",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1606,
+      "word": "křestní jméno",
+      "translation": "tên",
+      "romanization": "tên",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1607,
+      "word": "přezdívka",
+      "translation": "biệt danh",
+      "romanization": "biệt danh",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1608,
+      "word": "titul",
+      "translation": "chức danh",
+      "romanization": "chức danh",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1609,
+      "word": "pan",
+      "translation": "ông",
+      "romanization": "ông",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1610,
+      "word": "paní",
+      "translation": "bà",
+      "romanization": "bà",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1611,
+      "word": "slečna",
+      "translation": "cô",
+      "romanization": "cô",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1612,
+      "word": "hezký",
+      "translation": "đẹp",
+      "romanization": "đẹp",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1613,
+      "word": "pohledný",
+      "translation": "đẹp trai",
+      "romanization": "đẹp trai",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1614,
+      "word": "krásná",
+      "translation": "xinh đẹp",
+      "romanization": "xinh đẹp",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1615,
+      "word": "tlustý",
+      "translation": "béo",
+      "romanization": "béo",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1616,
+      "word": "hubený",
+      "translation": "gầy",
+      "romanization": "gầy",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1617,
+      "word": "štíhlý",
+      "translation": "mảnh mai",
+      "romanization": "mảnh mai",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1618,
+      "word": "svalnatý",
+      "translation": "cơ bắp",
+      "romanization": "cơ bắp",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1619,
+      "word": "blond",
+      "translation": "tóc vàng",
+      "romanization": "tóc vàng",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1620,
+      "word": "bruneta",
+      "translation": "tóc nâu",
+      "romanization": "tóc nâu",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1621,
+      "word": "zrzavý",
+      "translation": "tóc đỏ",
+      "romanization": "tóc đỏ",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1622,
+      "word": "šedivý",
+      "translation": "tóc bạc",
+      "romanization": "tóc bạc",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1623,
+      "word": "plešatý",
+      "translation": "hói",
+      "romanization": "hói",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1624,
+      "word": "kudrnatý",
+      "translation": "tóc xoăn",
+      "romanization": "tóc xoăn",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1625,
+      "word": "rovný",
+      "translation": "tóc thẳng",
+      "romanization": "tóc thẳng",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1626,
+      "word": "vousy",
+      "translation": "râu",
+      "romanization": "râu",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1627,
+      "word": "knír",
+      "translation": "ria mép",
+      "romanization": "ria mép",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1628,
+      "word": "brýle",
+      "translation": "kính",
+      "romanization": "kính",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1629,
+      "word": "tetování",
+      "translation": "hình xăm",
+      "romanization": "hình xăm",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1630,
+      "word": "piercing",
+      "translation": "khuyên",
+      "romanization": "khuyên",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1631,
+      "word": "jizva",
+      "translation": "sẹo",
+      "romanization": "sẹo",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1632,
+      "word": "piha",
+      "translation": "tàn nhang",
+      "romanization": "tàn nhang",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1633,
+      "word": "postava",
+      "translation": "dáng người",
+      "romanization": "dáng người",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1634,
+      "word": "výška",
+      "translation": "chiều cao",
+      "romanization": "chiều cao",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1635,
+      "word": "váha",
+      "translation": "cân nặng",
+      "romanization": "cân nặng",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1636,
+      "word": "obličej",
+      "translation": "khuôn mặt",
+      "romanization": "khuôn mặt",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1637,
+      "word": "úsměv",
+      "translation": "nụ cười",
+      "romanization": "nụ cười",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1638,
+      "word": "výraz",
+      "translation": "biểu cảm",
+      "romanization": "biểu cảm",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1639,
+      "word": "gesto",
+      "translation": "cử chỉ",
+      "romanization": "cử chỉ",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1640,
+      "word": "chůze",
+      "translation": "dáng đi",
+      "romanization": "dáng đi",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1641,
+      "word": "hlas",
+      "translation": "giọng nói",
+      "romanization": "giọng nói",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1642,
+      "word": "smích",
+      "translation": "tiếng cười",
+      "romanization": "tiếng cười",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1643,
+      "word": "pláč",
+      "translation": "tiếng khóc",
+      "romanization": "tiếng khóc",
+      "category": "emotions",
+      "difficulty": 1
+    },
+    {
+      "id": 1644,
+      "word": "povaha",
+      "translation": "tính cách",
+      "romanization": "tính cách",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1645,
+      "word": "charakter",
+      "translation": "nhân cách",
+      "romanization": "nhân cách",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1646,
+      "word": "temperament",
+      "translation": "tính khí",
+      "romanization": "tính khí",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1647,
+      "word": "chování",
+      "translation": "hành vi",
+      "romanization": "hành vi",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1648,
+      "word": "zvyk",
+      "translation": "thói quen",
+      "romanization": "thói quen",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1649,
+      "word": "talent",
+      "translation": "tài năng",
+      "romanization": "tài năng",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "id": 1650,
+      "word": "schopnost",
+      "translation": "khả năng",
+      "romanization": "khả năng",
+      "category": "people",
+      "difficulty": 1
+    }
+  ]
+}
