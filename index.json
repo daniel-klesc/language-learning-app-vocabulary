@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "sources": [
+    {
+      "id": "core",
+      "name": "Core Curriculum",
+      "icon": "📚",
+      "categories": [
+        {
+          "id": "cs-vi",
+          "name": "Czech → Vietnamese",
+          "path": "cs-vi",
+          "groups": [
+            {
+              "id": "level-1",
+              "name": "Level 1: Survival (0-500 words)",
+              "description": "Basic communication for tourists",
+              "files": [
+                {
+                  "filename": "1A-essentials.json",
+                  "name": "Essentials",
+                  "wordCount": 50,
+                  "difficulty": 1,
+                  "tags": ["greetings", "courtesy"]
+                },
+                {
+                  "filename": "1B-numbers-time.json",
+                  "name": "Numbers & Time",
+                  "wordCount": 100,
+                  "difficulty": 1,
+                  "tags": ["numbers", "time"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
