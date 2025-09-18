@@ -1,0 +1,188 @@
+{
+  "language_pair": "vi-cs",
+  "course_direction": "vietnamese_to_czech",
+  "target_learner": "vietnamese_native",
+  "level": "1A",
+  "category": "essentials",
+  "description": "First words focusing on Czech pronunciation and basic greetings",
+  "metadata": {
+    "level_numeric": 1,
+    "sublevel": "A",
+    "global_order": 1,
+    "total_words": 50,
+    "prerequisites": [],
+    "learning_objectives": [
+      "Master Czech special characters (č, š, ž, ř)",
+      "Learn basic greetings with correct pronunciation",
+      "Understand formal/informal distinction",
+      "Practice simple consonant combinations"
+    ],
+    "estimated_days": 10,
+    "suggested_start_day": 1,
+    "special_focus": "czech_sounds"
+  },
+  "words": [
+    {
+      "id": 1001,
+      "word": "xin chào",
+      "translation": "ahoj",
+      "romanization": "a-hoy",
+      "ipa": "/ahoj/",
+      "pronunciation_tip": "Như 'a hôi' trong tiếng Việt",
+      "category": "greetings",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 1,
+        "global_order": 1,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 1,
+        "repetition_weight": 2.0
+      },
+      "usage_note": "Thân mật, dùng với bạn bè",
+      "formality": "informal"
+    },
+    {
+      "id": 1002,
+      "word": "xin chào (lịch sự)",
+      "translation": "dobrý den",
+      "romanization": "dob-rí den",
+      "ipa": "/dobriː dɛn/",
+      "pronunciation_tip": "Chú ý 'br' phát âm liền, 'ý' dài",
+      "category": "greetings",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 2,
+        "global_order": 2,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 1,
+        "repetition_weight": 2.0
+      },
+      "usage_note": "Lịch sự, dùng với người lớn tuổi, nơi công cộng",
+      "formality": "formal",
+      "literal_meaning": "ngày tốt lành"
+    },
+    {
+      "id": 1003,
+      "word": "tôi",
+      "translation": "já",
+      "romanization": "yá",
+      "ipa": "/jaː/",
+      "pronunciation_tip": "Như 'da' với 'y' nhẹ phía trước",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 3,
+        "global_order": 3,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 1,
+        "repetition_weight": 2.0
+      },
+      "grammar_note": "Không thay đổi theo giới tính hay số lượng"
+    },
+    {
+      "id": 1004,
+      "word": "bạn",
+      "translation": "ty",
+      "romanization": "ti",
+      "ipa": "/tɪ/",
+      "pronunciation_tip": "Như 'ti' trong tiếng Việt",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 4,
+        "global_order": 4,
+        "priority": "core",
+        "dependencies": [1003],
+        "suggested_day": 1,
+        "repetition_weight": 2.0
+      },
+      "usage_note": "Thân mật, dùng với bạn bè, người trẻ",
+      "formality": "informal",
+      "contrast_with": "vy (lịch sự)"
+    },
+    {
+      "id": 1005,
+      "word": "ông/bà (lịch sự)",
+      "translation": "vy",
+      "romanization": "vi",
+      "ipa": "/vɪ/",
+      "pronunciation_tip": "Như 'vi' trong tiếng Việt",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 5,
+        "global_order": 5,
+        "priority": "core",
+        "dependencies": [1004],
+        "suggested_day": 2,
+        "repetition_weight": 2.0
+      },
+      "usage_note": "Lịch sự, dùng với người lớn, người lạ, hoặc số nhiều",
+      "formality": "formal",
+      "grammar_note": "Cũng là 'các bạn' (số nhiều)"
+    },
+    {
+      "id": 1006,
+      "word": "vâng/dạ",
+      "translation": "ano",
+      "romanization": "a-no",
+      "ipa": "/ano/",
+      "pronunciation_tip": "Giống 'a nô' trong tiếng Việt",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 6,
+        "global_order": 6,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 2,
+        "repetition_weight": 2.0
+      },
+      "usage_note": "Dùng trong mọi tình huống",
+      "shortened_form": "jo (thân mật)"
+    },
+    {
+      "id": 1007,
+      "word": "không",
+      "translation": "ne",
+      "romanization": "ne",
+      "ipa": "/nɛ/",
+      "pronunciation_tip": "Như 'nẹ' với 'e' mở",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 7,
+        "global_order": 7,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 2,
+        "repetition_weight": 2.0
+      },
+      "usage_note": "Dùng trong mọi tình huống"
+    },
+    {
+      "id": 1008,
+      "word": "cảm ơn",
+      "translation": "děkuji",
+      "romanization": "ďe-ku-yi",
+      "ipa": "/ɟɛkuji/",
+      "pronunciation_tip": "Chú ý 'ď' mềm như 'đ' nhẹ",
+      "special_character": "ď",
+      "category": "greetings",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 8,
+        "global_order": 8,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 2,
+        "repetition_weight": 2.0
+      },
+      "usage_note": "Lịch sự, dùng trong mọi tình huống",
+      "informal_form": "díky (cảm ơn thân mật)"
+    }
+  ]
+}
