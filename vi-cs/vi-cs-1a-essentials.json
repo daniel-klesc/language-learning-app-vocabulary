@@ -4,7 +4,7 @@
   "target_learner": "vietnamese_native",
   "level": "1A",
   "category": "essentials",
-  "description": "First words focusing on Czech pronunciation and basic greetings",
+  "description": "Từ vựng đầu tiên tập trung vào phát âm tiếng Séc và chào hỏi cơ bản",
   "metadata": {
     "level_numeric": 1,
     "sublevel": "A",
@@ -12,14 +12,14 @@
     "total_words": 50,
     "prerequisites": [],
     "learning_objectives": [
-      "Master Czech special characters (č, š, ž, ř)",
-      "Learn basic greetings with correct pronunciation",
-      "Understand formal/informal distinction",
-      "Practice simple consonant combinations"
+      "Làm quen với chữ cái đặc biệt tiếng Séc (č, š, ž, ř)",
+      "Học cách chào hỏi và câu lịch sự cơ bản",
+      "Phân biệt thân mật và lịch sự",
+      "Luyện tập các tổ hợp phụ âm đơn giản"
     ],
     "estimated_days": 10,
     "suggested_start_day": 1,
-    "special_focus": "czech_sounds"
+    "special_focus": "czech_pronunciation"
   },
   "words": [
     {
@@ -27,7 +27,6 @@
       "word": "xin chào",
       "translation": "ahoj",
       "romanization": "a-hoy",
-      "ipa": "/ahoj/",
       "pronunciation_tip": "Như 'a hôi' trong tiếng Việt",
       "category": "greetings",
       "difficulty": 1,
@@ -39,18 +38,16 @@
         "suggested_day": 1,
         "repetition_weight": 2.0
       },
-      "usage_note": "Thân mật, dùng với bạn bè",
-      "formality": "informal"
+      "usage_note": "Thân mật, dùng với bạn bè"
     },
     {
       "id": 1002,
-      "word": "xin chào (lịch sự)",
-      "translation": "dobrý den",
-      "romanization": "dob-rí den",
-      "ipa": "/dobriː dɛn/",
-      "pronunciation_tip": "Chú ý 'br' phát âm liền, 'ý' dài",
-      "category": "greetings",
-      "difficulty": 2,
+      "word": "tôi",
+      "translation": "já",
+      "romanization": "yá",
+      "pronunciation_tip": "Như 'da' với 'y' nhẹ phía trước",
+      "category": "basics",
+      "difficulty": 1,
       "learning_order": {
         "local_order": 2,
         "global_order": 2,
@@ -58,18 +55,14 @@
         "dependencies": [],
         "suggested_day": 1,
         "repetition_weight": 2.0
-      },
-      "usage_note": "Lịch sự, dùng với người lớn tuổi, nơi công cộng",
-      "formality": "formal",
-      "literal_meaning": "ngày tốt lành"
+      }
     },
     {
       "id": 1003,
-      "word": "tôi",
-      "translation": "já",
-      "romanization": "yá",
-      "ipa": "/jaː/",
-      "pronunciation_tip": "Như 'da' với 'y' nhẹ phía trước",
+      "word": "bạn",
+      "translation": "ty",
+      "romanization": "ti",
+      "pronunciation_tip": "Như 'ti' trong tiếng Việt",
       "category": "basics",
       "difficulty": 1,
       "learning_order": {
@@ -80,78 +73,67 @@
         "suggested_day": 1,
         "repetition_weight": 2.0
       },
-      "grammar_note": "Không thay đổi theo giới tính hay số lượng"
+      "usage_note": "Thân mật, dùng với bạn bè"
     },
     {
       "id": 1004,
-      "word": "bạn",
-      "translation": "ty",
-      "romanization": "ti",
-      "ipa": "/tɪ/",
-      "pronunciation_tip": "Như 'ti' trong tiếng Việt",
+      "word": "vâng/dạ",
+      "translation": "ano",
+      "romanization": "a-no",
+      "pronunciation_tip": "Giống 'a nô' trong tiếng Việt",
       "category": "basics",
       "difficulty": 1,
       "learning_order": {
         "local_order": 4,
         "global_order": 4,
         "priority": "core",
-        "dependencies": [1003],
+        "dependencies": [],
         "suggested_day": 1,
         "repetition_weight": 2.0
-      },
-      "usage_note": "Thân mật, dùng với bạn bè, người trẻ",
-      "formality": "informal",
-      "contrast_with": "vy (lịch sự)"
+      }
     },
     {
       "id": 1005,
-      "word": "ông/bà (lịch sự)",
-      "translation": "vy",
-      "romanization": "vi",
-      "ipa": "/vɪ/",
-      "pronunciation_tip": "Như 'vi' trong tiếng Việt",
+      "word": "không",
+      "translation": "ne",
+      "romanization": "ne",
+      "pronunciation_tip": "Như 'nẹ' với 'e' mở",
       "category": "basics",
       "difficulty": 1,
       "learning_order": {
         "local_order": 5,
         "global_order": 5,
         "priority": "core",
-        "dependencies": [1004],
-        "suggested_day": 2,
+        "dependencies": [],
+        "suggested_day": 1,
         "repetition_weight": 2.0
-      },
-      "usage_note": "Lịch sự, dùng với người lớn, người lạ, hoặc số nhiều",
-      "formality": "formal",
-      "grammar_note": "Cũng là 'các bạn' (số nhiều)"
+      }
     },
     {
       "id": 1006,
-      "word": "vâng/dạ",
-      "translation": "ano",
-      "romanization": "a-no",
-      "ipa": "/ano/",
-      "pronunciation_tip": "Giống 'a nô' trong tiếng Việt",
-      "category": "basics",
-      "difficulty": 1,
+      "word": "cảm ơn",
+      "translation": "děkuji",
+      "romanization": "ďe-ku-yi",
+      "pronunciation_tip": "Chú ý 'ď' mềm như 'đ' nhẹ",
+      "special_character": "ď",
+      "category": "greetings",
+      "difficulty": 2,
       "learning_order": {
         "local_order": 6,
         "global_order": 6,
         "priority": "core",
         "dependencies": [],
-        "suggested_day": 2,
+        "suggested_day": 1,
         "repetition_weight": 2.0
-      },
-      "usage_note": "Dùng trong mọi tình huống",
-      "shortened_form": "jo (thân mật)"
+      }
     },
     {
       "id": 1007,
-      "word": "không",
-      "translation": "ne",
-      "romanization": "ne",
-      "ipa": "/nɛ/",
-      "pronunciation_tip": "Như 'nẹ' với 'e' mở",
-      "category": "basics",
+      "word": "xin/làm ơn",
+      "translation": "prosím",
+      "romanization": "pro-sím",
+      "pronunciation_tip": "'pro' như 'prô', 'sím' dài",
+      "category": "greetings",
       "difficulty": 1,
       "learning_order": {
         "local_order": 7,
@@ -160,29 +142,758 @@
         "dependencies": [],
         "suggested_day": 2,
         "repetition_weight": 2.0
-      },
-      "usage_note": "Dùng trong mọi tình huống"
+      }
     },
     {
       "id": 1008,
-      "word": "cảm ơn",
-      "translation": "děkuji",
-      "romanization": "ďe-ku-yi",
-      "ipa": "/ɟɛkuji/",
-      "pronunciation_tip": "Chú ý 'ď' mềm như 'đ' nhẹ",
-      "special_character": "ď",
+      "word": "xin lỗi",
+      "translation": "promiňte",
+      "romanization": "pro-miň-te",
+      "pronunciation_tip": "'ň' mềm như 'ni' trong 'senior'",
+      "special_character": "ň",
       "category": "greetings",
       "difficulty": 2,
       "learning_order": {
         "local_order": 8,
         "global_order": 8,
         "priority": "core",
+        "dependencies": [1007],
+        "suggested_day": 2,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1009,
+      "word": "chào buổi sáng",
+      "translation": "dobré ráno",
+      "romanization": "dob-ré rá-no",
+      "pronunciation_tip": "'r' rung nhẹ, 'é' và 'á' dài",
+      "category": "greetings",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 9,
+        "global_order": 9,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 2,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1010,
+      "word": "xin chào (lịch sự)",
+      "translation": "dobrý den",
+      "romanization": "dob-rí den",
+      "pronunciation_tip": "'br' phát âm liền, 'ý' dài",
+      "category": "greetings",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 10,
+        "global_order": 10,
+        "priority": "core",
         "dependencies": [],
         "suggested_day": 2,
         "repetition_weight": 2.0
       },
-      "usage_note": "Lịch sự, dùng trong mọi tình huống",
-      "informal_form": "díky (cảm ơn thân mật)"
+      "usage_note": "Lịch sự, dùng nơi công cộng"
+    },
+    {
+      "id": 1011,
+      "word": "chào buổi tối",
+      "translation": "dobrý večer",
+      "romanization": "dob-rí ve-čer",
+      "pronunciation_tip": "'č' như 'ch' trong 'chào'",
+      "special_character": "č",
+      "category": "greetings",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 11,
+        "global_order": 11,
+        "priority": "essential",
+        "dependencies": [1010],
+        "suggested_day": 2,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1012,
+      "word": "chúc ngủ ngon",
+      "translation": "dobrou noc",
+      "romanization": "dob-rou nots",
+      "pronunciation_tip": "'ou' như 'âu', 'c' như 'ts'",
+      "category": "greetings",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 12,
+        "global_order": 12,
+        "priority": "essential",
+        "dependencies": [1011],
+        "suggested_day": 3,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1013,
+      "word": "tạm biệt",
+      "translation": "na shledanou",
+      "romanization": "na shle-da-nou",
+      "pronunciation_tip": "'sh' như 's' mạnh, 'ou' như 'âu'",
+      "category": "greetings",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 13,
+        "global_order": 13,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 3,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1014,
+      "word": "bạn khỏe không?",
+      "translation": "jak se máte?",
+      "romanization": "yak se má-te",
+      "pronunciation_tip": "'jak' như 'dắc', 'á' dài",
+      "category": "greetings",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 14,
+        "global_order": 14,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 3,
+        "repetition_weight": 1.8
+      },
+      "usage_note": "Lịch sự, dùng 'máš' với bạn bè"
+    },
+    {
+      "id": 1015,
+      "word": "tốt",
+      "translation": "dobře",
+      "romanization": "dob-rzhe",
+      "pronunciation_tip": "'ř' như 'rz' phát âm cùng lúc",
+      "special_character": "ř",
+      "category": "basics",
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 15,
+        "global_order": 15,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 3,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1016,
+      "word": "xấu/tệ",
+      "translation": "špatně",
+      "romanization": "shpat-ňe",
+      "pronunciation_tip": "'š' như 'sh', 'ň' mềm",
+      "special_character": "š,ň",
+      "category": "basics",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 16,
+        "global_order": 16,
+        "priority": "essential",
+        "dependencies": [1015],
+        "suggested_day": 3,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1017,
+      "word": "cái gì?",
+      "translation": "co?",
+      "romanization": "tso",
+      "pronunciation_tip": "'c' như 'ts' trong 'tsar'",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 17,
+        "global_order": 17,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 4,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1018,
+      "word": "ai?",
+      "translation": "kdo?",
+      "romanization": "gdo",
+      "pronunciation_tip": "'kd' phát âm liền như 'gđ'",
+      "category": "basics",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 18,
+        "global_order": 18,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 4,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1019,
+      "word": "ở đâu?",
+      "translation": "kde?",
+      "romanization": "gde",
+      "pronunciation_tip": "'kd' như 'gđ', 'e' mở",
+      "category": "basics",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 19,
+        "global_order": 19,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 4,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1020,
+      "word": "khi nào?",
+      "translation": "kdy?",
+      "romanization": "gdi",
+      "pronunciation_tip": "'kd' như 'gđ', 'y' như 'i'",
+      "category": "basics",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 20,
+        "global_order": 20,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 4,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1021,
+      "word": "tại sao?",
+      "translation": "proč?",
+      "romanization": "proč",
+      "pronunciation_tip": "'č' như 'ch' trong 'chào'",
+      "special_character": "č",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 21,
+        "global_order": 21,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 4,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1022,
+      "word": "thế nào?",
+      "translation": "jak?",
+      "romanization": "yak",
+      "pronunciation_tip": "Như 'dắc' với 'y' nhẹ",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 22,
+        "global_order": 22,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 5,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1023,
+      "word": "bao nhiêu?",
+      "translation": "kolik?",
+      "romanization": "ko-lik",
+      "pronunciation_tip": "Phát âm rõ từng âm tiết",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 23,
+        "global_order": 23,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 5,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1024,
+      "word": "ở đây",
+      "translation": "tady",
+      "romanization": "ta-di",
+      "pronunciation_tip": "Như 'ta đi' nhưng ngắn",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 24,
+        "global_order": 24,
+        "priority": "core",
+        "dependencies": [1019],
+        "suggested_day": 5,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1025,
+      "word": "ở đó",
+      "translation": "tam",
+      "romanization": "tam",
+      "pronunciation_tip": "Như 'tam' trong tiếng Việt",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 25,
+        "global_order": 25,
+        "priority": "core",
+        "dependencies": [1024],
+        "suggested_day": 5,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1026,
+      "word": "bây giờ",
+      "translation": "teď",
+      "romanization": "teď",
+      "pronunciation_tip": "'ď' mềm như 'đ' nhẹ",
+      "special_character": "ď",
+      "category": "time",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 26,
+        "global_order": 26,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 5,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1027,
+      "word": "sau đó",
+      "translation": "potom",
+      "romanization": "po-tom",
+      "pronunciation_tip": "Phát âm rõ từng âm",
+      "category": "time",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 27,
+        "global_order": 27,
+        "priority": "essential",
+        "dependencies": [1026],
+        "suggested_day": 6,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1028,
+      "word": "trước đó",
+      "translation": "předtím",
+      "romanization": "przed-tím",
+      "pronunciation_tip": "'př' như 'psh', 'í' dài",
+      "special_character": "ř",
+      "category": "time",
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 28,
+        "global_order": 28,
+        "priority": "essential",
+        "dependencies": [1027],
+        "suggested_day": 6,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1029,
+      "word": "hôm nay",
+      "translation": "dnes",
+      "romanization": "dnes",
+      "pronunciation_tip": "'dn' phát âm liền",
+      "category": "time",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 29,
+        "global_order": 29,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 6,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1030,
+      "word": "ngày mai",
+      "translation": "zítra",
+      "romanization": "zít-ra",
+      "pronunciation_tip": "'z' như 'dz' nhẹ, 'í' dài",
+      "category": "time",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 30,
+        "global_order": 30,
+        "priority": "core",
+        "dependencies": [1029],
+        "suggested_day": 6,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1031,
+      "word": "hôm qua",
+      "translation": "včera",
+      "romanization": "fče-ra",
+      "pronunciation_tip": "'v' như 'f', 'č' như 'ch'",
+      "special_character": "č",
+      "category": "time",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 31,
+        "global_order": 31,
+        "priority": "core",
+        "dependencies": [1029],
+        "suggested_day": 6,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1032,
+      "word": "người",
+      "translation": "člověk",
+      "romanization": "člo-vyek",
+      "pronunciation_tip": "'č' như 'ch', 'ě' như 'ye'",
+      "special_character": "č,ě",
+      "category": "people",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 32,
+        "global_order": 32,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 7,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1033,
+      "word": "đàn ông",
+      "translation": "muž",
+      "romanization": "muzh",
+      "pronunciation_tip": "'ž' như 'gi' trong 'giang'",
+      "special_character": "ž",
+      "category": "people",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 33,
+        "global_order": 33,
+        "priority": "core",
+        "dependencies": [1032],
+        "suggested_day": 7,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1034,
+      "word": "phụ nữ",
+      "translation": "žena",
+      "romanization": "zhe-na",
+      "pronunciation_tip": "'ž' như 'gi' trong 'giang'",
+      "special_character": "ž",
+      "category": "people",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 34,
+        "global_order": 34,
+        "priority": "core",
+        "dependencies": [1032],
+        "suggested_day": 7,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1035,
+      "word": "trẻ em",
+      "translation": "dítě",
+      "romanization": "dí-tye",
+      "pronunciation_tip": "'í' dài, 'ě' như 'ye'",
+      "special_character": "ě",
+      "category": "people",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 35,
+        "global_order": 35,
+        "priority": "core",
+        "dependencies": [1032],
+        "suggested_day": 7,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1036,
+      "word": "bạn/người bạn",
+      "translation": "přítel",
+      "romanization": "przí-tel",
+      "pronunciation_tip": "'př' như 'psh', 'í' dài",
+      "special_character": "ř",
+      "category": "people",
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 36,
+        "global_order": 36,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 7,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1037,
+      "word": "tên",
+      "translation": "jméno",
+      "romanization": "ymé-no",
+      "pronunciation_tip": "'j' như 'y', 'é' dài",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 37,
+        "global_order": 37,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 8,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1038,
+      "word": "nước",
+      "translation": "voda",
+      "romanization": "vo-da",
+      "pronunciation_tip": "Như 'vô đa' nhưng ngắn",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 38,
+        "global_order": 38,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 8,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1039,
+      "word": "thức ăn",
+      "translation": "jídlo",
+      "romanization": "yíd-lo",
+      "pronunciation_tip": "'j' như 'y', 'í' dài",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 39,
+        "global_order": 39,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 8,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1040,
+      "word": "nhà",
+      "translation": "dům",
+      "romanization": "duum",
+      "pronunciation_tip": "'ů' như 'u' dài",
+      "special_character": "ů",
+      "category": "places",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 40,
+        "global_order": 40,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 8,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1041,
+      "word": "có",
+      "translation": "mít",
+      "romanization": "mít",
+      "pronunciation_tip": "'í' dài như 'ý'",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 41,
+        "global_order": 41,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 9,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1042,
+      "word": "là (thì/ở)",
+      "translation": "být",
+      "romanization": "bít",
+      "pronunciation_tip": "'ý' dài",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 42,
+        "global_order": 42,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 9,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1043,
+      "word": "đi",
+      "translation": "jít",
+      "romanization": "yít",
+      "pronunciation_tip": "'j' như 'y', 'í' dài",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 43,
+        "global_order": 43,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 9,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1044,
+      "word": "đến",
+      "translation": "přijít",
+      "romanization": "przy-yít",
+      "pronunciation_tip": "'př' như 'psh', cả từ phát âm liền",
+      "special_character": "ř",
+      "category": "basics",
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 44,
+        "global_order": 44,
+        "priority": "core",
+        "dependencies": [1043],
+        "suggested_day": 9,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1045,
+      "word": "thấy/nhìn",
+      "translation": "vidět",
+      "romanization": "vi-dyet",
+      "pronunciation_tip": "'ě' như 'yet'",
+      "special_character": "ě",
+      "category": "basics",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 45,
+        "global_order": 45,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 9,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1046,
+      "word": "muốn",
+      "translation": "chtít",
+      "romanization": "khtít",
+      "pronunciation_tip": "'ch' như 'kh' mạnh, 'í' dài",
+      "category": "basics",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 46,
+        "global_order": 46,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 10,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1047,
+      "word": "cần",
+      "translation": "potřebovat",
+      "romanization": "pot-rzhe-bo-vat",
+      "pronunciation_tip": "'tř' như 'tsh', 'ř' như 'rzh'",
+      "special_character": "ř",
+      "category": "basics",
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 47,
+        "global_order": 47,
+        "priority": "core",
+        "dependencies": [1046],
+        "suggested_day": 10,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1048,
+      "word": "hiểu",
+      "translation": "rozumět",
+      "romanization": "ro-zu-myet",
+      "pronunciation_tip": "'ě' như 'yet'",
+      "special_character": "ě",
+      "category": "basics",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 48,
+        "global_order": 48,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 10,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1049,
+      "word": "nói",
+      "translation": "mluvit",
+      "romanization": "mlu-vit",
+      "pronunciation_tip": "'ml' phát âm liền",
+      "category": "basics",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 49,
+        "global_order": 49,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 10,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1050,
+      "word": "cứu tôi!",
+      "translation": "pomoc!",
+      "romanization": "po-mots",
+      "pronunciation_tip": "'c' ở cuối như 'ts'",
+      "category": "greetings",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 50,
+        "global_order": 50,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 10,
+        "repetition_weight": 2.0
+      }
     }
   ]
 }

@@ -13,9 +13,9 @@
     "prerequisites": [],
     "learning_objectives": [
       "Master the 6 Vietnamese tones",
-      "Learn basic greetings with correct pronunciation",
+      "Learn essential greetings and courtesy phrases",
       "Understand tone marks and their meanings",
-      "Practice tone minimal pairs"
+      "Practice basic questions and responses"
     ],
     "estimated_days": 10,
     "suggested_start_day": 1,
@@ -28,10 +28,7 @@
       "translation": "xin chào",
       "romanization": "sin¹ chao²",
       "ipa": "/sin˧ caːw˨/",
-      "tone_info": {
-        "xin": "level tone (ngang)",
-        "chào": "falling tone (huyền)"
-      },
+      "tone_info": "level-falling",
       "category": "greetings",
       "difficulty": 2,
       "learning_order": {
@@ -41,9 +38,7 @@
         "dependencies": [],
         "suggested_day": 1,
         "repetition_weight": 2.0
-      },
-      "usage_note": "More formal than 'ahoj', used any time of day",
-      "audio_focus": "tone_contrast"
+      }
     },
     {
       "id": 1002,
@@ -51,9 +46,7 @@
       "translation": "tôi",
       "romanization": "toi¹",
       "ipa": "/toj˧/",
-      "tone_info": {
-        "tôi": "level tone (ngang)"
-      },
+      "tone_info": "level",
       "category": "basics",
       "difficulty": 1,
       "learning_order": {
@@ -63,9 +56,7 @@
         "dependencies": [],
         "suggested_day": 1,
         "repetition_weight": 2.0
-      },
-      "usage_note": "Neutral 'I', appropriate in most situations",
-      "audio_focus": "level_tone"
+      }
     },
     {
       "id": 1003,
@@ -73,21 +64,17 @@
       "translation": "bạn",
       "romanization": "ban³",
       "ipa": "/ɓaːn˧˨ʔ/",
-      "tone_info": {
-        "bạn": "falling-rising tone (nặng)"
-      },
+      "tone_info": "falling-rising",
       "category": "basics",
       "difficulty": 2,
       "learning_order": {
         "local_order": 3,
         "global_order": 3,
         "priority": "core",
-        "dependencies": [1002],
+        "dependencies": [],
         "suggested_day": 1,
         "repetition_weight": 2.0
-      },
-      "usage_note": "Informal 'you', used with friends/peers",
-      "audio_focus": "glottal_stop"
+      }
     },
     {
       "id": 1004,
@@ -95,9 +82,7 @@
       "translation": "vâng",
       "romanization": "vung¹",
       "ipa": "/vəŋ˧/",
-      "tone_info": {
-        "vâng": "level tone (ngang)"
-      },
+      "tone_info": "level",
       "category": "basics",
       "difficulty": 1,
       "learning_order": {
@@ -107,11 +92,6 @@
         "dependencies": [],
         "suggested_day": 1,
         "repetition_weight": 2.0
-      },
-      "usage_note": "Polite 'yes', also 'dạ' in South, 'ừ' informally",
-      "regional_variants": {
-        "north": "vâng",
-        "south": "dạ"
       }
     },
     {
@@ -120,9 +100,7 @@
       "translation": "không",
       "romanization": "khom¹",
       "ipa": "/xoŋ˧/",
-      "tone_info": {
-        "không": "level tone (ngang)"
-      },
+      "tone_info": "level",
       "category": "basics",
       "difficulty": 1,
       "learning_order": {
@@ -130,35 +108,818 @@
         "global_order": 5,
         "priority": "core",
         "dependencies": [],
-        "suggested_day": 2,
+        "suggested_day": 1,
         "repetition_weight": 2.0
-      },
-      "usage_note": "Standard 'no', also means 'not' in negation"
+      }
     },
     {
       "id": 1006,
-      "word": "tón (zvuk)",
-      "translation": "thanh điệu",
-      "romanization": "thanh¹ dieu³",
-      "ipa": "/tʰaɲ˧ ziəw˧˨ʔ/",
-      "category": "language_learning",
-      "difficulty": 3,
+      "word": "děkuji",
+      "translation": "cảm ơn",
+      "romanization": "kam² un¹",
+      "ipa": "/kaːm˨ ɤn˧/",
+      "tone_info": "falling-level",
+      "category": "greetings",
+      "difficulty": 2,
       "learning_order": {
         "local_order": 6,
         "global_order": 6,
         "priority": "core",
         "dependencies": [],
+        "suggested_day": 1,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1007,
+      "word": "prosím",
+      "translation": "xin",
+      "romanization": "sin¹",
+      "ipa": "/sin˧/",
+      "tone_info": "level",
+      "category": "greetings",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 7,
+        "global_order": 7,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 2,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1008,
+      "word": "promiňte",
+      "translation": "xin lỗi",
+      "romanization": "sin¹ loi⁵",
+      "ipa": "/sin˧ loj˧˥/",
+      "tone_info": "level-rising",
+      "category": "greetings",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 8,
+        "global_order": 8,
+        "priority": "core",
+        "dependencies": [1007],
         "suggested_day": 2,
         "repetition_weight": 1.8
-      },
-      "usage_note": "Critical concept: Vietnamese has 6 tones",
-      "tone_examples": {
-        "ngang": "ma (ghost)",
-        "huyền": "mà (but)",
-        "sắc": "má (cheek)",
-        "nặng": "mạ (rice seedling)",
-        "hỏi": "mả (tomb)",
-        "ngã": "mã (horse)"
+      }
+    },
+    {
+      "id": 1009,
+      "word": "dobré ráno",
+      "translation": "chào buổi sáng",
+      "romanization": "chao² buoi⁵ sang²",
+      "ipa": "/caːw˨ ɓuəj˧˥ saːŋ˨/",
+      "tone_info": "falling-rising-falling",
+      "category": "greetings",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 9,
+        "global_order": 9,
+        "priority": "core",
+        "dependencies": [1001],
+        "suggested_day": 2,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1010,
+      "word": "dobrý den",
+      "translation": "xin chào",
+      "romanization": "sin¹ chao²",
+      "ipa": "/sin˧ caːw˨/",
+      "tone_info": "level-falling",
+      "category": "greetings",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 10,
+        "global_order": 10,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 2,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1011,
+      "word": "dobrý večer",
+      "translation": "chào buổi tối",
+      "romanization": "chao² buoi⁵ toi²",
+      "ipa": "/caːw˨ ɓuəj˧˥ toj˨/",
+      "tone_info": "falling-rising-falling",
+      "category": "greetings",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 11,
+        "global_order": 11,
+        "priority": "essential",
+        "dependencies": [1009],
+        "suggested_day": 2,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1012,
+      "word": "dobrou noc",
+      "translation": "chúc ngủ ngon",
+      "romanization": "chuk² ngu² ngon¹",
+      "ipa": "/cuk˨ ŋu˨ ŋɔn˧/",
+      "tone_info": "falling-falling-level",
+      "category": "greetings",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 12,
+        "global_order": 12,
+        "priority": "essential",
+        "dependencies": [1011],
+        "suggested_day": 3,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1013,
+      "word": "na shledanou",
+      "translation": "tạm biệt",
+      "romanization": "tam³ biet³",
+      "ipa": "/taːm˧˨ʔ ɓiət˧˨ʔ/",
+      "tone_info": "falling-rising both",
+      "category": "greetings",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 13,
+        "global_order": 13,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 3,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1014,
+      "word": "jak se máte?",
+      "translation": "bạn khỏe không?",
+      "romanization": "ban³ khoe² khom¹",
+      "ipa": "/ɓaːn˧˨ʔ xwɛ˨ xoŋ˧/",
+      "tone_info": "falling-rising, falling, level",
+      "category": "greetings",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 14,
+        "global_order": 14,
+        "priority": "core",
+        "dependencies": [1003, 1005],
+        "suggested_day": 3,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1015,
+      "word": "dobře",
+      "translation": "tốt",
+      "romanization": "tot²",
+      "ipa": "/tot˨/",
+      "tone_info": "falling",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 15,
+        "global_order": 15,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 3,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1016,
+      "word": "špatně",
+      "translation": "xấu",
+      "romanization": "sau²",
+      "ipa": "/saw˨/",
+      "tone_info": "falling",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 16,
+        "global_order": 16,
+        "priority": "essential",
+        "dependencies": [1015],
+        "suggested_day": 3,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1017,
+      "word": "co?",
+      "translation": "cái gì?",
+      "romanization": "kai² zi²",
+      "ipa": "/kaːj˨ zi˨/",
+      "tone_info": "falling-falling",
+      "category": "basics",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 17,
+        "global_order": 17,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 4,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1018,
+      "word": "kdo?",
+      "translation": "ai?",
+      "romanization": "ai¹",
+      "ipa": "/aːj˧/",
+      "tone_info": "level",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 18,
+        "global_order": 18,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 4,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1019,
+      "word": "kde?",
+      "translation": "ở đâu?",
+      "romanization": "uh² dau¹",
+      "ipa": "/ɤ˨ ɗaw˧/",
+      "tone_info": "falling-level",
+      "category": "basics",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 19,
+        "global_order": 19,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 4,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1020,
+      "word": "kdy?",
+      "translation": "khi nào?",
+      "romanization": "khi¹ nao²",
+      "ipa": "/xi˧ naːw˨/",
+      "tone_info": "level-falling",
+      "category": "basics",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 20,
+        "global_order": 20,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 4,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1021,
+      "word": "proč?",
+      "translation": "tại sao?",
+      "romanization": "tai³ sao¹",
+      "ipa": "/taːj˧˨ʔ saːw˧/",
+      "tone_info": "falling-rising, level",
+      "category": "basics",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 21,
+        "global_order": 21,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 4,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1022,
+      "word": "jak?",
+      "translation": "thế nào?",
+      "romanization": "the² nao²",
+      "ipa": "/tʰɛ˨ naːw˨/",
+      "tone_info": "falling-falling",
+      "category": "basics",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 22,
+        "global_order": 22,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 5,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1023,
+      "word": "kolik?",
+      "translation": "bao nhiêu?",
+      "romanization": "bao¹ nhieu¹",
+      "ipa": "/ɓaːw˧ ɲiəw˧/",
+      "tone_info": "level-level",
+      "category": "basics",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 23,
+        "global_order": 23,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 5,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1024,
+      "word": "tady",
+      "translation": "ở đây",
+      "romanization": "uh² day¹",
+      "ipa": "/ɤ˨ ɗaj˧/",
+      "tone_info": "falling-level",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 24,
+        "global_order": 24,
+        "priority": "core",
+        "dependencies": [1019],
+        "suggested_day": 5,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1025,
+      "word": "tam",
+      "translation": "ở đó",
+      "romanization": "uh² do²",
+      "ipa": "/ɤ˨ ɗɔ˨/",
+      "tone_info": "falling-falling",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 25,
+        "global_order": 25,
+        "priority": "core",
+        "dependencies": [1024],
+        "suggested_day": 5,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1026,
+      "word": "teď",
+      "translation": "bây giờ",
+      "romanization": "bay¹ zuh²",
+      "ipa": "/ɓaj˧ zɤ˨/",
+      "tone_info": "level-falling",
+      "category": "time",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 26,
+        "global_order": 26,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 5,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1027,
+      "word": "potom",
+      "translation": "sau đó",
+      "romanization": "sau¹ do²",
+      "ipa": "/saw˧ ɗɔ˨/",
+      "tone_info": "level-falling",
+      "category": "time",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 27,
+        "global_order": 27,
+        "priority": "essential",
+        "dependencies": [1026],
+        "suggested_day": 6,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1028,
+      "word": "předtím",
+      "translation": "trước đó",
+      "romanization": "truok² do²",
+      "ipa": "/ʈuək˨ ɗɔ˨/",
+      "tone_info": "falling-falling",
+      "category": "time",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 28,
+        "global_order": 28,
+        "priority": "essential",
+        "dependencies": [1027],
+        "suggested_day": 6,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1029,
+      "word": "dnes",
+      "translation": "hôm nay",
+      "romanization": "hom¹ nay¹",
+      "ipa": "/hom˧ naj˧/",
+      "tone_info": "level-level",
+      "category": "time",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 29,
+        "global_order": 29,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 6,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1030,
+      "word": "zítra",
+      "translation": "ngày mai",
+      "romanization": "ngay² mai¹",
+      "ipa": "/ŋaj˨ maːj˧/",
+      "tone_info": "falling-level",
+      "category": "time",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 30,
+        "global_order": 30,
+        "priority": "core",
+        "dependencies": [1029],
+        "suggested_day": 6,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1031,
+      "word": "včera",
+      "translation": "hôm qua",
+      "romanization": "hom¹ kwa¹",
+      "ipa": "/hom˧ kwa˧/",
+      "tone_info": "level-level",
+      "category": "time",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 31,
+        "global_order": 31,
+        "priority": "core",
+        "dependencies": [1029],
+        "suggested_day": 6,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1032,
+      "word": "člověk",
+      "translation": "người",
+      "romanization": "nguoi²",
+      "ipa": "/ŋuəj˨/",
+      "tone_info": "falling",
+      "category": "people",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 32,
+        "global_order": 32,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 7,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1033,
+      "word": "muž",
+      "translation": "đàn ông",
+      "romanization": "dan² om¹",
+      "ipa": "/ɗaːn˨ oŋ˧/",
+      "tone_info": "falling-level",
+      "category": "people",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 33,
+        "global_order": 33,
+        "priority": "core",
+        "dependencies": [1032],
+        "suggested_day": 7,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1034,
+      "word": "žena",
+      "translation": "phụ nữ",
+      "romanization": "fu³ nu⁵",
+      "ipa": "/fu˧˨ʔ nu˧˥/",
+      "tone_info": "falling-rising, rising",
+      "category": "people",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 34,
+        "global_order": 34,
+        "priority": "core",
+        "dependencies": [1032],
+        "suggested_day": 7,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1035,
+      "word": "dítě",
+      "translation": "trẻ em",
+      "romanization": "tre² em¹",
+      "ipa": "/ʈɛ˨ ɛm˧/",
+      "tone_info": "falling-level",
+      "category": "people",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 35,
+        "global_order": 35,
+        "priority": "core",
+        "dependencies": [1032],
+        "suggested_day": 7,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1036,
+      "word": "přítel",
+      "translation": "bạn",
+      "romanization": "ban³",
+      "ipa": "/ɓaːn˧˨ʔ/",
+      "tone_info": "falling-rising",
+      "category": "people",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 36,
+        "global_order": 36,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 7,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1037,
+      "word": "jméno",
+      "translation": "tên",
+      "romanization": "ten¹",
+      "ipa": "/ten˧/",
+      "tone_info": "level",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 37,
+        "global_order": 37,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 8,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1038,
+      "word": "voda",
+      "translation": "nước",
+      "romanization": "nuok²",
+      "ipa": "/nuək˨/",
+      "tone_info": "falling",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 38,
+        "global_order": 38,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 8,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1039,
+      "word": "jídlo",
+      "translation": "thức ăn",
+      "romanization": "thuk² an¹",
+      "ipa": "/tʰuk˨ aːn˧/",
+      "tone_info": "falling-level",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 39,
+        "global_order": 39,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 8,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1040,
+      "word": "dům",
+      "translation": "nhà",
+      "romanization": "nha²",
+      "ipa": "/ɲa˨/",
+      "tone_info": "falling",
+      "category": "places",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 40,
+        "global_order": 40,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 8,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1041,
+      "word": "mít",
+      "translation": "có",
+      "romanization": "ko²",
+      "ipa": "/kɔ˨/",
+      "tone_info": "falling",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 41,
+        "global_order": 41,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 9,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1042,
+      "word": "být",
+      "translation": "là",
+      "romanization": "la²",
+      "ipa": "/la˨/",
+      "tone_info": "falling",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 42,
+        "global_order": 42,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 9,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1043,
+      "word": "jít",
+      "translation": "đi",
+      "romanization": "di¹",
+      "ipa": "/ɗi˧/",
+      "tone_info": "level",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 43,
+        "global_order": 43,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 9,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1044,
+      "word": "přijít",
+      "translation": "đến",
+      "romanization": "den²",
+      "ipa": "/ɗen˨/",
+      "tone_info": "falling",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 44,
+        "global_order": 44,
+        "priority": "core",
+        "dependencies": [1043],
+        "suggested_day": 9,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1045,
+      "word": "vidět",
+      "translation": "thấy",
+      "romanization": "thay²",
+      "ipa": "/tʰaj˨/",
+      "tone_info": "falling",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 45,
+        "global_order": 45,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 9,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1046,
+      "word": "chtít",
+      "translation": "muốn",
+      "romanization": "muon²",
+      "ipa": "/muən˨/",
+      "tone_info": "falling",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 46,
+        "global_order": 46,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 10,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1047,
+      "word": "potřebovat",
+      "translation": "cần",
+      "romanization": "kan²",
+      "ipa": "/kan˨/",
+      "tone_info": "falling",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 47,
+        "global_order": 47,
+        "priority": "core",
+        "dependencies": [1046],
+        "suggested_day": 10,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1048,
+      "word": "rozumět",
+      "translation": "hiểu",
+      "romanization": "hieu²",
+      "ipa": "/hiəw˨/",
+      "tone_info": "falling",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 48,
+        "global_order": 48,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 10,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1049,
+      "word": "mluvit",
+      "translation": "nói",
+      "romanization": "noi²",
+      "ipa": "/noj˨/",
+      "tone_info": "falling",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 49,
+        "global_order": 49,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 10,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1050,
+      "word": "pomoc!",
+      "translation": "cứu tôi!",
+      "romanization": "kuu² toi¹",
+      "ipa": "/kuw˨ toj˧/",
+      "tone_info": "falling-level",
+      "category": "greetings",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 50,
+        "global_order": 50,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 10,
+        "repetition_weight": 2.0
       }
     }
   ]

@@ -1,808 +1,1726 @@
 {
   "language_pair": "cs-vi",
+  "course_direction": "czech_to_vietnamese",
+  "target_learner": "czech_native",
   "level": "1D",
   "category": "food-drink",
-  "description": "Common foods, drinks, restaurant basics, ordering phrases",
+  "description": "Food, drinks, restaurant vocabulary, and ordering phrases with tone practice",
+  "metadata": {
+    "level_numeric": 1,
+    "sublevel": "D",
+    "global_order": 4,
+    "total_words": 100,
+    "prerequisites": ["1A", "1B", "1C"],
+    "learning_objectives": [
+      "Order food and drinks in Vietnamese",
+      "Learn common food vocabulary with tones",
+      "Express preferences and dietary needs",
+      "Navigate restaurant situations"
+    ],
+    "estimated_days": 10,
+    "suggested_start_day": 31,
+    "special_focus": "practical_restaurant_vietnamese"
+  },
   "words": [
     {
-      "id": 1301,
+      "id": 1253,
+      "word": "jídlo",
+      "translation": "thức ăn",
+      "romanization": "thuk² an¹",
+      "tone_info": "falling, level",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 1,
+        "global_order": 253,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 31,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1254,
+      "word": "pití",
+      "translation": "đồ uống",
+      "romanization": "do² uong²",
+      "tone_info": "falling, falling",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 2,
+        "global_order": 254,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 31,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1255,
       "word": "chléb",
       "translation": "bánh mì",
-      "romanization": "bánh mì",
+      "romanization": "banh² mi²",
+      "tone_info": "falling, falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 3,
+        "global_order": 255,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 31,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1256,
+      "word": "rýže",
+      "translation": "cơm",
+      "romanization": "kom¹",
+      "tone_info": "level",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 4,
+        "global_order": 256,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 31,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1257,
+      "word": "nudle",
+      "translation": "phở",
+      "romanization": "fo²",
+      "tone_info": "falling",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 5,
+        "global_order": 257,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 31,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1258,
+      "word": "maso",
+      "translation": "thịt",
+      "romanization": "thit³",
+      "tone_info": "falling-rising",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 6,
+        "global_order": 258,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 31,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1259,
+      "word": "kuře",
+      "translation": "gà",
+      "romanization": "ga²",
+      "tone_info": "falling",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 7,
+        "global_order": 259,
+        "priority": "core",
+        "dependencies": [1258],
+        "suggested_day": 32,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1260,
+      "word": "vepřové",
+      "translation": "thịt lợn",
+      "romanization": "thit³ lon³",
+      "tone_info": "falling-rising, falling-rising",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 8,
+        "global_order": 260,
+        "priority": "core",
+        "dependencies": [1258],
+        "suggested_day": 32,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1261,
+      "word": "hovězí",
+      "translation": "thịt bò",
+      "romanization": "thit³ bo²",
+      "tone_info": "falling-rising, falling",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 9,
+        "global_order": 261,
+        "priority": "core",
+        "dependencies": [1258],
+        "suggested_day": 32,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1262,
+      "word": "ryba",
+      "translation": "cá",
+      "romanization": "ka²",
+      "tone_info": "falling",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 10,
+        "global_order": 262,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 32,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1263,
+      "word": "zelenina",
+      "translation": "rau",
+      "romanization": "rau¹",
+      "tone_info": "level",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 11,
+        "global_order": 263,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 32,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1264,
+      "word": "ovoce",
+      "translation": "trái cây",
+      "romanization": "trai² kay¹",
+      "tone_info": "falling, level",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 12,
+        "global_order": 264,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 32,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1265,
+      "word": "jablko",
+      "translation": "táo",
+      "romanization": "tao²",
+      "tone_info": "falling",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 13,
+        "global_order": 265,
+        "priority": "supplementary",
+        "dependencies": [1264],
+        "suggested_day": 33,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1266,
+      "word": "banán",
+      "translation": "chuối",
+      "romanization": "chuoi²",
+      "tone_info": "falling",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 14,
+        "global_order": 266,
+        "priority": "supplementary",
+        "dependencies": [1264],
+        "suggested_day": 33,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1267,
+      "word": "vejce",
+      "translation": "trứng",
+      "romanization": "trung²",
+      "tone_info": "falling",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 15,
+        "global_order": 267,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 33,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1268,
+      "word": "mléko",
+      "translation": "sữa",
+      "romanization": "sua⁵",
+      "tone_info": "rising",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 16,
+        "global_order": 268,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 33,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1269,
+      "word": "káva",
+      "translation": "cà phê",
+      "romanization": "ka² fe¹",
+      "tone_info": "falling, level",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 17,
+        "global_order": 269,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 33,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1270,
+      "word": "čaj",
+      "translation": "trà",
+      "romanization": "tra²",
+      "tone_info": "falling",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 18,
+        "global_order": 270,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 33,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1271,
+      "word": "pivo",
+      "translation": "bia",
+      "romanization": "bia¹",
+      "tone_info": "level",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 19,
+        "global_order": 271,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 34,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1272,
+      "word": "víno",
+      "translation": "rượu vang",
+      "romanization": "ruou³ vang¹",
+      "tone_info": "falling-rising, level",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 20,
+        "global_order": 272,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 34,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1273,
+      "word": "džus",
+      "translation": "nước ép",
+      "romanization": "nuok² ep²",
+      "tone_info": "falling, falling",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 21,
+        "global_order": 273,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 34,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1274,
+      "word": "cukr",
+      "translation": "đường",
+      "romanization": "duong²",
+      "tone_info": "falling",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 22,
+        "global_order": 274,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 34,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1275,
+      "word": "sůl",
+      "translation": "muối",
+      "romanization": "muoi²",
+      "tone_info": "falling",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 23,
+        "global_order": 275,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 34,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1276,
+      "word": "pepř",
+      "translation": "tiêu",
+      "romanization": "tieu¹",
+      "tone_info": "level",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 24,
+        "global_order": 276,
+        "priority": "supplementary",
+        "dependencies": [1275],
+        "suggested_day": 34,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1277,
+      "word": "pálivý",
+      "translation": "cay",
+      "romanization": "kay¹",
+      "tone_info": "level",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 25,
+        "global_order": 277,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 35,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1278,
+      "word": "sladký",
+      "translation": "ngọt",
+      "romanization": "ngot³",
+      "tone_info": "falling-rising",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 26,
+        "global_order": 278,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 35,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1279,
+      "word": "kyselý",
+      "translation": "chua",
+      "romanization": "chua¹",
+      "tone_info": "level",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 27,
+        "global_order": 279,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 35,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1280,
+      "word": "hořký",
+      "translation": "đắng",
+      "romanization": "dang²",
+      "tone_info": "falling",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 28,
+        "global_order": 280,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 35,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1281,
+      "word": "slaný",
+      "translation": "mặn",
+      "romanization": "man³",
+      "tone_info": "falling-rising",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 29,
+        "global_order": 281,
+        "priority": "essential",
+        "dependencies": [1275],
+        "suggested_day": 35,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1282,
+      "word": "chutný",
+      "translation": "ngon",
+      "romanization": "ngon¹",
+      "tone_info": "level",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 30,
+        "global_order": 282,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 35,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1283,
+      "word": "restaurace",
+      "translation": "nhà hàng",
+      "romanization": "nha² hang²",
+      "tone_info": "falling, falling",
+      "category": "places",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 31,
+        "global_order": 283,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 36,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1284,
+      "word": "jídelní lístek",
+      "translation": "thực đơn",
+      "romanization": "thuk³ don¹",
+      "tone_info": "falling-rising, level",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 32,
+        "global_order": 284,
+        "priority": "core",
+        "dependencies": [1283],
+        "suggested_day": 36,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1285,
+      "word": "objednat",
+      "translation": "gọi món",
+      "romanization": "goi³ mon²",
+      "tone_info": "falling-rising, falling",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 33,
+        "global_order": 285,
+        "priority": "core",
+        "dependencies": [1284],
+        "suggested_day": 36,
+        "repetition_weight": 2.0
+      }
+    },
+    {
+      "id": 1286,
+      "word": "účet",
+      "translation": "hóa đơn",
+      "romanization": "hoa² don¹",
+      "tone_info": "falling, level",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 34,
+        "global_order": 286,
+        "priority": "core",
+        "dependencies": [1283],
+        "suggested_day": 36,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1287,
+      "word": "platit",
+      "translation": "trả tiền",
+      "romanization": "tra² tien²",
+      "tone_info": "falling, falling",
+      "category": "shopping",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 35,
+        "global_order": 287,
+        "priority": "core",
+        "dependencies": [1286],
+        "suggested_day": 36,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1288,
+      "word": "spropitné",
+      "translation": "tiền boa",
+      "romanization": "tien² boa¹",
+      "tone_info": "falling, level",
+      "category": "shopping",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 36,
+        "global_order": 288,
+        "priority": "supplementary",
+        "dependencies": [1287],
+        "suggested_day": 36,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1289,
+      "word": "snídaně",
+      "translation": "bữa sáng",
+      "romanization": "bua⁵ sang²",
+      "tone_info": "rising, falling",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 37,
+        "global_order": 289,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 37,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1290,
+      "word": "oběd",
+      "translation": "bữa trưa",
+      "romanization": "bua⁵ trua¹",
+      "tone_info": "rising, level",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 38,
+        "global_order": 290,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 37,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1291,
+      "word": "večeře",
+      "translation": "bữa tối",
+      "romanization": "bua⁵ toi²",
+      "tone_info": "rising, falling",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 39,
+        "global_order": 291,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 37,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1292,
+      "word": "hladový",
+      "translation": "đói",
+      "romanization": "doi²",
+      "tone_info": "falling",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 40,
+        "global_order": 292,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 37,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1293,
+      "word": "žíznivý",
+      "translation": "khát",
+      "romanization": "khat²",
+      "tone_info": "falling",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 41,
+        "global_order": 293,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 37,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1294,
+      "word": "plný",
+      "translation": "no",
+      "romanization": "no¹",
+      "tone_info": "level",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 42,
+        "global_order": 294,
+        "priority": "essential",
+        "dependencies": [1292],
+        "suggested_day": 37,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1295,
+      "word": "talíř",
+      "translation": "đĩa",
+      "romanization": "dia⁵",
+      "tone_info": "rising",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 43,
+        "global_order": 295,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 38,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1296,
+      "word": "miska",
+      "translation": "bát",
+      "romanization": "bat²",
+      "tone_info": "falling",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 44,
+        "global_order": 296,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 38,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1297,
+      "word": "lžíce",
+      "translation": "muỗng",
+      "romanization": "muong⁵",
+      "tone_info": "rising",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 45,
+        "global_order": 297,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 38,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1298,
+      "word": "vidlička",
+      "translation": "nĩa",
+      "romanization": "nia⁵",
+      "tone_info": "rising",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 46,
+        "global_order": 298,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 38,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1299,
+      "word": "nůž",
+      "translation": "dao",
+      "romanization": "dao¹",
+      "tone_info": "level",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 47,
+        "global_order": 299,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 38,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1300,
+      "word": "hůlky",
+      "translation": "đũa",
+      "romanization": "dua⁵",
+      "tone_info": "rising",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 48,
+        "global_order": 300,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 38,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1301,
+      "word": "sklenice",
+      "translation": "cốc",
+      "romanization": "kok²",
+      "tone_info": "falling",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 49,
+        "global_order": 301,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 39,
+        "repetition_weight": 1.5
+      }
     },
     {
       "id": 1302,
-      "word": "máslo",
-      "translation": "bơ",
-      "romanization": "bơ",
+      "word": "láhev",
+      "translation": "chai",
+      "romanization": "chai¹",
+      "tone_info": "level",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 50,
+        "global_order": 302,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 39,
+        "repetition_weight": 1.5
+      }
     },
     {
       "id": 1303,
-      "word": "sýr",
-      "translation": "phô mai",
-      "romanization": "phô mai",
-      "category": "food",
-      "difficulty": 1
+      "word": "vařit",
+      "translation": "nấu",
+      "romanization": "nau²",
+      "tone_info": "falling",
+      "category": "activities",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 51,
+        "global_order": 303,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 39,
+        "repetition_weight": 1.5
+      }
     },
     {
       "id": 1304,
-      "word": "mléko",
-      "translation": "sữa",
-      "romanization": "sữa",
-      "category": "food",
-      "difficulty": 1
+      "word": "péct",
+      "translation": "nướng",
+      "romanization": "nuong³",
+      "tone_info": "falling-rising",
+      "category": "activities",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 52,
+        "global_order": 304,
+        "priority": "supplementary",
+        "dependencies": [1303],
+        "suggested_day": 39,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1305,
-      "word": "vejce",
-      "translation": "trứng",
-      "romanization": "trứng",
-      "category": "food",
-      "difficulty": 1
+      "word": "smažit",
+      "translation": "chiên",
+      "romanization": "chien¹",
+      "tone_info": "level",
+      "category": "activities",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 53,
+        "global_order": 305,
+        "priority": "supplementary",
+        "dependencies": [1303],
+        "suggested_day": 39,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1306,
-      "word": "maso",
-      "translation": "thịt",
-      "romanization": "thịt",
-      "category": "food",
-      "difficulty": 1
+      "word": "krájet",
+      "translation": "cắt",
+      "romanization": "kat²",
+      "tone_info": "falling",
+      "category": "activities",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 54,
+        "global_order": 306,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 39,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1307,
-      "word": "kuře",
-      "translation": "gà",
-      "romanization": "gà",
-      "category": "food",
-      "difficulty": 1
+      "word": "ochutnat",
+      "translation": "nếm",
+      "romanization": "nem²",
+      "tone_info": "falling",
+      "category": "activities",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 55,
+        "global_order": 307,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.5
+      }
     },
     {
       "id": 1308,
-      "word": "vepřové",
-      "translation": "thịt lợn",
-      "romanization": "thịt lợn",
+      "word": "čerstvý",
+      "translation": "tươi",
+      "romanization": "tuoi¹",
+      "tone_info": "level",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 56,
+        "global_order": 308,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.5
+      }
     },
     {
       "id": 1309,
-      "word": "hovězí",
-      "translation": "thịt bò",
-      "romanization": "thịt bò",
+      "word": "zkažený",
+      "translation": "hỏng",
+      "romanization": "hong²",
+      "tone_info": "falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 57,
+        "global_order": 309,
+        "priority": "supplementary",
+        "dependencies": [1308],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1310,
-      "word": "ryba",
-      "translation": "cá",
-      "romanization": "cá",
+      "word": "zdravý",
+      "translation": "lành mạnh",
+      "romanization": "lanh² manh³",
+      "tone_info": "falling, falling-rising",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 58,
+        "global_order": 310,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.5
+      }
     },
     {
       "id": 1311,
-      "word": "zelenina",
-      "translation": "rau củ",
-      "romanization": "rau củ",
+      "word": "vegetarián",
+      "translation": "ăn chay",
+      "romanization": "an¹ chay¹",
+      "tone_info": "level, level",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 59,
+        "global_order": 311,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1312,
-      "word": "ovoce",
-      "translation": "trái cây",
-      "romanization": "trái cây",
-      "category": "food",
-      "difficulty": 1
+      "word": "alergie",
+      "translation": "dị ứng",
+      "romanization": "zi³ ung²",
+      "tone_info": "falling-rising, falling",
+      "category": "health",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 60,
+        "global_order": 312,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1313,
-      "word": "jablko",
-      "translation": "táo",
-      "romanization": "táo",
+      "word": "porce",
+      "translation": "phần",
+      "romanization": "phan²",
+      "tone_info": "falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 61,
+        "global_order": 313,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.5
+      }
     },
     {
       "id": 1314,
-      "word": "banán",
-      "translation": "chuối",
-      "romanization": "chuối",
-      "category": "food",
-      "difficulty": 1
+      "word": "velký",
+      "translation": "lớn",
+      "romanization": "lon³",
+      "tone_info": "falling-rising",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 62,
+        "global_order": 314,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.8
+      }
     },
     {
       "id": 1315,
-      "word": "pomeranč",
-      "translation": "cam",
-      "romanization": "cam",
-      "category": "food",
-      "difficulty": 1
+      "word": "malý",
+      "translation": "nhỏ",
+      "romanization": "nho²",
+      "tone_info": "falling",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 63,
+        "global_order": 315,
+        "priority": "core",
+        "dependencies": [1314],
+        "suggested_day": 40,
+        "repetition_weight": 1.8
+      }
     },
     {
       "id": 1316,
-      "word": "rajče",
-      "translation": "cà chua",
-      "romanization": "cà chua",
-      "category": "food",
-      "difficulty": 1
+      "word": "střední",
+      "translation": "vừa",
+      "romanization": "vua²",
+      "tone_info": "falling",
+      "category": "basics",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 64,
+        "global_order": 316,
+        "priority": "essential",
+        "dependencies": [1314, 1315],
+        "suggested_day": 40,
+        "repetition_weight": 1.5
+      }
     },
     {
       "id": 1317,
-      "word": "brambory",
-      "translation": "khoai tây",
-      "romanization": "khoai tây",
+      "word": "s sebou",
+      "translation": "mang về",
+      "romanization": "mang¹ ve²",
+      "tone_info": "level, falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 65,
+        "global_order": 317,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.5
+      }
     },
     {
       "id": 1318,
-      "word": "cibule",
-      "translation": "hành tây",
-      "romanization": "hành tây",
+      "word": "tady",
+      "translation": "ăn tại chỗ",
+      "romanization": "an¹ tai³ cho⁵",
+      "tone_info": "level, falling-rising, rising",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 66,
+        "global_order": 318,
+        "priority": "essential",
+        "dependencies": [1317],
+        "suggested_day": 40,
+        "repetition_weight": 1.5
+      }
     },
     {
       "id": 1319,
-      "word": "česnek",
-      "translation": "tỏi",
-      "romanization": "tỏi",
+      "word": "rezervace",
+      "translation": "đặt bàn",
+      "romanization": "dat³ ban²",
+      "tone_info": "falling-rising, falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 67,
+        "global_order": 319,
+        "priority": "supplementary",
+        "dependencies": [1283],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1320,
-      "word": "mrkev",
-      "translation": "cà rốt",
-      "romanization": "cà rốt",
+      "word": "obsazeno",
+      "translation": "hết chỗ",
+      "romanization": "het² cho⁵",
+      "tone_info": "falling, rising",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 68,
+        "global_order": 320,
+        "priority": "supplementary",
+        "dependencies": [1319],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1321,
-      "word": "salát",
-      "translation": "xà lách",
-      "romanization": "xà lách",
+      "word": "volný stůl",
+      "translation": "bàn trống",
+      "romanization": "ban² trong²",
+      "tone_info": "falling, falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 69,
+        "global_order": 321,
+        "priority": "supplementary",
+        "dependencies": [1320],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1322,
-      "word": "rýže",
-      "translation": "cơm/gạo",
-      "romanization": "cơm/gạo",
-      "category": "food",
-      "difficulty": 1
+      "word": "číšník",
+      "translation": "phục vụ",
+      "romanization": "phuk³ vu³",
+      "tone_info": "falling-rising, falling-rising",
+      "category": "people",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 70,
+        "global_order": 322,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.5
+      }
     },
     {
       "id": 1323,
-      "word": "těstoviny",
-      "translation": "mì ý",
-      "romanization": "mì ý",
-      "category": "food",
-      "difficulty": 1
+      "word": "kuchař",
+      "translation": "đầu bếp",
+      "romanization": "dau² bep²",
+      "tone_info": "falling, falling",
+      "category": "people",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 71,
+        "global_order": 323,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1324,
-      "word": "polévka",
-      "translation": "súp",
-      "romanization": "súp",
+      "word": "specialita",
+      "translation": "món đặc biệt",
+      "romanization": "mon² dak³ biet³",
+      "tone_info": "falling, falling-rising, falling-rising",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 72,
+        "global_order": 324,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1325,
-      "word": "omáčka",
-      "translation": "nước sốt",
-      "romanization": "nước sốt",
+      "word": "doporučení",
+      "translation": "gợi ý",
+      "romanization": "goi³ y²",
+      "tone_info": "falling-rising, falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 73,
+        "global_order": 325,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1326,
-      "word": "sůl",
-      "translation": "muối",
-      "romanization": "muối",
+      "word": "místní jídlo",
+      "translation": "món địa phương",
+      "romanization": "mon² dia³ phuong¹",
+      "tone_info": "falling, falling-rising, level",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 74,
+        "global_order": 326,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1327,
-      "word": "pepř",
-      "translation": "tiêu",
-      "romanization": "tiêu",
+      "word": "rychlé občerstvení",
+      "translation": "đồ ăn nhanh",
+      "romanization": "do² an¹ nhanh¹",
+      "tone_info": "falling, level, level",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 75,
+        "global_order": 327,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1328,
-      "word": "cukr",
-      "translation": "đường",
-      "romanization": "đường",
+      "word": "pouliční jídlo",
+      "translation": "đồ ăn đường phố",
+      "romanization": "do² an¹ duong² pho²",
+      "tone_info": "falling, level, falling, falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 76,
+        "global_order": 328,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1329,
-      "word": "olej",
-      "translation": "dầu",
-      "romanization": "dầu",
+      "word": "předkrm",
+      "translation": "khai vị",
+      "romanization": "khai¹ vi³",
+      "tone_info": "level, falling-rising",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 77,
+        "global_order": 329,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1330,
-      "word": "ocet",
-      "translation": "giấm",
-      "romanization": "giấm",
+      "word": "hlavní chod",
+      "translation": "món chính",
+      "romanization": "mon² chinh²",
+      "tone_info": "falling, falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 78,
+        "global_order": 330,
+        "priority": "essential",
+        "dependencies": [1329],
+        "suggested_day": 40,
+        "repetition_weight": 1.5
+      }
     },
     {
       "id": 1331,
-      "word": "káva",
-      "translation": "cà phê",
-      "romanization": "cà phê",
+      "word": "dezert",
+      "translation": "tráng miệng",
+      "romanization": "trang² mieng³",
+      "tone_info": "falling, falling-rising",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 79,
+        "global_order": 331,
+        "priority": "supplementary",
+        "dependencies": [1330],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1332,
-      "word": "čaj",
-      "translation": "trà",
-      "romanization": "trà",
+      "word": "polévka",
+      "translation": "canh",
+      "romanization": "kanh¹",
+      "tone_info": "level",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 80,
+        "global_order": 332,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.5
+      }
     },
     {
       "id": 1333,
-      "word": "pivo",
-      "translation": "bia",
-      "romanization": "bia",
+      "word": "salát",
+      "translation": "salad",
+      "romanization": "sa-lat²",
+      "tone_info": "falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 81,
+        "global_order": 333,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1334,
-      "word": "víno",
-      "translation": "rượu vang",
-      "romanization": "rượu vang",
+      "word": "omáčka",
+      "translation": "nước sốt",
+      "romanization": "nuok² sot²",
+      "tone_info": "falling, falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 82,
+        "global_order": 334,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1335,
-      "word": "džus",
-      "translation": "nước ép",
-      "romanization": "nước ép",
+      "word": "koření",
+      "translation": "gia vị",
+      "romanization": "za¹ vi³",
+      "tone_info": "level, falling-rising",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 83,
+        "global_order": 335,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1336,
-      "word": "limonáda",
-      "translation": "nước chanh",
-      "romanization": "nước chanh",
+      "word": "olej",
+      "translation": "dầu",
+      "romanization": "dau²",
+      "tone_info": "falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 84,
+        "global_order": 336,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1337,
-      "word": "minerálka",
-      "translation": "nước khoáng",
-      "romanization": "nước khoáng",
+      "word": "máslo",
+      "translation": "bơ",
+      "romanization": "bo¹",
+      "tone_info": "level",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 85,
+        "global_order": 337,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1338,
-      "word": "snídaně",
-      "translation": "bữa sáng",
-      "romanization": "bữa sáng",
+      "word": "sýr",
+      "translation": "phô mai",
+      "romanization": "fo¹ mai¹",
+      "tone_info": "level, level",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 86,
+        "global_order": 338,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1339,
-      "word": "oběd",
-      "translation": "bữa trưa",
-      "romanization": "bữa trưa",
+      "word": "jogurt",
+      "translation": "sữa chua",
+      "romanization": "sua⁵ chua¹",
+      "tone_info": "rising, level",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 87,
+        "global_order": 339,
+        "priority": "supplementary",
+        "dependencies": [1268],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1340,
-      "word": "večeře",
-      "translation": "bữa tối",
-      "romanization": "bữa tối",
+      "word": "zmrzlina",
+      "translation": "kem",
+      "romanization": "kem¹",
+      "tone_info": "level",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 88,
+        "global_order": 340,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1341,
-      "word": "svačina",
-      "translation": "bữa phụ",
-      "romanization": "bữa phụ",
+      "word": "dort",
+      "translation": "bánh ngọt",
+      "romanization": "banh² ngot³",
+      "tone_info": "falling, falling-rising",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 89,
+        "global_order": 341,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1342,
-      "word": "restaurace",
-      "translation": "nhà hàng",
-      "romanization": "nhà hàng",
+      "word": "čokoláda",
+      "translation": "sô cô la",
+      "romanization": "so¹ ko¹ la¹",
+      "tone_info": "level, level, level",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 90,
+        "global_order": 342,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1343,
-      "word": "kavárna",
-      "translation": "quán cà phê",
-      "romanization": "quán cà phê",
+      "word": "bonbón",
+      "translation": "kẹo",
+      "romanization": "keo³",
+      "tone_info": "falling-rising",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 91,
+        "global_order": 343,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1344,
-      "word": "hospoda",
-      "translation": "quán bia",
-      "romanization": "quán bia",
+      "word": "ořechy",
+      "translation": "hạt",
+      "romanization": "hat³",
+      "tone_info": "falling-rising",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 92,
+        "global_order": 344,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1345,
-      "word": "jídelní lístek",
-      "translation": "thực đơn",
-      "romanization": "thực đơn",
+      "word": "zelenina",
+      "translation": "rau củ",
+      "romanization": "rau¹ ku²",
+      "tone_info": "level, falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 93,
+        "global_order": 345,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.5
+      }
     },
     {
       "id": 1346,
-      "word": "objednat",
-      "translation": "gọi món",
-      "romanization": "gọi món",
+      "word": "mrkev",
+      "translation": "cà rốt",
+      "romanization": "ka² rot²",
+      "tone_info": "falling, falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 94,
+        "global_order": 346,
+        "priority": "supplementary",
+        "dependencies": [1345],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1347,
-      "word": "účet",
-      "translation": "hóa đơn",
-      "romanization": "hóa đơn",
-      "category": "shopping",
-      "difficulty": 1
+      "word": "brambory",
+      "translation": "khoai tây",
+      "romanization": "khoai¹ tay¹",
+      "tone_info": "level, level",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 95,
+        "global_order": 347,
+        "priority": "supplementary",
+        "dependencies": [1345],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1348,
-      "word": "spropitné",
-      "translation": "tiền boa",
-      "romanization": "tiền boa",
-      "category": "shopping",
-      "difficulty": 1
+      "word": "rajče",
+      "translation": "cà chua",
+      "romanization": "ka² chua¹",
+      "tone_info": "falling, level",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 96,
+        "global_order": 348,
+        "priority": "supplementary",
+        "dependencies": [1345],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1349,
-      "word": "číšník",
-      "translation": "phục vụ nam",
-      "romanization": "phục vụ nam",
+      "word": "cibule",
+      "translation": "hành",
+      "romanization": "hanh²",
+      "tone_info": "falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 97,
+        "global_order": 349,
+        "priority": "supplementary",
+        "dependencies": [1345],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1350,
-      "word": "servírka",
-      "translation": "phục vụ nữ",
-      "romanization": "phục vụ nữ",
+      "word": "česnek",
+      "translation": "tỏi",
+      "romanization": "toi²",
+      "tone_info": "falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 98,
+        "global_order": 350,
+        "priority": "supplementary",
+        "dependencies": [1345],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1351,
-      "word": "vařit",
-      "translation": "nấu ăn",
-      "romanization": "nấu ăn",
+      "word": "houba",
+      "translation": "nấm",
+      "romanization": "nam²",
+      "tone_info": "falling",
       "category": "food",
-      "difficulty": 1
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 99,
+        "global_order": 351,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     },
     {
       "id": 1352,
-      "word": "péct",
-      "translation": "nướng",
-      "romanization": "nướng",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1353,
-      "word": "smažit",
-      "translation": "chiên",
-      "romanization": "chiên",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1354,
-      "word": "vařený",
-      "translation": "luộc",
-      "romanization": "luộc",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1355,
-      "word": "grilovaný",
-      "translation": "nướng than",
-      "romanization": "nướng than",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1356,
-      "word": "syrový",
-      "translation": "sống",
-      "romanization": "sống",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1357,
-      "word": "čerstvý",
-      "translation": "tươi",
-      "romanization": "tươi",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1358,
-      "word": "chutný",
-      "translation": "ngon",
-      "romanization": "ngon",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1359,
-      "word": "sladký",
-      "translation": "ngọt",
-      "romanization": "ngọt",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1360,
-      "word": "slaný",
-      "translation": "mặn",
-      "romanization": "mặn",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1361,
-      "word": "kyselý",
-      "translation": "chua",
-      "romanization": "chua",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1362,
-      "word": "hořký",
-      "translation": "đắng",
-      "romanization": "đắng",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1363,
-      "word": "pálivý",
-      "translation": "cay",
-      "romanization": "cay",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1364,
-      "word": "teplý",
-      "translation": "nóng",
-      "romanization": "nóng",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1365,
-      "word": "studený",
-      "translation": "lạnh",
-      "romanization": "lạnh",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1366,
-      "word": "talíř",
-      "translation": "đĩa",
-      "romanization": "đĩa",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1367,
-      "word": "miska",
-      "translation": "bát",
-      "romanization": "bát",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1368,
-      "word": "hrnek",
-      "translation": "cốc",
-      "romanization": "cốc",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1369,
-      "word": "sklenice",
-      "translation": "ly",
-      "romanization": "ly",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1370,
-      "word": "lžíce",
-      "translation": "thìa",
-      "romanization": "thìa",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1371,
-      "word": "vidlička",
-      "translation": "nĩa",
-      "romanization": "nĩa",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1372,
-      "word": "nůž",
-      "translation": "dao",
-      "romanization": "dao",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1373,
-      "word": "ubrousek",
-      "translation": "khăn ăn",
-      "romanization": "khăn ăn",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1374,
-      "word": "hlad",
-      "translation": "đói",
-      "romanization": "đói",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1375,
-      "word": "žízeň",
-      "translation": "khát",
-      "romanization": "khát",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1376,
-      "word": "sytý",
-      "translation": "no",
-      "romanization": "no",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1377,
-      "word": "dezert",
-      "translation": "món tráng miệng",
-      "romanization": "món tráng miệng",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1378,
-      "word": "dort",
-      "translation": "bánh ngọt",
-      "romanization": "bánh ngọt",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1379,
-      "word": "zmrzlina",
-      "translation": "kem",
-      "romanization": "kem",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1380,
-      "word": "čokoláda",
-      "translation": "sô cô la",
-      "romanization": "sô cô la",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1381,
-      "word": "bonbón",
-      "translation": "kẹo",
-      "romanization": "kẹo",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1382,
-      "word": "med",
-      "translation": "mật ong",
-      "romanization": "mật ong",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1383,
-      "word": "džem",
-      "translation": "mứt",
-      "romanization": "mứt",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1384,
       "word": "mouka",
       "translation": "bột mì",
-      "romanization": "bột mì",
+      "romanization": "bot³ mi²",
+      "tone_info": "falling-rising, falling",
       "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1385,
-      "word": "kečup",
-      "translation": "tương cà",
-      "romanization": "tương cà",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1386,
-      "word": "hořčice",
-      "translation": "mù tạt",
-      "romanization": "mù tạt",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1387,
-      "word": "majonéza",
-      "translation": "sốt mayonnaise",
-      "romanization": "sốt mayonnaise",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1388,
-      "word": "ořech",
-      "translation": "hạt",
-      "romanization": "hạt",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1389,
-      "word": "houska",
-      "translation": "bánh mì nhỏ",
-      "romanization": "bánh mì nhỏ",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1390,
-      "word": "rohlík",
-      "translation": "bánh sừng",
-      "romanization": "bánh sừng",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1391,
-      "word": "jogurt",
-      "translation": "sữa chua",
-      "romanization": "sữa chua",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1392,
-      "word": "vegetarián",
-      "translation": "người ăn chay",
-      "romanization": "người ăn chay",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1393,
-      "word": "alergie",
-      "translation": "dị ứng",
-      "romanization": "dị ứng",
-      "category": "health",
-      "difficulty": 1
-    },
-    {
-      "id": 1394,
-      "word": "bez masa",
-      "translation": "không thịt",
-      "romanization": "không thịt",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1395,
-      "word": "bez cukru",
-      "translation": "không đường",
-      "romanization": "không đường",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1396,
-      "word": "porce",
-      "translation": "phần ăn",
-      "romanization": "phần ăn",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1397,
-      "word": "rezervace",
-      "translation": "đặt bàn",
-      "romanization": "đặt bàn",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1398,
-      "word": "doporučit",
-      "translation": "giới thiệu",
-      "romanization": "giới thiệu",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1399,
-      "word": "specialita",
-      "translation": "món đặc biệt",
-      "romanization": "món đặc biệt",
-      "category": "food",
-      "difficulty": 1
-    },
-    {
-      "id": 1400,
-      "word": "dobrou chuť",
-      "translation": "chúc ngon miệng",
-      "romanization": "chúc ngon miệng",
-      "category": "food",
-      "difficulty": 1
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 100,
+        "global_order": 352,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
     }
   ]
 }

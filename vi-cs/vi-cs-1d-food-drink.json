@@ -1,0 +1,1623 @@
+{
+  "language_pair": "vi-cs",
+  "course_direction": "vietnamese_to_czech",
+  "target_learner": "vietnamese_native",
+  "level": "1D",
+  "metadata": {
+    "level_numeric": 1,
+    "sublevel": "D",
+    "global_order": 4,
+    "prerequisites": ["1A", "1B", "1C"],
+    "learning_objectives": [
+      "Order food in Czech restaurants",
+      "Express food preferences in Czech",
+      "Handle Czech consonant clusters in food terms",
+      "Understand Czech dining culture",
+      "Navigate Czech menus and food shops"
+    ],
+    "estimated_days": 10,
+    "suggested_start_day": 31
+  },
+  "words": [
+    {
+      "id": 1651,
+      "word": "thức ăn",
+      "translation": "jídlo",
+      "romanization": "yeed-lo",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 1,
+        "global_order": 1651,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 31,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1652,
+      "word": "nước",
+      "translation": "voda",
+      "romanization": "vo-da",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 2,
+        "global_order": 1652,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 31,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1653,
+      "word": "bánh mì",
+      "translation": "chleba",
+      "romanization": "khle-ba",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 3,
+        "global_order": 1653,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 31,
+        "repetition_weight": 1.3
+      }
+    },
+    {
+      "id": 1654,
+      "word": "bia",
+      "translation": "pivo",
+      "romanization": "pi-vo",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 4,
+        "global_order": 1654,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 31,
+        "repetition_weight": 1.8
+      }
+    },
+    {
+      "id": 1655,
+      "word": "cà phê",
+      "translation": "káva",
+      "romanization": "kaa-va",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 5,
+        "global_order": 1655,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 31,
+        "repetition_weight": 1.4
+      }
+    },
+    {
+      "id": 1656,
+      "word": "trà",
+      "translation": "čaj",
+      "romanization": "chai",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 6,
+        "global_order": 1656,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 32,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1657,
+      "word": "thịt",
+      "translation": "maso",
+      "romanization": "ma-so",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 7,
+        "global_order": 1657,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 32,
+        "repetition_weight": 1.3
+      }
+    },
+    {
+      "id": 1658,
+      "word": "thịt gà",
+      "translation": "kuře",
+      "romanization": "ku-rzhe",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 8,
+        "global_order": 1658,
+        "priority": "essential",
+        "dependencies": [1657],
+        "suggested_day": 32,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1659,
+      "word": "thịt heo",
+      "translation": "vepřové",
+      "romanization": "vep-rzho-vee",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 9,
+        "global_order": 1659,
+        "priority": "essential",
+        "dependencies": [1657],
+        "suggested_day": 32,
+        "repetition_weight": 1.1
+      }
+    },
+    {
+      "id": 1660,
+      "word": "cá",
+      "translation": "ryba",
+      "romanization": "ri-ba",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 10,
+        "global_order": 1660,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 32,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1661,
+      "word": "rau",
+      "translation": "zelenina",
+      "romanization": "ze-le-ni-na",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 11,
+        "global_order": 1661,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 33,
+        "repetition_weight": 1.3
+      }
+    },
+    {
+      "id": 1662,
+      "word": "trái cây",
+      "translation": "ovoce",
+      "romanization": "o-vo-tse",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 12,
+        "global_order": 1662,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 33,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1663,
+      "word": "cơm",
+      "translation": "rýže",
+      "romanization": "ree-zhe",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 13,
+        "global_order": 1663,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 33,
+        "repetition_weight": 1.4
+      }
+    },
+    {
+      "id": 1664,
+      "word": "mì",
+      "translation": "nudle",
+      "romanization": "nud-le",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 14,
+        "global_order": 1664,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 33,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1665,
+      "word": "phở",
+      "translation": "polévka",
+      "romanization": "po-lev-ka",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 15,
+        "global_order": 1665,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 33,
+        "repetition_weight": 1.3
+      }
+    },
+    {
+      "id": 1666,
+      "word": "sữa",
+      "translation": "mléko",
+      "romanization": "mlee-ko",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 16,
+        "global_order": 1666,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 34,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1667,
+      "word": "phô mai",
+      "translation": "sýr",
+      "romanization": "seer",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 17,
+        "global_order": 1667,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 34,
+        "repetition_weight": 1.1
+      }
+    },
+    {
+      "id": 1668,
+      "word": "trứng",
+      "translation": "vejce",
+      "romanization": "vey-tse",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 18,
+        "global_order": 1668,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 34,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1669,
+      "word": "bơ",
+      "translation": "máslo",
+      "romanization": "maas-lo",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 19,
+        "global_order": 1669,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 34,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1670,
+      "word": "muối",
+      "translation": "sůl",
+      "romanization": "sool",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 20,
+        "global_order": 1670,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 34,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1671,
+      "word": "đường",
+      "translation": "cukr",
+      "romanization": "tsu-kr",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 21,
+        "global_order": 1671,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 35,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1672,
+      "word": "tiêu",
+      "translation": "pepř",
+      "romanization": "peprsh",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 22,
+        "global_order": 1672,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 35,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1673,
+      "word": "bữa sáng",
+      "translation": "snídaně",
+      "romanization": "snee-da-nye",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 23,
+        "global_order": 1673,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 35,
+        "repetition_weight": 1.4
+      }
+    },
+    {
+      "id": 1674,
+      "word": "bữa trưa",
+      "translation": "oběd",
+      "romanization": "o-byed",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 24,
+        "global_order": 1674,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 35,
+        "repetition_weight": 1.4
+      }
+    },
+    {
+      "id": 1675,
+      "word": "bữa tối",
+      "translation": "večeře",
+      "romanization": "ve-che-rzhe",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 25,
+        "global_order": 1675,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 35,
+        "repetition_weight": 1.4
+      }
+    },
+    {
+      "id": 1676,
+      "word": "nhà hàng",
+      "translation": "restaurace",
+      "romanization": "res-tau-ra-tse",
+      "category": "places",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 26,
+        "global_order": 1676,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 36,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1677,
+      "word": "quán cà phê",
+      "translation": "kavárna",
+      "romanization": "ka-vaar-na",
+      "category": "places",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 27,
+        "global_order": 1677,
+        "priority": "essential",
+        "dependencies": [1655],
+        "suggested_day": 36,
+        "repetition_weight": 1.3
+      }
+    },
+    {
+      "id": 1678,
+      "word": "quán bia",
+      "translation": "hospoda",
+      "romanization": "hos-po-da",
+      "category": "places",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 28,
+        "global_order": 1678,
+        "priority": "essential",
+        "dependencies": [1654],
+        "suggested_day": 36,
+        "repetition_weight": 1.4
+      }
+    },
+    {
+      "id": 1679,
+      "word": "thực đơn",
+      "translation": "jídelní lístek",
+      "romanization": "yee-del-nee lees-tek",
+      "category": "food",
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 29,
+        "global_order": 1679,
+        "priority": "core",
+        "dependencies": [1676],
+        "suggested_day": 36,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1680,
+      "word": "hóa đơn",
+      "translation": "účet",
+      "romanization": "oo-chet",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 30,
+        "global_order": 1680,
+        "priority": "core",
+        "dependencies": [1676],
+        "suggested_day": 36,
+        "repetition_weight": 1.4
+      }
+    },
+    {
+      "id": 1681,
+      "word": "đặt bàn",
+      "translation": "rezervace",
+      "romanization": "re-zer-va-tse",
+      "category": "food",
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 31,
+        "global_order": 1681,
+        "priority": "supplementary",
+        "dependencies": [1676],
+        "suggested_day": 37,
+        "repetition_weight": 1.1
+      }
+    },
+    {
+      "id": 1682,
+      "word": "ngon",
+      "translation": "dobré",
+      "romanization": "dob-ree",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 32,
+        "global_order": 1682,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 37,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1683,
+      "word": "tươi",
+      "translation": "čerstvé",
+      "romanization": "cher-stvee",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 33,
+        "global_order": 1683,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 37,
+        "repetition_weight": 1.1
+      }
+    },
+    {
+      "id": 1684,
+      "word": "nóng",
+      "translation": "horké",
+      "romanization": "hor-kee",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 34,
+        "global_order": 1684,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 37,
+        "repetition_weight": 1.3
+      }
+    },
+    {
+      "id": 1685,
+      "word": "lạnh",
+      "translation": "studené",
+      "romanization": "stu-de-nee",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 35,
+        "global_order": 1685,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 37,
+        "repetition_weight": 1.3
+      }
+    },
+    {
+      "id": 1686,
+      "word": "ngọt",
+      "translation": "sladké",
+      "romanization": "slad-kee",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 36,
+        "global_order": 1686,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 38,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1687,
+      "word": "mặn",
+      "translation": "slané",
+      "romanization": "sla-nee",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 37,
+        "global_order": 1687,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 38,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1688,
+      "word": "chua",
+      "translation": "kyselé",
+      "romanization": "ki-se-lee",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 38,
+        "global_order": 1688,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 38,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1689,
+      "word": "cay",
+      "translation": "pálivé",
+      "romanization": "paa-li-vee",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 39,
+        "global_order": 1689,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 38,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1690,
+      "word": "đắng",
+      "translation": "hořké",
+      "romanization": "horzh-kee",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 40,
+        "global_order": 1690,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 38,
+        "repetition_weight": 0.9
+      }
+    },
+    {
+      "id": 1691,
+      "word": "ăn",
+      "translation": "jíst",
+      "romanization": "yeest",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 41,
+        "global_order": 1691,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 39,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1692,
+      "word": "uống",
+      "translation": "pít",
+      "romanization": "peet",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 42,
+        "global_order": 1692,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 39,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1693,
+      "word": "nấu",
+      "translation": "vařit",
+      "romanization": "va-rzhit",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 43,
+        "global_order": 1693,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 39,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1694,
+      "word": "gọi món",
+      "translation": "objednat",
+      "romanization": "ob-yed-nat",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 44,
+        "global_order": 1694,
+        "priority": "core",
+        "dependencies": [1676],
+        "suggested_day": 39,
+        "repetition_weight": 1.4
+      }
+    },
+    {
+      "id": 1695,
+      "word": "trả tiền",
+      "translation": "platit",
+      "romanization": "pla-tit",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 45,
+        "global_order": 1695,
+        "priority": "core",
+        "dependencies": [1680],
+        "suggested_day": 39,
+        "repetition_weight": 1.4
+      }
+    },
+    {
+      "id": 1696,
+      "word": "đói",
+      "translation": "hladový",
+      "romanization": "hla-do-vee",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 46,
+        "global_order": 1696,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.3
+      }
+    },
+    {
+      "id": 1697,
+      "word": "khát",
+      "translation": "žíznivý",
+      "romanization": "zheez-ni-vee",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 47,
+        "global_order": 1697,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.3
+      }
+    },
+    {
+      "id": 1698,
+      "word": "no",
+      "translation": "sytý",
+      "romanization": "si-tee",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 48,
+        "global_order": 1698,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1699,
+      "word": "thích",
+      "translation": "mít rád",
+      "romanization": "meet raad",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 49,
+        "global_order": 1699,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.5
+      }
+    },
+    {
+      "id": 1700,
+      "word": "không thích",
+      "translation": "nemít rád",
+      "romanization": "ne-meet raad",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 50,
+        "global_order": 1700,
+        "priority": "core",
+        "dependencies": [1699],
+        "suggested_day": 40,
+        "repetition_weight": 1.4
+      }
+    },
+    {
+      "id": 1701,
+      "word": "nước cam",
+      "translation": "pomerančový džus",
+      "romanization": "po-me-ran-cho-vee joos",
+      "category": "food",
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 51,
+        "global_order": 1701,
+        "priority": "supplementary",
+        "dependencies": [1652],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1702,
+      "word": "rượu vang",
+      "translation": "víno",
+      "romanization": "vee-no",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 52,
+        "global_order": 1702,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.1
+      }
+    },
+    {
+      "id": 1703,
+      "word": "bánh ngọt",
+      "translation": "koláč",
+      "romanization": "ko-laach",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 53,
+        "global_order": 1703,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1704,
+      "word": "kem",
+      "translation": "zmrzlina",
+      "romanization": "zmrz-li-na",
+      "category": "food",
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 54,
+        "global_order": 1704,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1705,
+      "word": "khoai tây",
+      "translation": "brambory",
+      "romanization": "bram-bo-ri",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 55,
+        "global_order": 1705,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1706,
+      "word": "cà chua",
+      "translation": "rajče",
+      "romanization": "ray-che",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 56,
+        "global_order": 1706,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1707,
+      "word": "hành",
+      "translation": "cibule",
+      "romanization": "tsi-bu-le",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 57,
+        "global_order": 1707,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1708,
+      "word": "tỏi",
+      "translation": "česnek",
+      "romanization": "ches-nek",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 58,
+        "global_order": 1708,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1709,
+      "word": "táo",
+      "translation": "jablko",
+      "romanization": "yab-lko",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 59,
+        "global_order": 1709,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1710,
+      "word": "cam",
+      "translation": "pomeranč",
+      "romanization": "po-me-ranch",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 60,
+        "global_order": 1710,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1711,
+      "word": "chuối",
+      "translation": "banán",
+      "romanization": "ba-naan",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 61,
+        "global_order": 1711,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 0.9
+      }
+    },
+    {
+      "id": 1712,
+      "word": "dâu",
+      "translation": "jahoda",
+      "romanization": "ya-ho-da",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 62,
+        "global_order": 1712,
+        "priority": "optional",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 0.8
+      }
+    },
+    {
+      "id": 1713,
+      "word": "nho",
+      "translation": "hrozny",
+      "romanization": "hroz-ni",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 63,
+        "global_order": 1713,
+        "priority": "optional",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 0.8
+      }
+    },
+    {
+      "id": 1714,
+      "word": "dứa",
+      "translation": "ananas",
+      "romanization": "a-na-nas",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 64,
+        "global_order": 1714,
+        "priority": "optional",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 0.8
+      }
+    },
+    {
+      "id": 1715,
+      "word": "xoài",
+      "translation": "mango",
+      "romanization": "man-go",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 65,
+        "global_order": 1715,
+        "priority": "optional",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 0.8
+      }
+    },
+    {
+      "id": 1716,
+      "word": "thịt bò",
+      "translation": "hovězí",
+      "romanization": "ho-vye-zee",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 66,
+        "global_order": 1716,
+        "priority": "essential",
+        "dependencies": [1657],
+        "suggested_day": 40,
+        "repetition_weight": 1.1
+      }
+    },
+    {
+      "id": 1717,
+      "word": "xúc xích",
+      "translation": "klobása",
+      "romanization": "klo-baa-sa",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 67,
+        "global_order": 1717,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1718,
+      "word": "thịt nguội",
+      "translation": "šunka",
+      "romanization": "shun-ka",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 68,
+        "global_order": 1718,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1719,
+      "word": "bánh mì sandwich",
+      "translation": "sendvič",
+      "romanization": "send-vich",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 69,
+        "global_order": 1719,
+        "priority": "supplementary",
+        "dependencies": [1653],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1720,
+      "word": "xà lách",
+      "translation": "salát",
+      "romanization": "sa-laat",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 70,
+        "global_order": 1720,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1721,
+      "word": "dầu ăn",
+      "translation": "olej",
+      "romanization": "o-ley",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 71,
+        "global_order": 1721,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 0.9
+      }
+    },
+    {
+      "id": 1722,
+      "word": "giấm",
+      "translation": "ocet",
+      "romanization": "o-tset",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 72,
+        "global_order": 1722,
+        "priority": "optional",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 0.8
+      }
+    },
+    {
+      "id": 1723,
+      "word": "tương",
+      "translation": "sójová omáčka",
+      "romanization": "so-yo-vaa o-maach-ka",
+      "category": "food",
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 73,
+        "global_order": 1723,
+        "priority": "optional",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 0.8
+      }
+    },
+    {
+      "id": 1724,
+      "word": "mì Ý",
+      "translation": "těstoviny",
+      "romanization": "tyes-to-vi-ni",
+      "category": "food",
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 74,
+        "global_order": 1724,
+        "priority": "supplementary",
+        "dependencies": [1664],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1725,
+      "word": "bánh pizza",
+      "translation": "pizza",
+      "romanization": "pi-tsa",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 75,
+        "global_order": 1725,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 0.9
+      }
+    },
+    {
+      "id": 1726,
+      "word": "món chay",
+      "translation": "vegetariánské",
+      "romanization": "ve-ge-ta-ri-aan-skee",
+      "category": "food",
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 76,
+        "global_order": 1726,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1727,
+      "word": "nước sốt",
+      "translation": "omáčka",
+      "romanization": "o-maach-ka",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 77,
+        "global_order": 1727,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1728,
+      "word": "bánh bao",
+      "translation": "knedlík",
+      "romanization": "kned-leek",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 78,
+        "global_order": 1728,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.3
+      }
+    },
+    {
+      "id": 1729,
+      "word": "bột mì",
+      "translation": "mouka",
+      "romanization": "mou-ka",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 79,
+        "global_order": 1729,
+        "priority": "optional",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 0.8
+      }
+    },
+    {
+      "id": 1730,
+      "word": "mật ong",
+      "translation": "med",
+      "romanization": "med",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 80,
+        "global_order": 1730,
+        "priority": "optional",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 0.8
+      }
+    },
+    {
+      "id": 1731,
+      "word": "mứt",
+      "translation": "džem",
+      "romanization": "jem",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 81,
+        "global_order": 1731,
+        "priority": "optional",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 0.8
+      }
+    },
+    {
+      "id": 1732,
+      "word": "sốt cà chua",
+      "translation": "kečup",
+      "romanization": "ke-chup",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 82,
+        "global_order": 1732,
+        "priority": "optional",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 0.8
+      }
+    },
+    {
+      "id": 1733,
+      "word": "sốt mayonnaise",
+      "translation": "majonéza",
+      "romanization": "ma-yo-nee-za",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 83,
+        "global_order": 1733,
+        "priority": "optional",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 0.8
+      }
+    },
+    {
+      "id": 1734,
+      "word": "mù tạt",
+      "translation": "hořčice",
+      "romanization": "horzh-chi-tse",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 84,
+        "global_order": 1734,
+        "priority": "optional",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 0.8
+      }
+    },
+    {
+      "id": 1735,
+      "word": "đồ uống",
+      "translation": "nápoj",
+      "romanization": "naa-poy",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 85,
+        "global_order": 1735,
+        "priority": "core",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.4
+      }
+    },
+    {
+      "id": 1736,
+      "word": "món ăn",
+      "translation": "pokrm",
+      "romanization": "po-krm",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 86,
+        "global_order": 1736,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1737,
+      "word": "món khai vị",
+      "translation": "předkrm",
+      "romanization": "przhed-krm",
+      "category": "food",
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 87,
+        "global_order": 1737,
+        "priority": "supplementary",
+        "dependencies": [1736],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1738,
+      "word": "món chính",
+      "translation": "hlavní chod",
+      "romanization": "hlav-nee khod",
+      "category": "food",
+      "difficulty": 3,
+      "learning_order": {
+        "local_order": 88,
+        "global_order": 1738,
+        "priority": "supplementary",
+        "dependencies": [1736],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1739,
+      "word": "món tráng miệng",
+      "translation": "dezert",
+      "romanization": "de-zert",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 89,
+        "global_order": 1739,
+        "priority": "supplementary",
+        "dependencies": [1736],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1740,
+      "word": "thìa",
+      "translation": "lžíce",
+      "romanization": "lzhee-tse",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 90,
+        "global_order": 1740,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1741,
+      "word": "nĩa",
+      "translation": "vidlička",
+      "romanization": "vid-lich-ka",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 91,
+        "global_order": 1741,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1742,
+      "word": "dao",
+      "translation": "nůž",
+      "romanization": "noozh",
+      "category": "food",
+      "difficulty": 1,
+      "learning_order": {
+        "local_order": 92,
+        "global_order": 1742,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1743,
+      "word": "đĩa",
+      "translation": "talíř",
+      "romanization": "ta-leerzh",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 93,
+        "global_order": 1743,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1744,
+      "word": "cốc",
+      "translation": "sklenice",
+      "romanization": "skle-ni-tse",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 94,
+        "global_order": 1744,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1745,
+      "word": "tách",
+      "translation": "šálek",
+      "romanization": "shaa-lek",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 95,
+        "global_order": 1745,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1746,
+      "word": "chai",
+      "translation": "láhev",
+      "romanization": "laa-hev",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 96,
+        "global_order": 1746,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1747,
+      "word": "khăn ăn",
+      "translation": "ubrousek",
+      "romanization": "ub-rou-sek",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 97,
+        "global_order": 1747,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1748,
+      "word": "bếp",
+      "translation": "kuchyně",
+      "romanization": "ku-khi-nye",
+      "category": "places",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 98,
+        "global_order": 1748,
+        "priority": "essential",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.2
+      }
+    },
+    {
+      "id": 1749,
+      "word": "tủ lạnh",
+      "translation": "lednice",
+      "romanization": "led-ni-tse",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 99,
+        "global_order": 1749,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    },
+    {
+      "id": 1750,
+      "word": "lò nướng",
+      "translation": "trouba",
+      "romanization": "trou-ba",
+      "category": "food",
+      "difficulty": 2,
+      "learning_order": {
+        "local_order": 100,
+        "global_order": 1750,
+        "priority": "supplementary",
+        "dependencies": [],
+        "suggested_day": 40,
+        "repetition_weight": 1.0
+      }
+    }
+  ]
+}
